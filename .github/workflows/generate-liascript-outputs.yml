@@ -28,22 +28,28 @@ jobs:
         run: |
           npm install -g @liascript/exporter
 
-      # Step 4: Generate a PDF from README.md.
+      # Step 4: Generate a PDF from CURSO.md.
       - name: Generate PDF
         run: |
-          liaex -i project/README.md --format pdf --output documentation-${{ github.event.repository.name }} --pdf-timeout 50000
+          liaex -i project/CURSO.md --format pdf --output documentation-${{ github.event.repository.name }} --pdf-timeout 120000
 
       # Step 5: Generate a SCORM package.
       - name: Generate SCORM
         run: |
-          liaex -i project/README.md --format scorm2004 --output scorm-${{ github.event.repository.name }}
+          liaex -i project/CURSO.md --format scorm2004 --output scorm-${{ github.event.repository.name }}
 
       # Step 6: Generate an IMS package.
       - name: Generate IMS Package
         run: |
-          liaex -i project/README.md --format ims --output ims-${{ github.event.repository.name }}
+          liaex -i project/CURSO.md --format ims --output ims-${{ github.event.repository.name }}
 
       # Step 7: Create a new GitHub release for the generated assets.
+      - name: Delete existing 'latest' release (if any)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release delete latest -y --cleanup-tag --repo ${{ github.repository }} || true
+
       - name: Create New Release
         id: create_release
         uses: actions/create-release@v1
@@ -51,7 +57,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: 'latest'
-          release_name: 'Latest LiaScript Documentation'
+          release_name: 'Última documentación de LiaScript - ${{ github.event.repository.name }}'
           draft: false
           prerelease: false
 

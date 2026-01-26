@@ -15,3 +15,7 @@ parcel-bundle-reports
 
 # Project
 .vscode
+*.template.md
+*.raw.md
+!.github/workflows/*
+.github
