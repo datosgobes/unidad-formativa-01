@@ -35,7 +35,7 @@ import: https://raw.githubusercontent.com/LiaTemplates/Communica/0.0.2/README.md
 attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 -->
 
-# Datos abiertos: conceptos básicos y beneficios
+# Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
 <ul class="logo-list primary-logos">
 	<li><a href="https://digital.gob.es/ministerio/organigrama_organos/SEDIA.html"><img alt="Secretaría de Estado de Digitalización e Inteligencia Artificial" src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_sedia_red-es.jpg"></a></li>
