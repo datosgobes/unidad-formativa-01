@@ -72,7 +72,7 @@ liascript-devserver --open
 ### Editar el contenido
 
 1. El contenido principal está en [CURSO.md](CURSO.md)
-2. Puedes usar el [LiveEditor de LiaScript](https://liascript.github.io/liveeditor/) para editar en línea
+2. Puedes usar el [LiveEditor de LiaScript](https://liascript.github.io/LiveEditor/) para editar en línea
 3. O editar localmente con tu editor preferido y previsualizar con `liascript-devserver`
 
 ## Repositorio central

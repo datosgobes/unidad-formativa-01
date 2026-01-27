@@ -123,21 +123,17 @@ El curso incluye secciones con narración de audio. Puedes activar o desactivar 
 
 <a id="informacion-inicial"></a>
 
-**05/01/2026**
-
-**Unidad didáctica 1**
-
-### Título de la unidad
+<center>
+__Título de la unidad__
 
 ¿Qué son los datos abiertos? Conceptos básicos, principios y beneficios.
 
-### Descripción de la unidad
+__Descripción de la unidad__
 
 En esta unidad se presentan las definiciones de los conceptos básicos necesarios para comprender qué son los datos abiertos y cómo se utilizan. Se explican cuestiones clave como: qué son los datos, qué los convierte en abiertos, para qué sirven, qué son los datos abiertos públicos y qué implica su reutilización en el sector público. Además, se detallan los principios fundamentales que garantizan que los datos abiertos sean accesibles y fáciles de reutilizar. Finalmente, se exponen los beneficios que aporta la apertura de este recurso, tanto en el ámbito económico y social como en el marco del gobierno abierto y la transparencia.
+</center>
 
-## Vídeo descriptivo
-
-Puedes ver el siguiente video que describe la unidad:
+---
 
 !?[Vídeo descriptivo de la unidad](https://www.youtube.com/watch?v=UM9aGVdHuyU)
 
