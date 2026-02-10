@@ -66,7 +66,7 @@ git clone https://github.com/datosgobes/unidad-formativa-01.git
 cd unidad-formativa-01
 
 # Iniciar el servidor local
-liascript-devserver --open
+liascript-devserver --input .\CURSO.md --live
 ```
 
 ### Editar el contenido
