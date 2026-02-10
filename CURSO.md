@@ -587,7 +587,7 @@ Estos catálogos generalmente se presentan en forma de páginas web que almace
 
 Dado que el número de portales y repositorios continúa creciendo día a día, para facilitarla localización de datos, estos catálogos se consolidan a través de **meta-catálogos y agregadores**, que ofrecen una visión consolidada y estable de los distintos conjuntos y servicios de datos a través de un único punto de acceso común. Es el caso del [Catálogo nacional,](https://datos.gob.es/es/catalogo/conjuntos-datos) albergado en el portal de datos abiertos nacional (datos.gob.es) o del [Catálogo del portal europeo de datos](https://data.europa.eu/data/combined?locale=es), o de repositorios temáticos como los referidos en la imagen siguiente.
 
-<center>![Repositorios temáticos](media/image_008-001.jpg "Repositorios temáticos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Repositorios temáticos](media/image_008-002.jpg "Repositorios temáticos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
 <div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
   <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
