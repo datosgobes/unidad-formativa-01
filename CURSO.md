@@ -110,7 +110,10 @@ Al finalizar cada sección, tendrás la oportunidad de responder preguntas para 
   <div style="font-size:2em; margin-bottom:0.5rem;">📋</div>
   <h4 style="margin:0 0 0.5rem 0;">Cuestionario Final</h4>
   <p style="margin:0 0 1rem 0; color:#666;">Evalúa tus conocimientos sobre datos abiertos</p>
-  <a href="#cuestionario-final" style="background:#154481; color:white; padding:0.5rem 1.5rem; border-radius:6px; text-decoration:none; font-weight:600;">
+  <a href="#cuestionario-final" 
+     style="background:#154481; color:white; padding:0.5rem 1.5rem; border-radius:6px; text-decoration:none; font-weight:600; display:inline-block; transition:all 0.3s ease;"
+     onmouseover="this.style.background='#0d2d5a'; this.style.transform='scale(1.05)';"
+     onmouseout="this.style.background='#154481'; this.style.transform='scale(1)';">
     ▶️ Ir al cuestionario
   </a>
 </div>
