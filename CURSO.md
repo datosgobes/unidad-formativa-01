@@ -196,7 +196,7 @@ Comenzamos presentando los **objetivos didácticos** de esta unidad:
 
 {{6}} **[RESUMEN](#resumen)**
 
-{{7}} **[SABER MÁS](#saber-mas)**
+{{7}} **[CONTACTO](#contacto)**
 
 </div>
 
@@ -1592,8 +1592,8 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 
 *************************************************************************************************************
 
-<!-- id="saber-mas" -->
-## SABER MÁS
+<!-- id="contacto" -->
+## CONTACTO
 
 {{|>}}
 *************************************************************************************************************
