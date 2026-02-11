@@ -842,7 +842,7 @@ En 2007, [una treintena de defensores del gobierno abierto](https://public.resou
 		<p style="margin:0.25rem 0 0.5rem 0;">
 			En el siguiente esquema se presenta un ejemplo de cómo interpretar los principios básicos referidos, aplicados a <strong>datos sobre accidentes de tráfico</strong>:
 		</p>
-		<center><img src="media/image_019.png" alt="Principios Open Government Data" title="Principios Open Government Data. Fuente: datos.gob.es"></center>
+		<center><img src="media/image_019.jpg" alt="Principios Open Government Data" title="Principios Open Government Data. Fuente: datos.gob.es"></center>
 	</div>
 </div>
 
@@ -1565,8 +1565,18 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 {{|>}}
 *************************************************************************************************************
 
-> * Las administraciones públicas están **impulsando políticas de “datos abiertos”** para apoyar el **nuevo modelo de relación administración-ciudadanía** que favorezca a esta última su participación en la toma de decisiones de una forma más directa.
-> * Los datos abiertos deben tener en cuenta unos **principios generales** que aseguren que los datos pueden ser fácilmente utilizables, reutilizables y redistribuibles.
-> * Las políticas de datos abiertos tienen **beneficios** para las propias administraciones, para la economía y la ciudadanía.
+> * Los datos se han convertido en un **activo fundamental** para personas, organizaciones y administraciones públicas, siendo el factor diferencial de la revolución tecnológica actual.
+> * Los **datos abiertos** son aquellos que cualquiera puede utilizar, reutilizar y redistribuir libremente, con el único requisito de atribución de la fuente.
+> * Las administraciones públicas están **impulsando políticas de "datos abiertos"** para apoyar el **nuevo modelo de relación administración-ciudadanía** que favorezca a esta última su participación en la toma de decisiones de una forma más directa.
+> * Existen **conceptos clave** diferenciados: dato, conjunto de datos, distribución, metadatos, catálogo, servicio de datos (API) y espacio de datos, cada uno con un rol específico en el ecosistema de datos abiertos.
+> * Los **datos de alto valor (HVD)** abarcan seis categorías definidas por la Comisión Europea: geoespaciales, observación de la Tierra y medio ambiente, meteorológicos, estadísticos, empresariales y movilidad.
+> * Los datos abiertos deben tener en cuenta unos **principios generales** que aseguren que los datos pueden ser fácilmente utilizables, reutilizables y redistribuibles:
+>   * **Principios OGD**: completos, primarios, oportunos, accesibles, procesables, no discriminatorios, no propietarios y de licencia libre.
+>   * **Principios FAIR**: encontrables, accesibles, interoperables y reutilizables.
+> * Las políticas de datos abiertos tienen **beneficios** para las propias administraciones, para la economía y la ciudadanía:
+>   * **Económicos**: impulsan la innovación, crean empleo, generan nuevos productos y servicios, y son especialmente valiosos para PYMEs y startups.
+>   * **Sociales**: promueven la transparencia, facilitan el periodismo de datos, mejoran servicios públicos y fomentan la participación ciudadana.
+>   * **Para la Administración**: mejoran la reputación institucional, optimizan recursos, generan ahorros económicos y favorecen la colaboración público-privada.
+> * Los datos abiertos son **pieza clave** para nuevos nichos de valor como la **inteligencia artificial** y los **espacios de datos** europeos sectoriales.
 
 *************************************************************************************************************
