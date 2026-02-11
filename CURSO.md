@@ -106,7 +106,14 @@ Puedes navegar el curso a través del índice de la parte izquierda o usando las
 {{2}}
 Al finalizar cada sección, tendrás la oportunidad de responder preguntas para comprobar tu aprendizaje. Estas actividades solo están disponibles en la versión LiaScript, no en Markdown estándar.
 
-??[Cuestionario](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#cuestionario-final)
+<div style="background:#f8fafc; border:2px solid #154481; border-radius:12px; padding:1.5rem; text-align:center; margin:1rem 0;">
+  <div style="font-size:2em; margin-bottom:0.5rem;">📋</div>
+  <h4 style="margin:0 0 0.5rem 0;">Cuestionario Final</h4>
+  <p style="margin:0 0 1rem 0; color:#666;">Evalúa tus conocimientos sobre datos abiertos</p>
+  <a href="#cuestionario-final" style="background:#154481; color:white; padding:0.5rem 1.5rem; border-radius:6px; text-decoration:none; font-weight:600;">
+    ▶️ Ir al cuestionario
+  </a>
+</div>
 
 {{3}}
 
