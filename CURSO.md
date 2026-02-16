@@ -43,104 +43,108 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
   <li><a href="https://datos.gob.es/acerca-de-la-iniciativa-aporta"><img alt="Iniciativa Aporta" src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_iniciativa-aporta.svg"></a></li>
 </ul>
 
-[preview-lia](https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/README.md)
+<div style="background:#ffffff; border:2px solid #154481; border-radius:12px; box-shadow:0 4px 12px rgba(21,68,129,0.15); margin:2rem 0; overflow:hidden;">
 
-<div style="text-align:center; margin: 1.5em 0 1em 0;">
-	<div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap; margin-bottom:0.75rem;">
-		<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#3" class="pdf-download-btn" style="font-size:1.75em; padding:1rem 1.6rem; font-weight:800;">
-      ▶️ Empezar curso
-    </a>
+  <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:1.5rem 2rem; text-align:center;">
+    <h2 style="margin:0; font-size:1.6em; font-weight:700; font-family:'Montserrat', sans-serif;">Datos abiertos: conceptos básicos y beneficios</h2>
   </div>
-  <div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap; margin-bottom:0.5rem;">
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" class="pdf-download-btn" style="font-size:0.95em; padding:0.55rem 0.9rem; background:#6b7280; color:#ffffff;">
-      📄 PDF
-    </a>
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" class="pdf-download-btn" style="font-size:0.95em; padding:0.55rem 0.9rem; background:#6b7280; color:#ffffff;">
-      📦 SCORM
-    </a>
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" class="pdf-download-btn" style="font-size:0.95em; padding:0.55rem 0.9rem; background:#6b7280; color:#ffffff;">
-      📚 IMS
-    </a>
+
+  <table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed; border-bottom:2px solid #154481;">
+    <tr style="border-bottom:1px solid #e0e7ef;">
+      <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">📋</td>
+      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Descripción:</strong> La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.</td>
+    </tr>
+    <tr style="border-bottom:1px solid #e0e7ef;">
+      <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">👥</td>
+      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Público objetivo:</strong> publicadores y <u>reutilizadores</u> de datos abiertos, así como cualquier persona interesada en esta materia.</td>
+    </tr>
+    <tr>
+      <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🎓</td>
+      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Conocimientos previos:</strong> no se precisan</td>
+    </tr>
+  </table>
+
+  <div style="display:flex; flex-wrap:wrap; border-bottom:2px solid #154481;">
+    <div style="flex:1; min-width:300px; border-right:2px solid #154481;">
+      <div style="display:flex; border-bottom:1px solid #e0e7ef;">
+        <div style="width:80px; display:flex; align-items:center; justify-content:center; background:#f8fafc; border-right:1px solid #e0e7ef; padding:0.75rem; flex-shrink:0;">
+          <span style="font-size:1.5em;">🎯</span>
+        </div>
+        <div style="padding:0.75rem 1rem; flex:1;">
+          <strong style="color:#154481; font-size:1.1em;">Objetivos</strong>
+        </div>
+      </div>
+      <div style="padding:1rem 1.25rem;">
+        <ul style="margin:0; padding-left:1.25rem; line-height:1.7;">
+          <li>Establecer <strong>conceptos básicos</strong> relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.</li>
+          <li>Reconocer los <strong>principios generales</strong> a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.</li>
+          <li>Descubrir los principales <strong>beneficios económicos y sociales</strong> que supone la apertura de datos públicos.</li>
+          <li>Conocer los <strong>aspectos clave ligados al ecosistema de los datos</strong> de cara a asegurar la generación de los beneficios apuntados.</li>
+        </ul>
+      </div>
+    </div>
+    <div style="flex:1; min-width:300px;">
+      <div style="display:flex; border-bottom:1px solid #e0e7ef;">
+        <div style="width:80px; display:flex; align-items:center; justify-content:center; background:#f8fafc; border-right:1px solid #e0e7ef; padding:0.75rem; flex-shrink:0;">
+          <span style="font-size:1.5em;">📑</span>
+        </div>
+        <div style="padding:0.75rem 1rem; flex:1;">
+          <strong style="color:#154481; font-size:1.1em;">Contenidos</strong>
+        </div>
+      </div>
+      <div style="padding:1rem 1.25rem;">
+        <ol style="margin:0; padding-left:1.25rem; line-height:1.7;">
+          <li>Introducción</li>
+          <li>Conceptos clave
+            <ul style="margin:0.25rem 0; padding-left:1.25rem;">
+              <li>Bloque I: conceptos básicos</li>
+              <li>Bloque II: conceptos relacionados con la publicación</li>
+              <li>Bloque III: conceptos relacionados con la reutilización</li>
+            </ul>
+          </li>
+          <li>Principios generales de los datos abiertos</li>
+          <li>Beneficios de los datos abiertos
+            <ul style="margin:0.25rem 0; padding-left:1.25rem;">
+              <li>Beneficios económicos</li>
+              <li>Beneficios sociales</li>
+              <li>Beneficios para las Administraciones</li>
+            </ul>
+          </li>
+        </ol>
+      </div>
+    </div>
   </div>
-  <div style="font-size:0.95em; color:#446DA2;">Empezar el curso o descargar documentación</div>
+<table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed;">
+<tr style="border-bottom:1px solid #e0e7ef;">
+<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">💡</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Guía de uso:</strong> en el <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md#tutorial" style="font-weight:600;">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</td>
+</tr>
+<tr style="border-bottom:1px solid #e0e7ef;">
+<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🏷️</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Versión:</strong> v1.0.1</td>
+</tr>
+</table>
+<div style="background:#f8fafc; border-top:2px solid #154481; padding:1.5rem; text-align:center;">
+<div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap; margin-bottom:0.75rem;">
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#3" class="pdf-download-btn" style="font-size:1.75em; padding:1rem 1.6rem; font-weight:800;">
+▶️ Empezar curso
+</a>
 </div>
-
-<div style="background:#ebf3ff; border-left:4px solid rgb(var(--color-highlight)); padding:1rem 1rem; border-radius:8px; color:var(--color-highlight);">
-  <p style="margin:0.5rem 0 0.25rem 0;text-align:center;">
-    Esta unidad ha sido elaborada en el marco de la <a href="https://datos.gob.es/es/que-hacemos" target="_blank" rel="noopener">Iniciativa Aporta (datos.gob.es)</a>, desarrollada por el <a href="https://digital.gob.es/" target="_blank" rel="noopener">Ministerio para la Transformación Digital y de la Función Pública</a> a través de la <a href="https://www.red.es/" target="_blank" rel="noopener">Entidad Pública Empresarial Red.es</a>
-  </p>
-  <br>
-  <div style="text-align:center;">
-    <strong style="font-size:1.05em;">📝 Aviso legal</strong>
-  </div>
-  <p style="margin:0.5rem 0 0.25rem 0;text-align:center;">
-    Esta obra está sujeta a una licencia Atribución 4.0 de Creative Commons (CC BY 4.0). Está permitida su reproducción, distribución, comunicación pública y transformación para generar una obra derivada, sin ninguna restricción, siempre que se cite al titular de los derechos (<i>Ministerio para la Transformación Digital y de la Función Pública a través de la Entidad Pública Empresarial Red.es</i>). La licencia completa se puede consultar en: <a href="https://creativecommons.org/licenses/by/4.0" target="_blank" rel="noopener">Attribution 4.0 International</a>
-  </p>
+<div style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin-bottom:0.5rem;border:none;">
+<a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">
+📄 PDF
+</a>
+<a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">
+📦 SCORM
+</a>
+<a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">
+📚 IMS
+</a>
 </div>
-
-## TUTORIAL
-
-{{|>}}
-*************************************************************************************************************
-
-
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-		⚠️ Aviso
-	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
-			Este curso está diseñado en <a href="https://liascript.github.io/" target="_blank" rel="noopener">LiaScript</a>. Para disfrutarlo con todas sus funcionalidades, accede a <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md" target="_blank" rel="noopener">este enlace</a>.
-			</p>
-			<p style="margin:0;">
-			Para conocer más sobre el formato Markdown utilizado por LiaScript, consulta la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md" target="_blank" rel="noopener">documentación oficial</a>.
-		</p>
-	</div>
+<div style="font-size:0.85em; color:#666;">Empezar el curso o descargar documentación</div>
 </div>
-
-{{1}}
-Puedes navegar el curso a través del índice de la parte izquierda o usando las flechas de navegación del teclado o de la parte inferior de la web.
-
-![Navegación del curso](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_sections.png)
-
-{{2}}
-Al finalizar cada sección, tendrás la oportunidad de responder preguntas para comprobar tu aprendizaje. Estas actividades solo están disponibles en la versión LiaScript, no en Markdown estándar.
-
-<div style="background:#f8fafc; border:2px solid #154481; border-radius:12px; padding:1.5rem; text-align:center; margin:1rem 0;">
-  <div style="font-size:2em; margin-bottom:0.5rem;">📋</div>
-  <h4 style="margin:0 0 0.5rem 0;">Cuestionario Final</h4>
-  <p style="margin:0 0 1rem 0; color:#666;">Evalúa tus conocimientos sobre datos abiertos</p>
-  <a href="#cuestionario-final" 
-     style="background:#154481; color:white; padding:0.5rem 1.5rem; border-radius:6px; text-decoration:none; font-weight:600; display:inline-block; transition:all 0.3s ease;"
-     onmouseover="this.style.background='#0d2d5a'; this.style.transform='scale(1.05)';"
-     onmouseout="this.style.background='#154481'; this.style.transform='scale(1)';">
-    ▶️ Ir al cuestionario
-  </a>
+  
 </div>
-
-{{3}}
-
-Recursos disponibles:
-
-- <span class="res res-fuente">📖 <strong>Fuente</strong></span>: origen de la definición o de la información que respalda el concepto o información que se está presentando.
-- <span class="res res-ejemplo">💡 <strong>Ejemplo</strong></span>: casos concretos que facilitan la comprensión.
-- <span class="res res-aviso">⚠️ <strong>Aviso</strong></span>: consejo o dato práctico para entender lo presentado.
-- <span class="res res-mas-info">ℹ️ <strong>Más información</strong></span>: material de relevancia que complementa lo explicado.
-- <span class="res res-saber">🔍 <strong>Saber más</strong></span>: referencias y documentos adicionales.
-- <span class="res res-caso">🧪 <strong>Caso de estudio</strong></span>: casos reales para afianzar conocimientos.
-- <span class="res res-ejercicio">✏️ <strong>Ejercicio</strong></span>: actividades para aplicar los conocimientos adquiridos.
-
-{{4}}
-Existe la opción de seleccionar otro idioma para el curso usando la traducción -si existe aparecen listados- o seleccionando el servicio de traducción automática con un solo clic. Ten presente que la traducción automática puede contener errores o interpretaciones incorrectas de algunos conceptos.
-
-![Botón para traducir el contenido](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_translate.png)
-
-{{5}}
-El curso incluye secciones con narración de audio. Puedes activar o desactivar la narración utilizando el botón situado en la parte superior de cada página.
-
-![Ejemplo de narración de una página](https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/media/tutorial_dge_audio.png)
-
-*************************************************************************************************************
 
 ## INFORMACIÓN INICIAL
 
@@ -160,67 +164,6 @@ La unidad ofrece una visión general de qué son los datos abiertos, cómo se us
 ---
 
 !?[Vídeo descriptivo de la unidad](https://www.youtube.com/watch?v=UM9aGVdHuyU)
-
-*************************************************************************************************************
-
-## OBJETIVOS DIDÁCTICOS
-
-{{|>}}
-*************************************************************************************************************
-
-Comenzamos presentando los **objetivos didácticos** de esta unidad:
-
-> - Establecer **conceptos básicos** relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.
-> - Reconocer los **principios generales** a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.
-> - Descubrir los principales **beneficios económicos y sociales** que supone la apertura de datos públicos.
-> - Conocer los **aspectos clave ligados al ecosistema de los datos** de cara a asegurar la generación de los beneficios apuntados.
-
-*************************************************************************************************************
-
-## CONTENIDOS
-
-{{|>}}
-*************************************************************************************************************
-
-<div style="margin-left: 3rem;">
-
-{{1}} **[INTRODUCCIÓN](#introducción)**  
-
-{{2}} **[CONCEPTOS CLAVE](#conceptos-clave)** 
-
-{{3}} **[PRINCIPIOS DE APERTURA DE DATOS](#principios)**  
-
-{{4}} **[BENEFICIOS DE LA REUTILIZACIÓN DE DATOS ABIERTOS](#beneficios)** 
-
-{{5}} **[CUESTIONARIO FINAL](#cuestionario-final)**  
-
-{{6}} **[RESUMEN](#resumen)**
-
-{{7}} **[CONTACTO](#contacto)**
-
-</div>
-
-*************************************************************************************************************
-
-## PÚBLICO OBJETIVO
-
-{{|>}}
-*************************************************************************************************************
-
-Esta unidad formativa está dirigida a:
-
-> - [x] Publicadores de datos abiertos y reutilizadores de los mismos.
-
-*************************************************************************************************************
-
-## CONOCIMIENTOS PREVIOS NECESARIOS
-
-{{|>}}
-*************************************************************************************************************
-
-Para poder asimilar los conceptos que vamos a desarrollar en la unidad:
-
-> - [x] No se precisan conocimientos previos.
 
 *************************************************************************************************************
 
@@ -785,7 +728,7 @@ Se sustenta en tres pilares básicos:
 <div style="background:#ffffff; border:2px solid #154481; border-radius:12px; box-shadow:0 2px 8px rgba(21,68,129,0.15); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:1rem 1.5rem; display:flex; align-items:center; gap:0.75rem;">
     <div style="font-size:1.5em;">✏️</div>
-    <h4 style="margin:0; font-size:1.3em; font-weight:600;">Ejercicio</h4>
+    <h4 style="margin:0; font-size:1.3em; font-weight:600; font-family:'Montserrat', sans-serif;">Ejercicio</h4>
   </div>
   <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
     <p style="margin:0; font-size:1em; color:#333; line-height:1.6;">
@@ -935,7 +878,7 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
 <div style="background:#ffffff; border:2px solid #154481; border-radius:12px; box-shadow:0 2px 8px rgba(21,68,129,0.15); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:1rem 1.5rem; display:flex; align-items:center; gap:0.75rem;">
     <div style="font-size:1.5em;">✏️</div>
-    <h4 style="margin:0; font-size:1.3em; font-weight:600;">Ejercicio</h4>
+    <h4 style="margin:0; font-size:1.3em; font-weight:600; font-family:'Montserrat', sans-serif;">Ejercicio</h4>
   </div>
   <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
     <p style="margin:0; font-size:1em; color:#333; line-height:1.6;">
@@ -996,12 +939,12 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #ac2624 0%, #333334 100%); color:#ffffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Meteogrid</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Meteogrid</h3>
   </div>
   <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿A qué se dedican?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
         <p style="margin:0; line-height:1.6;">
           <strong>Meteogrid</strong> nace en 2004, una SME especializados en la <strong>lucha contra incendios y protección civil.</strong> Entre otras actividades, la compañía ofrece <strong>servicios de asesoría diaria a los</strong> cuerpos de protección civil y bomberos en incendios forestales sobre <strong>comportamiento del fuego en base a las condiciones meteorológicas.</strong>
         </p>
@@ -1010,7 +953,7 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
         <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
           <li>Telemetría LIDAR vuelo PNOA (Plan Nacional de Ortofotografía Aérea)</li>
           <li>Inventario Forestal Nacional (IFN3)</li>
@@ -1031,12 +974,12 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #84c7cc 0%, #02828d 100%); color:#ffffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Hispatec Agrointeligencia</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Hispatec Agrointeligencia</h3>
   </div>
   <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿A qué se dedican?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
         <p style="margin:0; line-height:1.6;">
           <strong>Hispatec Agrointeligencia</strong> es una compañía que trabaja en pro de sacar la inteligencia de los datos para el <strong>sector agro.</strong>
         </p>
@@ -1045,7 +988,7 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
         <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
           <li>Datos del proyecto Copérnico</li>
           <li>Precios coyunturales de productos agrícolas y ganaderos</li>
@@ -1066,12 +1009,12 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #e1f56f 0%, #010900 100%); color:#ffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Idealista</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Idealista</h3>
   </div>
   <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿A qué se dedican?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
         <p style="margin:0; line-height:1.6;">
           <strong>Idealista</strong> facilita un <strong>espacio para que los usuarios puedan publicar, o buscar, anuncios de venta o alquiler de inmuebles</strong>. También ofrecen otros servicios relacionados con el sector inmobiliario, como <strong>valoraciones de viviendas</strong> o el <strong>servicio de certificación energética</strong>.
         </p>
@@ -1080,7 +1023,7 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
         <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
           <li>Datos del Catastro</li>
           <li>Datos del Instituto Nacional de Estadística</li>
@@ -1167,12 +1110,12 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #f9ec45 0%, #1e3c85 100%); color:#ffffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Park4Dis</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Park4Dis</h3>
   </div>
   <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿A qué se dedican?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
         <p style="margin:0; line-height:1.6;">
           Proyecto para <strong>ayudar a conductores con movilidad reducida</strong> en Europa y a todas las familias de personas con discapacidad, para tener mayor autonomía y poder desplazarse sin barreras añadidas.
         </p>
@@ -1181,7 +1124,7 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
         <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
           <li>Datos proporcionados por ayuntamientos para mapear y localizar plazas de aparcamiento para personas con movilidad reducida</li>
           <li>Datos de normativas locales de tráfico</li>
@@ -1201,12 +1144,12 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #00266f 0%, #00ffa6 100%); color:#ffffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Civio</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Civio</h3>
   </div>
   <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿A qué se dedican?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
         <p style="margin:0; line-height:1.6;">
           Organización sin ánimo de lucro que <strong>promueve la transparencia de las instituciones y el fácil acceso a la información pública mediante la tecnología y el periodismo</strong>.
         </p>
@@ -1215,7 +1158,7 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
         <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
           <li>Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas</li>
           <li>Datos del proyecto Copérnico</li>
@@ -1236,12 +1179,12 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #f7f7f7 0%, #000000 100%); color:#ffffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Datadista</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Datadista</h3>
   </div>
   <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿A qué se dedican?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
         <p style="margin:0; line-height:1.6;">
           <strong>Datadista</strong> es un medio de comunicación digital español especializado en <strong>periodismo de investigación, periodismo de datos y nuevas narrativas</strong>.
         </p>
@@ -1250,7 +1193,7 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+        <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
         <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
           <li>Datos del Instituto Nacional de Estadística</li>
           <li>Boletín Oficial del Estado</li>
@@ -1301,11 +1244,11 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #ba283b 0%, #ce9aca 100%); color:#ffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Datahub energético de Castilla y León</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Datahub energético de Castilla y León</h3>
   </div>
   <div style="padding:1.5rem;">
     <div style="margin-bottom:1.5rem;">
-      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿En qué consiste y qué beneficios aporta?</h4>
+      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿En qué consiste y qué beneficios aporta?</h4>
       <p style="margin:0; line-height:1.6;">
         El Datahub energético de la Junta es un <strong>ejercicio de transparencia</strong> de la Administración de Castilla y León. Consiste en un compendio de información energética informatizada a través de una herramienta para la <strong>optimización energética</strong> de edificios de la administración autónoma.
       </p>
@@ -1314,7 +1257,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
       </p>
     </div>
     <div style="margin-bottom:1.5rem;">
-      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
       <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
         <li>Sistema de Información de Puntos de Suministros (SIPS) de electricidad y el SIPS de gas natural canalizado</li>
         <li>Relación de edificios e instalaciones de la comunidad autónoma con su ubicación y coordenadas GPS, superficie, etc.</li>
@@ -1331,11 +1274,11 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #8b9523 0%, #203b03 100%); color:#ffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Smart Agro-Recomendaciones de Riego</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Smart Agro-Recomendaciones de Riego</h3>
   </div>
   <div style="padding:1.5rem;">
     <div style="margin-bottom:1.5rem;">
-      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿En qué consiste y qué beneficios aporta?</h4>
+      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿En qué consiste y qué beneficios aporta?</h4>
       <p style="margin:0; line-height:1.6;">
         Smart Agro-Recomendaciones de Riego es una herramienta digital desarrollada por el Cabildo de La Palma con el objetivo es mejorar la <strong>eficiencia del uso del agua</strong> en la agricultura local, especialmente para cultivos de plátano y aguacate.
       </p>
@@ -1347,7 +1290,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
       </p>
     </div>
     <div style="margin-bottom:1.5rem;">
-      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
       <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
         <li>Datos de la red insular de estaciones meteorológicas</li>
         <li>Datos de evapotranspiración (ETo)</li>
@@ -1364,11 +1307,11 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #5e605f 0%, #fdd100 100%); color:#ffff; padding:1.5rem; text-align:center;">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">Spain By Bike</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">Spain By Bike</h3>
   </div>
   <div style="padding:1.5rem;">
     <div style="margin-bottom:1.5rem;">
-      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿En qué consiste y qué beneficios aporta?</h4>
+      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿En qué consiste y qué beneficios aporta?</h4>
       <p style="margin:0; line-height:1.6;">
         Spain By Bike es una plataforma especializada en <strong>turismo ciclista por España</strong> desarrollada Instituto Geográfico Nacional (IGN) y el Centro Nacional de Información Geográfica (CNIG). Presenta una amplia variedad de rutas ciclistas por regiones, adaptadas a distintos niveles y estilos: desde recorridos tranquilos por vías verdes hasta desafíos de montaña. A través de una herramienta interactiva, los usuarios pueden ver el itinerario, la ubicación, la dificultad, la distancia, etc. Además, ofrece servicios complementarios como alquiler de bicicletas, transporte de equipaje, alojamiento y asistencia técnica.
       </p>
@@ -1380,7 +1323,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
       </p>
     </div>
     <div style="margin-bottom:1.5rem;">
-      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem;">¿Qué datos abiertos utilizan?</h4>
+      <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿Qué datos abiertos utilizan?</h4>
       <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
         <li>Geoespaciales y cartográficos</li>
         <li>Rutas ciclistas e itinerario</li>
@@ -1418,7 +1361,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 <div style="background:#ffffff; border:2px solid #154481; border-radius:12px; box-shadow:0 2px 8px rgba(21,68,129,0.15); margin:1.5rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:1rem 1.5rem; display:flex; align-items:center; gap:0.75rem;">
     <div style="font-size:1.5em;">✏️</div>
-    <h4 style="margin:0; font-size:1.3em; font-weight:600;">Ejercicio</h4>
+    <h4 style="margin:0; font-size:1.3em; font-weight:600; font-family:'Montserrat', sans-serif;">Ejercicio</h4>
   </div>
   <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
     <p style="margin:0; font-size:1em; color:#333; line-height:1.6;">
@@ -1478,7 +1421,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 <div style="background:#ffffff; border:2px solid #154481; border-radius:16px; box-shadow:0 4px 12px rgba(147,51,234,0.2); margin:2rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:2rem; text-align:center;">
     <div style="font-size:3em; margin-bottom:0.5rem;">📋</div>
-    <h3 style="margin:0; font-size:2em; font-weight:700; text-transform:uppercase; letter-spacing:1px;">Cuestionario Final</h3>
+    <h3 style="margin:0; font-size:2em; font-weight:700; text-transform:uppercase; letter-spacing:1px; font-family:'Montserrat', sans-serif;">Cuestionario Final</h3>
     <p style="margin:0.75rem 0 0 0; font-size:1.1em; opacity:0.95;">Evalúa tus conocimientos sobre datos abiertos</p>
   </div>
   <div style="padding:1.5rem 2rem; background:linear-gradient(to bottom, #faf5ff 0%, #ffffff 100%);">
@@ -1601,7 +1544,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 <div style="background:#ffffff; border:2px solid #154481; border-radius:16px; box-shadow:0 4px 12px rgba(21,68,129,0.2); margin:2rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:2rem; text-align:center;">
     <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_iniciativa-aporta.svg" alt="Iniciativa Aporta" style="height:60px; margin-bottom:1rem; filter:brightness(0) invert(1);">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700;">¿Quieres saber más sobre la Iniciativa Aporta?</h3>
+    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">¿Quieres saber más sobre la Iniciativa Aporta?</h3>
     <p style="margin:0.75rem 0 0 0; font-size:1.05em; opacity:0.9;">Descubre todo el potencial de los datos abiertos en España</p>
   </div>
   <div style="padding:1.5rem 2rem; background:linear-gradient(to bottom, #f0f7ff 0%, #ffffff 100%);">
