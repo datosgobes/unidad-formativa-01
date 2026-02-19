@@ -195,6 +195,9 @@ Los datos procedentes de múltiples ámbitos —geográfico, medioambiental, met
 
 Como punto de partida se definen los conceptos básicos que se manejan al hablar de datos en general y de datos abiertos en particular. Se toma como referencia el marco legislativo vigente en España.
 
+<center>![Conceptos clave de datos abiertos](media/image_001.jpg "Conceptos clave de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+
+
 *************************************************************************************************************
 
 ### Bloque I: Conceptos básicos
@@ -226,7 +229,7 @@ Los datos pueden ser **estructurados** y **no estructurados**:
 	</div>
 </div>
 
-<center>![Datos, información y conocimiento](media/image_003.png "Datos, información y conocimiento. Fuente: Shutterstock. Créditos: Anna Frajtova")</center>
+<center>![Datos, información y conocimiento](media/image_003.jpg "Datos, información y conocimiento. Fuente: Shutterstock. Créditos: Anna Frajtova")</center>
 
 **Datos abiertos:** cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)
 
@@ -769,6 +772,8 @@ Se sustenta en tres pilares básicos:
 Para garantizar que los datos abiertos sean fácilmente utilizables, reutilizables y redistribuibles, es necesario cumplir con una serie de principios reconocidos internacionalmente. Estos principios constituyen el marco de referencia que orienta a las organizaciones en la publicación de datos abiertos.
 
 Aunque en la literatura se identifican diversos enfoques, existen dos marcos de referencia considerados fundamentales, los cuales se presentan a continuación.
+
+<center>![Conceptos de apertura de datos](media/image_002.jpg "Conceptos de apertura de datos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
 *************************************************************************************************************
 
