@@ -28,9 +28,7 @@ link: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1
 
 font: Montserrat
 
-import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
-import: https://raw.githubusercontent.com/LiaTemplates/Communica/0.0.2/README.md
 
 attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 -->
@@ -46,7 +44,7 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 <div style="background:#ffffff; border:2px solid #154481; border-radius:12px; box-shadow:0 4px 12px rgba(21,68,129,0.15); margin:2rem 0; overflow:hidden;">
 
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:1.5rem 2rem; text-align:center;">
-    <h2 style="margin:0; font-size:1.6em; font-weight:700; font-family:'Montserrat', sans-serif;">Datos abiertos: conceptos básicos y beneficios</h2>
+    <h2 style="margin:0; font-size:1.6em; font-weight:700; ">Datos abiertos: conceptos básicos y beneficios</h2>
   </div>
 
   <table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed; border-bottom:2px solid #154481;">
@@ -195,7 +193,7 @@ Los datos procedentes de múltiples ámbitos —geográfico, medioambiental, met
 
 Como punto de partida se definen los conceptos básicos que se manejan al hablar de datos en general y de datos abiertos en particular. Se toma como referencia el marco legislativo vigente en España.
 
-<center>![Conceptos clave de datos abiertos](media/image_001.jpg "Conceptos clave de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Conceptos clave de datos abiertos](media/conceptos.jpg "Conceptos clave de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
 
 *************************************************************************************************************
@@ -205,33 +203,40 @@ Como punto de partida se definen los conceptos básicos que se manejan al hablar
 {{|>}}
 *************************************************************************************************************
 
-**Dato:** toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+<div class="concepto">
+		Dato
+</div>
+Toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
 
 Los datos pueden ser **estructurados** y **no estructurados**:
 
-- **Estructurados**: tienen bien definidos su longitud y su formato, como las fechas, los números o las cadenas de caracteres. Se almacenan en tablas.
-- **No estructurados**: carecen de un formato específico. No se pueden almacenar dentro de una tabla.
+- **Estructurados**: tienen bien definidos su longitud y su formato, como las fechas, los números o las cadenas de caracteres. Se almacenan en tablas. Un ejemplo son las bases de datos relacionales y las hojas de cálculo. 
+- **No estructurados**: carecen de un formato específico. No se pueden almacenar dentro de una tabla, ya que su información no se puede desgranar en tipos básicos de datos. Algunos ejemplos son los ficheros PDF, archivos multimedia, e-mails, documentos de texto, etc.
 
+Los datos se convierten en **información** cuando se les proporciona un contexto. El **conocimiento** es lo que se obtiene de la información cuando esta información se personaliza en función de nuestra experiencia y valores.
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<ul style="margin:0.25rem 0 0.5rem 0;">
-			<li><strong>Dato:</strong> 15°C.
-			<br>- Es un valor aislado, sin contexto. Solo sabemos que es una temperatura.</li>
-			<li><strong>Información:</strong> la temperatura en Valladolid hoy es de 15°C.
-			<br>- El dato se contextualiza: sabemos dónde y cúando se aplica.</li>
-			<li><strong>Conocimiento:</strong> si la temperatura en Valladolid es de 15°C en enero, es inusualmente alta.
-			<br>- Se interpreta la información, se relaciona con experiencia y se extraen conclusiones útiles.</li>
+	<div class="ejemplo_contenido">
+		<ul>
+			<li>**Dato:** 15°C.
+			<br>Es un valor aislado, sin contexto. Solo sabemos que es una temperatura.</li>
+			<li>**Información:** la temperatura en Valladolid hoy es de 15°C.
+			<br>El dato se contextualiza: sabemos dónde y cuándo se aplica.</li>
+			<li>**Conocimiento:** si la temperatura en Valladolid es de 15°C en enero, es inusualmente alta.
+			<br>Se interpreta la información, se relaciona con experiencia y se extraen conclusiones útiles.</li>
 		</ul>
 	</div>
 </div>
 
-<center>![Datos, información y conocimiento](media/image_003.jpg "Datos, información y conocimiento. Fuente: Shutterstock. Créditos: Anna Frajtova")</center>
+<center>![Datos, información y conocimiento](media/datos_info_conocimiento.jpg "Datos, información y conocimiento. Fuente: Shutterstock. Créditos: Anna Frajtova")</center>
 
-**Datos abiertos:** cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)
+<div class="concepto">
+		Datos abiertos
+</div>
+Cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)
 
 Esta definición identifica tres características esenciales:
 
@@ -239,7 +244,7 @@ Esta definición identifica tres características esenciales:
 - **Reutilización**: posibilidad de transformar, combinar o enriquecer los datos.
 - **Redistribución**: posibilidad de compartir datos originales o derivados.
 
-<center>![Definición de datos abiertos](media/image_004-005.png "Definición de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Definición de datos abiertos](media/def_datos_abiertos.png "Definición de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
 **Lo que NO son datos abiertos**
 
@@ -247,94 +252,94 @@ Esta definición identifica tres características esenciales:
 - Datos accesibles solo previo registro o pago.
 - Datos con restricciones de privacidad o seguridad (ej: datos personales).
 
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+
+<div class="aviso_caja">
+	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="aviso_contenido">
 			En la práctica, esto significa que:
 		<ul style="list-style-type: disc; margin-left: 1.5em;">
 			<li>Un ayuntamiento publica sus presupuestos anuales como datos abiertos: ciudadanos y periodistas pueden analizarlos.</li>
 			<li>El Ministerio de Transportes ofrece datos de tráfico en tiempo real: desarrolladores crean aplicaciones de movilidad.</li>
 			<li>El Instituto Nacional de Estadística publica datos demográficos: investigadores los usan para estudios socioeconómicos.</li>
 		</ul>
-		</p>
 	</div>
 </div>
 
-**Licencia abierta:** acuerdo legal que otorga permisos de libre uso, modificación y distribución de un recurso, exigiendo únicamente **el reconocimiento del autor** y la continuidad de la propia licencia abierta. Las licencias Creative Commons (CC) es el ejemplo más popular para contenidos y datos, y en concreto, las mostradas en este esquema, las más habituales en el contexto de los datos abiertos.
+<div class="concepto">
+		Licencia abierta
+</div>
+Acuerdo legal que otorga permisos de libre uso, modificación y distribución de un recurso, exigiendo únicamente **el reconocimiento del autor** y la continuidad de la propia licencia abierta. Las licencias Creative Commons (CC) es el ejemplo más popular para contenidos y datos, y en concreto, las mostradas en este esquema, las más habituales en el contexto de los datos abiertos.
 
-<center>![Licencias](media/image_006-1.jpg "Licencias predefinidas más populares para datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Licencias](media/licencias.jpg "Licencias predefinidas más populares para datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			El Instituto Geográfico Nacional ofrece información geográfica digital de España reutilizable y gratuita bajo una licencia **CC-BY 4.0.** [📖 Fuente](https://centrodedescargas.cnig.es/CentroDescargas/politica-datos) 
-		</p>
 	</div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
       [La importancia de las licencias en el entorno digital: un enfoque accesible para todos](https://datos.gob.es/es/noticias/licencias-de-uso-asociadas-las-iniciativas-de-datos-abiertos-en-espana)
-    </p>
   </div>
 </div>
 
-**Datos abiertos gubernamentales o del sector público:** son datos generados, creados, recolectados, procesados, preservados, mantenidos, diseminados o financiados por un gobierno o una institución pública, y que consideran los requerimientos y restricciones legales que permiten su reutilización -licencia abierta-. Son datos con un gran potencial. [📖 Fuente](https://ideas.repec.org/p/oec/govaaa/22-en.html).
+<div class="concepto">
+		Datos abiertos gubernamentales o del sector público
+</div>
+Son datos generados, creados, recolectados, procesados, preservados, mantenidos, diseminados o financiados por un gobierno o una institución pública, y que consideran los requerimientos y restricciones legales que permiten su reutilización -licencia abierta-. Son datos con un gran potencial. [📖 Fuente](https://ideas.repec.org/p/oec/govaaa/22-en.html).
 
 **Las administraciones públicas son los principales proveedores de datos abiertos**. Por esta razón, cuando hablamos de datos abiertos, generalmente se hace referencia a datos oficinales gubernamentales disponibles como abiertos.
 
-
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			El Instituto Nacional de Estadística (INE) publica datos de población, que actualiza periódicamente. [📖 Fuente](https://www.ine.es/dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735572981/)
-		</p>
 	</div>
 </div>
 
-**Datos abiertos de alto valor (HVD** por sus siglas en inglés): datos cuya reutilización está asociada a considerables **beneficios para la sociedad, el medio ambiente y la economía**, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%207%3A%20%23a3%2D3%5D,-Art%C3%ADculo%203.ter)
+<div class="concepto">
+		Datos abiertos de alto valor (HVD por sus siglas en inglés)
+</div>
+Datos cuya reutilización está asociada a considerables **beneficios para la sociedad, el medio ambiente y la economía**, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%207%3A%20%23a3%2D3%5D,-Art%C3%ADculo%203.ter)
 
 En enero de 2023, la Comisión Europea define seis categorías para diferenciar los datos de alto valor [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true)
 
 
-<center> ![Categorías temáticas de conjuntos de alto valor](media/image_006.jpg "Categorías temáticas de conjuntos de alto valor. Fuente: [datos.gob.es](https://datos.gob.es/)") </center>
+<center> ![Categorías temáticas de conjuntos de alto valor](media/tematicas.jpg "Categorías temáticas de conjuntos de alto valor. Fuente: [datos.gob.es](https://datos.gob.es/)") </center>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
       [Europa define los conjuntos de datos de alto valor que el sector público tendrá que abrir como máximo en 2024](https://datos.gob.es/es/noticias/europa-define-los-conjuntos-de-datos-de-alto-valor-que-el-sector-publico-tendra-que-abrir)
-    </p>
   </div>
 </div>
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			A través del Cátalogo Nacional diferentes organismos publican datos de alto valor (HVD) [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true) 
-		</p>
 	</div>
 </div>
 
-**Datos protegidos:** datos que obran en poder de organismos del sector público que estén protegidos por motivos de:
+<div class="concepto">
+		Datos protegidos
+</div>
+Datos que obran en poder de organismos del sector público que estén protegidos por motivos de:
 
 <ol type="a" style="list-style-type: lower-alpha; margin:0.25rem 0 0.5rem 0; padding-left: 1.5em;">
   <li>confidencialidad comercial, incluidos los secretos comerciales, profesionales o empresariales</li>
@@ -346,169 +351,164 @@ En enero de 2023, la Comisión Europea define seis categorías para diferenciar 
 La Ley de Gobernanza de Datos (DGA) establece el marco para este tipo de datos. Norma complementaria de la Directiva de 2019, que rige el ámbito de los datos abiertos. [📖 Fuente](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R0868)
 
 
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="aviso_caja">
+	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="aviso_contenido">
 			Los datos protegidos son aquellos datos que las administraciones no pueden disponer como datos abiertos pues en ellos concurren derechos de terceros que dificultan su reutilización: datos de carácter personal, datos con derechos de propiedad intelectual, entre otros. 
-		</p>
 	</div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-	<p style="margin:0.25rem 0 0.5rem 0;">
-	<ul style="list-style-type: disc; margin-left: 1.5em;">
-		<li>[La aplicación del Reglamento UE sobre Gobernanza de Datos en las Administraciones Públicas](https://datos.gob.es/es/blog/la-aplicacion-del-reglamento-ue-sobre-gobernanza-de-datos-en-las-administraciones-publicas)</li>
-		<li>[Infografía: Reglamento Europeo de Gobernanza de Datos](https://datos.gob.es/sites/default/files/blog/file/infografia-doble-reglamento-europeo-es_0.pdf)</li>
-		<li>[La protección de datos personales en el borrador del Reglamento de Gobernanza de los Datos (Data Governance Act)](https://datos.gob.es/es/blog/la-proteccion-de-datos-personales-en-el-borrador-del-reglamento-de-gobernanza-de-los-datos-data)</li>
-		<li>[Las salas seguras en España: ¿A qué tipo de datos pueden acceder los investigadores?](https://datos.gob.es/es/blog/las-salas-seguras-en-espana-que-tipo-de-datos-pueden-acceder-los-investigadores)</li>
-	</ul>
-	</p>
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+    <ul style="list-style-type: disc; margin-left: 1.5em;">
+      <li>[La aplicación del Reglamento UE sobre Gobernanza de Datos en las Administraciones Públicas](https://datos.gob.es/es/blog/la-aplicacion-del-reglamento-ue-sobre-gobernanza-de-datos-en-las-administraciones-publicas)</li>
+      <li>[Infografía: Reglamento Europeo de Gobernanza de Datos](https://datos.gob.es/sites/default/files/blog/file/infografia-doble-reglamento-europeo-es_0.pdf)</li>
+      <li>[La protección de datos personales en el borrador del Reglamento de Gobernanza de los Datos (Data Governance Act)](https://datos.gob.es/es/blog/la-proteccion-de-datos-personales-en-el-borrador-del-reglamento-de-gobernanza-de-los-datos-data)</li>
+      <li>[Las salas seguras en España: ¿A qué tipo de datos pueden acceder los investigadores?](https://datos.gob.es/es/blog/las-salas-seguras-en-espana-que-tipo-de-datos-pueden-acceder-los-investigadores)</li>
+    </ul>
   </div>
 </div>
 
 
 *************************************************************************************************************
 
-### Bloque II: conceptos relacionados con la publicación
+### Bloque II: Conceptos relacionados con la publicación
 
 {{|>}}
 *************************************************************************************************************
 
+<div class="concepto">
+		Conjunto de datos
+</div>
+Datos relacionados, convenientemente estructurados y organizados, de forma que puedan ser tratados (procesados) apropiadamente para obtener información. [📖 Fuente](https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf)
 
-**Conjunto de datos**: datos relacionados, convenientemente estructurados y organizados, de forma que puedan ser tratados (procesados) apropiadamente para obtener información. [📖 Fuente](https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf)
-
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			La Dirección General de Tráfico (DGT) publica un conjunto de datos en formato XLS con las series históricas de matriculaciones desde 1998 a 2024. [📖 Fuente](https://datos.gob.es/es/catalogo/e00130502-matriculaciones-series-historicas-2024) 
-		</p>
 	</div>
 </div>
 
-**Servicio de datos**: conjunto de operaciones que ofrecen acceso a uno o más conjuntos de datos o funciones de procesamiento permitiendo obtener datos en distintos formatos.
+<div class="concepto">
+		Servicio de datos
+</div>
+Conjunto de operaciones que ofrecen acceso a uno o más conjuntos de datos o funciones de procesamiento permitiendo obtener datos en distintos formatos.
 A los servicios de datos se accede principalmente mediante API (Interfaz de Programación de Aplicaciones), que actúa como un puente para acceder a los datos de un sistema sin necesidad de conocer su implementación interna.
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			La Agencia Estatal de Meteorología (AEMET) publica una API de datos meteorológicos que permite que una aplicación consulte la temperatura actual mediante una llamada programada. [📖 Fuente](https://opendata.aemet.es/centrodedescargas/inicio) 
-		</p>
 	</div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
       [APIs para el acceso a datos abiertos](https://datos.gob.es/es/blog/apis-para-el-acceso-datos-abiertos)
-    </p>
   </div>
 </div>
 
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="aviso_caja">
+	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="aviso_contenido">
 			Es importante no confundir entre servicio de datos y API. El **servicio de datos** es el “repositorio” o fuente donde están los datos. La **API** es la “puerta de acceso programática” que permite interactuar con esos datos de forma dinámica y automatizada.
-		</p>
 	</div>
 </div>
 
-**Distribución:** información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. [📖 Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) 
+<div class="concepto">
+		Distribución
+</div>
+Información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. [📖 Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) 
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			El Instituto Nacional de Estadística publica datos sobre residuos alimentarios por actividad económica. Los datos se sirven como [servicio API](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542) y como [ficheros con diferentes formatos](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542), lo que referimos como diferentes distribuciones: CSV, XLSX, JSON, PC-AXIS, entre otros.
       <br>
       Además del servicio API, que permite acceder mediante consultas dinámicas a los datos mencionados, el INE ofrece datasets en CSV y JSON, entre otros formatos.
-		</p>
+
+      <div class="sabermas_caja">
+        <div class="sabermas_titulo">
+          🔍 Saber más
+        </div>
+        <div class="sabermas_contenido">
+            Cada formato tiene diferentes peculiaridades. Los más comunes son los siguientes:
+            <ul style="list-style-type: disc; margin-left: 1.5em;">
+            <li>CSV: simple, universal y legible por máquina</li>
+            <li>XLSX: familiar para usuarios de Excel</li>
+            <li>JSON/JSON-LD: estructurado, ideal para su uso por API</li>
+            <li>PC-AXIS: habitual para datos estadísticos </li>
+          </ul>
+        </div>
+      </div>
+
 	</div>
 </div>
 
-<div style="background:#fffbeb; border-left:4px solid #fbbf24; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fef3c7; color:#d97706; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    🔍 Saber más
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-	  <p style="margin:0.25rem 0 0.5rem 0;">
-      Cada formato tiene diferentes peculiaridades. Los más comunes son los siguientes:
-	    <ul style="list-style-type: disc; margin-left: 1.5em;">
-      <li>CSV: simple, universal y legible por máquina</li>
-      <li>XLSX: familiar para usuarios de Excel</li>
-      <li>JSON/JSON-LD: estructurado, ideal para su uso por API</li>
-      <li>PC-AXIS: habitual para datos estadísticos </li>
-    </ul>
-    </p>
-  </div>
-</div>
 
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ⚠️ Aviso
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+
+<div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
       El concepto de distribución en ocasiones se refiere a la forma de ofrecer los datos para su descarga o uso. Es decir, se pueden diferenciar distribuciones no solo por formato del fichero sino también en base a otros criterios como puede ser el periodo temporal al que se refiere la información. De esta forma, cada fichero de datos correspondiente a un periodo es una distribución, siempre que ese fichero se publique como una unidad de acceso independiente. Ver ejemplo a continuación. 
-    </p>
+
+      <div class="ejemplo_caja">
+        <div class="ejemplo_titulo">
+          🧭 Ejemplo
+        </div>
+        <div class="ejemplo_contenido">
+            <strong>Población residente por municipio</strong>, que representa una serie temporal con periodicidad anual
+          <p>
+            <strong>Ficheros publicados:</strong>
+          </p>
+          <ul style="list-style-type: disc; margin-left: 1.5em; margin-bottom: 0.5rem;">
+            <li>poblacion_2021.csv</li>
+            <li>poblacion_2022.csv</li>
+            <li>poblacion_2021.json</li>
+            <li>poblacion_2022.json</li>
+          </ul>
+          <p>
+            <strong>Modelado correcto:</strong>
+          </p>
+          <ul style="list-style-type: disc; margin-left: 1.5em; margin-bottom: 0.5rem;">
+            <li>1 dataset: describe la serie temporal completa en diferentes formatos</li>
+            <li>4 distribuciones: cada una corresponde a un año concreto o a un formato</li>
+          </ul>
+        </div>
+      </div>
   </div>
 </div>
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    🧭 Ejemplo
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
-      <strong>Población residente por municipio</strong>, que representa una serie temporal con periodicidad anual
-    </p>
-    <p style="margin:0.25rem 0 0.5rem 0;">
-      <strong>Ficheros publicados:</strong>
-    </p>
-    <ul style="list-style-type: disc; margin-left: 1.5em; margin-bottom: 0.5rem;">
-      <li>poblacion_2021.csv</li>
-      <li>poblacion_2022.csv</li>
-      <li>poblacion_2021.json</li>
-      <li>poblacion_2022.json</li>
-    </ul>
-    <p style="margin:0.25rem 0 0.5rem 0;">
-      <strong>Modelado correcto:</strong>
-    </p>
-    <ul style="list-style-type: disc; margin-left: 1.5em; margin-bottom: 0.5rem;">
-      <li>1 dataset: describe la serie temporal completa en diferentes formatos</li>
-      <li>4 distribuciones: cada una corresponde a un año concreto o a un formato</li>
-    </ul>
-  </div>
+
+
+<div class="concepto">
+		Metadatos
 </div>
+Datos que definen y describen otros datos. Es información estructurada que describe, explica o localiza un conjunto de datos o un servicio de datos, haciendo más sencilla la recuperación de información, utilización o administración de dicho conjunto de datos [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO) 
 
-**Metadatos:** datos que definen y describen otros datos. Es información estructurada que describe, explica o localiza un conjunto de datos o un servicio de datos, haciendo más sencilla la recuperación de información, utilización o administración de dicho conjunto de datos [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO) 
-
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			El Instituto Nacional de Estadística publica los consumos energéticos anualmente. El conjunto de datos cuenta, entre otros, con los siguientes metadatos:
       <br>
 			<strong>Título:</strong> Consumos energéticos por año, comunidades y ciudades autónomas y producto consumido
@@ -517,151 +517,82 @@ A los servicios de datos se accede principalmente mediante API (Interfaz de Prog
 			<br><strong>Licencia:</strong> https://www.ine.es/aviso_legal
 			<br><strong>Fecha de última actualización:</strong> 26/05/2025
 			<br><strong>Otros recursos:</strong> https://www.ine.es/dyngs/IOE/es/operacion.htm?numinv=30070
-    </p>
 	</div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
       <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li><a href="https://datos.gob.es/es/blog/importancia-de-la-catalogacion-de-datos">Importancia de la Catalogación de Datos</a></li>
         <li><a href="https://datos.gob.es/es/blog/metadatos-para-incrementar-la-reutilizacion-de-datos-abiertos-en-aprendizaje-automatico">Metadatos para incrementar la reutilización de datos abiertos en aprendizaje automático</a></li>
       </ul>
-    </p>
   </div>
 </div>
 
 
-<center>![Definición de metadatos](media/image_007-001.png "Definición de metadatos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Definición de metadatos](media/def_metadatos.png "Definición de metadatos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
-**Catálogo de datos abiertos:** repositorio electrónico donde se almacenan y administran datos abiertos y sus metadatos.
+<div class="concepto">
+		Catálogo de datos abiertos
+</div>
+Repositorio electrónico donde se almacenan y administran datos abiertos y sus metadatos.
 
 Estos catálogos generalmente se presentan en forma de páginas web que almacenan y administran tanto los **datos**como algunos **metadatos** que los describen. Podemos encontrar [catálogos con datos abiertos del sector público en todos los niveles administrativos](https://datos.gob.es/es/iniciativas), ya sea nacional, regional o local.
 
 Dado que el número de portales y repositorios continúa creciendo día a día, para facilitarla localización de datos, estos catálogos se consolidan a través de **meta-catálogos y agregadores**, que ofrecen una visión consolidada y estable de los distintos conjuntos y servicios de datos a través de un único punto de acceso común. Es el caso del [Catálogo nacional,](https://datos.gob.es/es/catalogo/conjuntos-datos) albergado en el portal de datos abiertos nacional (datos.gob.es) o del [Catálogo del portal europeo de datos](https://data.europa.eu/data/combined?locale=es), o de repositorios temáticos como los referidos en la imagen siguiente.
 
-<center>![Repositorios temáticos](media/image_008-002.jpg "Repositorios temáticos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Repositorios temáticos](media/repos_tematicos.jpg "Repositorios temáticos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="aviso_caja">
+	<div class="aviso_titulo">
 		⚠️ Aviso
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="aviso_contenido">
 			A menudo el término <strong>Catálogo de datos abiertos</strong> se utiliza como sinónimo de <strong>Portal de datos abiertos</strong>, si bien son términos diferentes. El portal de datos abiertos es el sitio web que aloja un Catálogo de datos pero que también incluye funcionalidades y contenidos complementarios.
-		</p>
 	</div>
 </div>
 
-**Espacio de datos:** es un ecosistema donde materializar la compartición voluntaria de los datos de sus participantes dentro de un entorno de soberanía, confianza y seguridad, establecido mediante mecanismos integrados de gobernanza y técnicos, habilitadores de la generación de valor. [📖 Fuente](https://gaiax-spain.com/espacios-de-datos/)
+<div class="concepto">
+		Espacio de datos
+</div>
+Es un ecosistema donde materializar la compartición voluntaria de los datos de sus participantes dentro de un entorno de soberanía, confianza y seguridad, establecido mediante mecanismos integrados de gobernanza y técnicos, habilitadores de la generación de valor. [📖 Fuente](https://gaiax-spain.com/espacios-de-datos/)
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			El Ministerio de Sanidad de España pone en marcha en enero de 2026 el <strong>Espacio nacional de datos de salud</strong>. Se trata de una red de plataformas de organismos públicos y privados, para interactuar e intercambiar datos. Este entorno busca facilitar la personalización de la atención del paciente o impulsar la investigación médica mediante un uso responsable, seguro y útil de la inteligencia artificial.
-		</p>
 	</div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
       <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li><a href="https://datos.gob.es/es/blog/por-que-espacios-de-datos">¿Por qué espacios de datos?</a></li>
         <li><a href="https://datos.gob.es/es/blog/cuales-son-los-principales-elementos-de-un-espacio-de-datos">¿Cuáles son los principales elementos de un espacio de datos?</a></li>
         <li><a href="https://datos.gob.es/es/blog/modelo-de-desarrollo-de-casos-de-uso-para-espacios-de-datos">Modelo de desarrollo de casos de uso para espacios de datos</a></li>
         <li><a href="https://datos.gob.es/es/conocimiento/caracteristicas-para-la-creacion-de-espacios-de-datos">Características para la creación de espacios de datos</a></li>
       </ul>
-    </p>
   </div>
 </div>
 
-
-*************************************************************************************************************
-
-
-### Bloque III: conceptos relacionados con la reutilización
-
-{{|>}}
-*************************************************************************************************************
-
-**Reutilización de la información pública (RISP):** uso de documentos que obran en poder de las Administraciones y organismos del sector público, por personas físicas o jurídicas, con fines comerciales o no comerciales [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo).
-
-La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814) sobre la reutilización de la información del sector público en aplicación de la [Directiva Europea 2019/1024.](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX%3A32019L1024)
-
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/blog/las-claves-de-la-ley-sobre-reutilizacion-de-la-informacion-del-sector-publico-en-espana">Las claves de la Ley sobre reutilización de la información del sector público en España</a></li>
-      </ul>
-    </p>
-  </div>
+<div class="concepto">
+		Otras definiciones
 </div>
-
-**Calidad de datos:** se entiende como la idoneidad de los datos para servir para múltiples propósitos y para diferentes tipos de usuarios [📖 Fuente](https://datos.gob.es/sites/default/files/documentacion/files/guia_calidad_de_datos_abiertos_1_0.pdf).
-
-[La norma ISO/IEC 25012](https://iso25000.com/index.php/normas-iso-25000/iso-25012) establece las características que deben cumplir los datos para considerarse de calidad, las cuales se recogen en la siguiente imagen.
-
-<center>![Atributos de la calidad de los datos](media/image_009.png "Atributos de la calidad de los datos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
-
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/conocimiento/guia-practica-para-la-mejora-de-la-calidad-de-datos-abiertos">Guía práctica para la mejora de la calidad de datos abiertos</a></li>
-      </ul>
-    </p>
-  </div>
-</div>
-
-**Gobierno abierto (*open Government*):** Es una doctrina que tiene como objetivo que la ciudadanía colabore en la creación y mejora de servicios públicos y en el robustecimiento de la transparencia y la rendición de cuentas [📖 Fuente](https://es.wikipedia.org/wiki/Gobierno_abierto).
-
-Se sustenta en tres pilares básicos:
-
-* **Transparencia:** publicación de datos como abiertos para asegurar el seguimiento de políticas públicas
-* **Colaboración:** derribo de silos y estructuras piramidales con el fin de trabajar horizontalmente y favorecer la organización de las sociedades.
-* **Participación:** co-diseño de políticas públicas, deliberación con ciudadanos y consulta ciudadana.
-
-<center>![Definición de gobierno abierto](media/image_010.png "Definición de gobierno abierto. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
-
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/noticias/el-v-plan-de-gobierno-abierto-incorpora-medidas-concretas-para-impulsar-los-datos-abiertos">El V Plan de Gobierno Abierto incorpora medidas concretas para impulsar los datos abiertos</a></li>
-      </ul>
-    </p>
-  </div>
-</div>
-
-<div style="background:#fffbeb; border-left:4px solid #fbbf24; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fef3c7; color:#d97706; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="sabermas_caja">
+	<div class="sabermas_titulo">
     🔍 Saber más
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+	</div>
+	<div class="sabermas_contenido">
       Se pueden encontrar listados de definiciones para ampliar los conceptos ligados a datos abiertos en los siguientes documentos oficiales:
-      <br><br>
+      <br>
       <ol style="list-style-type: disc; margin-left: 1.5em;">
         <li>Glosario de términos del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO">Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica</a>.</li>
         <li>Anexo - Definiciones de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo">Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público</a></li>
@@ -670,56 +601,126 @@ Se sustenta en tres pilares básicos:
         <li>Anexo V - Definiciones y acrónimos de la <a href="https://datos.gob.es/elearning/Unidades_Didacticas/Unidad_1/contenidos/descargas/04-ref.pdf">Guía de Aplicación del Real Decreto 1495/2011 por el que se desarrolla la Ley 37/2007</a>.</li>
         <li><a href="https://www.esmartcity.es/2025/10/17/diccionario-terminos-administracion-electronica-actualiza-11-edicion">Diccionario de conceptos y términos de la Administración Electrónica (edición 11ª)</a></li>
       </ol>
-    </p>
   </div>
 </div>
 
-<div style="background:#fee2e2; border-left:4px solid #dc2626; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fecaca; color:#dc2626; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+
+<div class="casoestudio_caja">
+	<div class="casoestudio_titulo">
     🧪 Caso de estudio
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-      <p style="margin:0.25rem 0 0.5rem 0;">
+	</div>
+	<div class="casoestudio_contenido">
       En la siguiente imagen se refieren los principales conceptos descritos anteriormente. Se aplican a una colección de datos publicado por el INE y referenciado en el Catálogo de datos abiertos nacional albergado en datos.gob.es en la siguiente url:
-      <br><br>
+      <br>
       https://datos.gob.es/es/catalogo/ea0010587-empleo-por-ramas-de-actividad-cntr2010-identificador-api-67201
-      <br><br>
+      <br>
       <strong>Datos</strong> sobre la evolución del empleo por ramas de actividad
-      <br><br>
+      <br>
       Si descargamos el fichero <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=67201">aquí</a> obtenemos un fichero xls que contiene los siguientes datos:
-      <br><br>
-      <center><img src="media/image_011.png"></center>
-      <br><br>
+      <br>
+      <center><img src="media/ejemplo_tabla.png"></center>
+      <br>
       <strong>Datos abiertos</strong> dado que se publican asociados a una licencia abierta
-      <br><br>
-      <center><img src="media/image_012.png"></center>
+      <br>
+      <center><img src="media/ejemplo_licencia.png"></center>
       <br>
       [📖 Fuente](https://www.ine.es/dyngs/AYU/index.htm?cid=125)
-      <br><br>
+      <br>
       <strong>Datos abiertos de alto valor</strong>. Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
-      <br><br>
-      <center><img src="media/image_013.png"></center>
-      <br><br>
+      <br>
+      <center><img src="media/ejemplo_hvd.png"></center>
+      <br>
       <strong>Conjunto de datos</strong>
-      <br><br>
+      <br>
       Los datos que publica el INE con los datos sobre evolución de empleo, junto con sus correspondientes metadatos, constituye un conjunto de datos.
-      <br><br>
-      <center><img src="media/image_014.png"></center>
-      <br><br>
+      <br>
+      <center><img src="media/ejemplo_dataset.png"></center>
+      <<br>
       <strong>Distribuciones</strong>
-      <br><br>
+      <br>
       La colección de ficheros en diferentes formatos: CSV, XLSX, JSON, etc. se corresponde con las distribuciones.
-      <br><br>
-      <center><img src="media/image_015.png"></center>
-      <br><br>
+      <br>
+      <center><img src="media/ejemplo_distribuciones.png"></center>
+      <br>
       <strong>Metadatos</strong>
-      <br><br>
+      <br>
       Los atributos que definen y describen los metadatos que facilitarán su comprensión y su localización a través de buscadores.
-      <br><br>
-      <center><img src="media/image_016.png"></center>
-    </p>
+      <br>
+      <center><img src="media/ejemplo_metadatos.png"></center>
   </div>
 </div>
+
+*************************************************************************************************************
+
+
+### Bloque III: Conceptos relacionados con la reutilización
+
+{{|>}}
+*************************************************************************************************************
+
+<div class="concepto">
+		Reutilización de la información pública (RISP)
+</div>
+Uso de documentos que obran en poder de las Administraciones y organismos del sector público, por personas físicas o jurídicas, con fines comerciales o no comerciales [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo).
+
+La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814) sobre la reutilización de la información del sector público en aplicación de la [Directiva Europea 2019/1024.](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX%3A32019L1024)
+
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+      <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li><a href="https://datos.gob.es/es/blog/las-claves-de-la-ley-sobre-reutilizacion-de-la-informacion-del-sector-publico-en-espana">Las claves de la Ley sobre reutilización de la información del sector público en España</a></li>
+      </ul>
+  </div>
+</div>
+
+<div class="concepto">
+		Calidad de datos
+</div>
+Se entiende como la idoneidad de los datos para servir para múltiples propósitos y para diferentes tipos de usuarios [📖 Fuente](https://datos.gob.es/sites/default/files/documentacion/files/guia_calidad_de_datos_abiertos_1_0.pdf).
+
+[La norma ISO/IEC 25012](https://iso25000.com/index.php/normas-iso-25000/iso-25012) establece las características que deben cumplir los datos para considerarse de calidad, las cuales se recogen en la siguiente imagen.
+
+<center>![Atributos de la calidad de los datos](media/atributos_calidad.png "Atributos de la calidad de los datos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+      <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li><a href="https://datos.gob.es/es/conocimiento/guia-practica-para-la-mejora-de-la-calidad-de-datos-abiertos">Guía práctica para la mejora de la calidad de datos abiertos</a></li>
+      </ul>
+  </div>
+</div>
+
+<div class="concepto">
+		Gobierno abierto (*open Government*)
+</div>
+Es una doctrina que tiene como objetivo que la ciudadanía colabore en la creación y mejora de servicios públicos y en el robustecimiento de la transparencia y la rendición de cuentas [📖 Fuente](https://es.wikipedia.org/wiki/Gobierno_abierto).
+
+Se sustenta en tres pilares básicos:
+
+* **Transparencia:** publicación de datos como abiertos para asegurar el seguimiento de políticas públicas
+* **Colaboración:** derribo de silos y estructuras piramidales con el fin de trabajar horizontalmente y favorecer la organización de las sociedades.
+* **Participación:** co-diseño de políticas públicas, deliberación con ciudadanos y consulta ciudadana.
+
+<center>![Definición de gobierno abierto](media/gobierno_abierto.png "Definición de gobierno abierto. Fuente: [Wikipedia](https://es.wikipedia.org/)")</center>
+
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+      <ul style="list-style-type: disc; margin-left: 1.5em;">
+        <li><a href="https://datos.gob.es/es/noticias/el-v-plan-de-gobierno-abierto-incorpora-medidas-concretas-para-impulsar-los-datos-abiertos">El V Plan de Gobierno Abierto incorpora medidas concretas para impulsar los datos abiertos</a></li>
+      </ul>
+  </div>
+</div>
+
+
 
 *************************************************************************************************************
 
@@ -734,11 +735,8 @@ Se sustenta en tres pilares básicos:
     <h4 style="margin:0; font-size:1.3em; font-weight:600; font-family:'Montserrat', sans-serif;">Ejercicio</h4>
   </div>
   <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
-    <p style="margin:0; font-size:1em; color:#333; line-height:1.6;">
-      Consulta el enlace a continuación y empareja los conceptos de la zona inferior con los ejemplos de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales1">Principales parques y jardines municipales</a>
-      <br><br>
-      <em>Publicador: Ayuntamiento de Madrid</em>
-    </p>
+      Consulta el enlace a continuación y marca el concepto al que se refiere el ejemplo de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales1">Principales parques y jardines municipales</a>
+      <br>
   </div>
 </div>
 
@@ -773,7 +771,7 @@ Para garantizar que los datos abiertos sean fácilmente utilizables, reutilizabl
 
 Aunque en la literatura se identifican diversos enfoques, existen dos marcos de referencia considerados fundamentales, los cuales se presentan a continuación.
 
-<center>![Conceptos de apertura de datos](media/image_002.jpg "Conceptos de apertura de datos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Conceptos de apertura de datos](media/principios.jpg "Conceptos de apertura de datos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
 *************************************************************************************************************
 
@@ -793,15 +791,13 @@ En 2007, [una treintena de defensores del gobierno abierto](https://public.resou
 * **No propietario:** los datos deben ofrecerse en un formato sobre el cual ninguna entidad tenga un control exclusivo.
 * **De licencia libre:** los datos no deben estar sujetos a ninguna regulación sobre derechos de autor, patentes, marcas registradas o secretos comerciales. Sí se pueden permitir restricciones razonables de privacidad, seguridad y privilegios.
 
-<div style="background:#ebf8ed; border-left:4px solid #3fb950; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-	<div style="background:#d8f1dc; color:#3fb950; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="ejemplo_caja">
+	<div class="ejemplo_titulo">
 		🧭 Ejemplo
 	</div>
-	<div style="padding:0 1rem 0 1rem;">
-		<p style="margin:0.25rem 0 0.5rem 0;">
+	<div class="ejemplo_contenido">
 			En el siguiente esquema se presenta un ejemplo de cómo interpretar los principios básicos referidos, aplicados a <strong>datos sobre accidentes de tráfico</strong>:
-		</p>
-		<center><img src="media/image_019.jpg" alt="Principios Open Government Data" title="Principios Open Government Data. Fuente: datos.gob.es"></center>
+		<center><img src="media/principios_OGD.jpg" alt="Principios Open Government Data" title="Principios Open Government Data. Fuente: datos.gob.es"></center>
 	</div>
 </div>
 
@@ -834,31 +830,28 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
   * Los datos y metadatos deben estar asociados a una procedencia detallada.
   * Los datos y metadatos deben cumplir con las normas de la comunidad pertinentes para el sector.
 
-<center>![Calidad del dato | datos.gob.es](media/image_020.jpg "Principios FAIR. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
+<center>![Calidad del dato | datos.gob.es](media/principios_FAIR.jpg "Principios FAIR. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#e4d7fb; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
       <ul style="list-style-type: disc; margin-left: 1.5em;">
         <li><a href="https://datos.gob.es/es/blog/principios-fair-el-secreto-de-los-magos-de-los-datos">Principios FAIR: el secreto de los magos de los datos</a></li>
         <li><a href="https://www.nature.com/articles/sdata201618">The FAIR Guiding Principles for scientific data management and stewardship</a></li>
         <li><a href="https://www.go-fair.org/">Comunidad GO FAIR</a></li>
       </ul>
-    </p>
   </div>
 </div>
 
-<div style="background:#fffbeb; border-left:4px solid #fbbf24; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fef3c7; color:#d97706; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
+<div class="sabermas_caja">
+	<div class="sabermas_titulo">
     🔍 Saber más
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+	</div>
+	<div class="sabermas_contenido">
       Además de los dos marcos de referencia mencionados, existen otros que también son relevantes. Cabe mencionar los siguientes:
-      <br><br>
+      <br>
       <ol style="list-style-type: decimal; margin-left: 1.5em;">
         <li>Los principios definidos por la <a href="https://opendatacharter.org/wp-content/uploads/2025/09/Carta_Internacional_de_Datos_Abiertos2015.pdf">Carta internacional de los Datos Abiertos</a> (Open Data Charter) que establecen que los datos deben ser:</li>
         <li>Abiertos por defecto.</li>
@@ -869,7 +862,6 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
         <li>Para el desarrollo incluyente y la innovación.</li>
         <li>Las siete dimensiones relativas a la calidad, incluidas en el informe <strong>Marco de calidad y directrices para las actividades estadísticas de la OCDE</strong> publicado en 2011: pertinencia, precisión, credibilidad, actualidad, accesibilidad, interpretabilidad y coherencia. Este documento, además, establece que la calidad está ampliamente vinculada con las perspectivas, necesidades y prioridades de los reutilizadores.</li>
       </ol>
-    </p>
   </div>
 </div>
 
@@ -887,7 +879,7 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
   </div>
   <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
     <p style="margin:0; font-size:1em; color:#333; line-height:1.6;">
-      A continuación, tienes definiciones de algunos principios de los datos abiertos. Empareja cada definición con su concepto correcto:
+      A continuación, marca el principio de los datos abiertos con su definición de la columna izquierda
     </p>
   </div>
 </div>
@@ -950,10 +942,10 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
         <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
-        <p style="margin:0; line-height:1.6;">
+        <p>
           <strong>Meteogrid</strong> nace en 2004, una SME especializados en la <strong>lucha contra incendios y protección civil.</strong> Entre otras actividades, la compañía ofrece <strong>servicios de asesoría diaria a los</strong> cuerpos de protección civil y bomberos en incendios forestales sobre <strong>comportamiento del fuego en base a las condiciones meteorológicas.</strong>
         </p>
-        <p style="margin:1rem 0 0 0; line-height:1.6;">
+        <p>
           Dispone de índices y aplicaciones específicas para la <strong>asesoría del comportamiento de incendio en las zonas de interfaz</strong>, y para la <strong>identificación del riesgo</strong> sobre personas, viviendas, propiedades y medio natural.
         </p>
       </div>
@@ -985,10 +977,10 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
         <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
-        <p style="margin:0; line-height:1.6;">
+        <p>
           <strong>Hispatec Agrointeligencia</strong> es una compañía que trabaja en pro de sacar la inteligencia de los datos para el <strong>sector agro.</strong>
         </p>
-        <p style="margin:1rem 0 0 0; line-height:1.6;">
+        <p>
           Desde Hispatec Agrointeligencia analizan el <strong>flujo de datos desde la producción hasta el mercado y viceversa.</strong> Desarrollan productos que mejoran la <strong>eficiencia de empresas del sector agro</strong> y soluciones que aseguran la <strong>conservación del medio ambiente</strong> (uso del agua, suelo, fertilizantes,…).
         </p>
       </div>
@@ -1020,10 +1012,10 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
         <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
-        <p style="margin:0; line-height:1.6;">
+        <p>
           <strong>Idealista</strong> facilita un <strong>espacio para que los usuarios puedan publicar, o buscar, anuncios de venta o alquiler de inmuebles</strong>. También ofrecen otros servicios relacionados con el sector inmobiliario, como <strong>valoraciones de viviendas</strong> o el <strong>servicio de certificación energética</strong>.
         </p>
-        <p style="margin:1rem 0 0 0; line-height:1.6;">
+        <p>
           Su misión es poner al alcance de cualquier profesional del sector <strong>información inmobiliaria estructurada, ordenada, homogénea y en tiempo real</strong>.
         </p>
       </div>
@@ -1051,13 +1043,13 @@ Estas realidades avalan las cifras que refleja el último Informe de la Asociaci
 
 El siguiente visual resume algunas de las cifras más relevantes con las que concluye el estudio.
 
-<center>![Informe del Sector Infomediario de Asedie](media/image_021.jpg "Informe del Sector Infomediario de Asedie. Economía del Dato en su ámbito infomediario (2025)")</center>
+<center>![Informe del Sector Infomediario de Asedie](media/informe_asedie.jpg "Informe del Sector Infomediario de Asedie. Economía del Dato en su ámbito infomediario (2025)")</center>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#ede9fe; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
     <ul style="margin:0.5rem 0 0.5rem 0;">
       <li><a href="https://datos.gob.es/es/noticias/disponible-la-13a-edicion-del-informe-del-sector-infomediario-de-asedie" target="_blank" rel="noopener">Disponible la 13ª edición del Informe del Sector Infomediario de ASEDIE</a></li>
       <li><a href="https://datos.gob.es/es/empresas" target="_blank" rel="noopener">Ejemplos reales de empresas que basan su actividad en los datos abiertos</a></li>
@@ -1074,22 +1066,20 @@ La Comisión Europea, a través del Portal europeo de datos, ofrece varios ejemp
 
 En resumen, los datos abiertos, **impulsan el crecimiento y la eficiencia en todos los sectores**. Contribuyen a la **creación de empleo**, tanto de forma directa como indirecta, facilitan procesos de contratación más inteligentes y **estimulan la innovación** en ámbitos como la planificación urbana y los servicios digitales, tal y como refiere el “Tercer volumen del Observatorio de Casos de Uso” [📖 Fuente](https://data.europa.eu/en/publications/reports/use-case-observatory-0)
 
-<div style="background:#fdf8ec; border-left:4px solid #ff9800; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#fdf2e4; color:#ff9800; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ⚠️ Aviso
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <p style="margin:0.25rem 0 0.5rem 0;">
+<div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
       Los datos abiertos son la materia prima esencial para la economía del dato que Europa pretende desarrollar y se constituyen en elemento de los <a href="https://digital-strategy.ec.europa.eu/en/policies/data-spaces" target="_blank" rel="noopener">espacios europeos de datos sectoriales</a>: salud, movilidad, turismo, agricultura, energía, finanzas, clima, administración pública, entre otros.
-    </p>
   </div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#ede9fe; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
     <ul style="margin:0.5rem 0 0.5rem 0;">
       <li><a href="https://datos.gob.es/es/empresas" target="_blank" rel="noopener">Catálogo de empresas de datos.gob.es</a></li>
       <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
@@ -1111,6 +1101,20 @@ Tal y como señala la Carta Internacional de Datos Abiertos, el acceso libre y o
 
 Además, los datos abiertos **favorecen la mejora de los servicios públicos** en ámbitos clave como la salud, la educación, la protección del medio ambiente, la seguridad o los derechos humanos, al **facilitar decisiones basadas en evidencia** y una colaboración más efectiva entre los distintos actores sociales.
 
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+    <ul style="margin:0.5rem 0 0.5rem 0;">
+      <li><a href="https://datos.gob.es/es/blog/la-reutilizacion-de-datos-abiertos-en-el-periodismo-una-ventana-abierta-nuevos-modelos-de-negocio" target="_blank" rel="noopener">La reutilización de datos abiertos en el periodismo: una ventana abierta a nuevos modelos de negocio y comunidades</a></li>
+      <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
+      <li><a href="https://datos.gob.es/es/conocimiento/datos-abiertos-para-cumplir-con-los-objetivos-de-desarrollo-sostenible" target="_blank" rel="noopener">Datos abiertos para cumplir con los Objetivos de Desarrollo Sostenible</a></li>
+      <li><a href="https://datos.gob.es/es/blog/datos-abiertos-inteligencia-artificial-y-medio-ambiente" target="_blank" rel="noopener">Datos abiertos, inteligencia artificial y medio ambiente</a></li>
+    </ul>
+  </div>
+</div>
+
 Ejemplos relevantes del valor social de los datos abiertos se traducen en ejemplos impulsados tanto por organizaciones públicas, privada o del tercer sector, tales como los presentados a continuación.
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
@@ -1121,10 +1125,10 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
         <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
-        <p style="margin:0; line-height:1.6;">
+        <p>
           Proyecto para <strong>ayudar a conductores con movilidad reducida</strong> en Europa y a todas las familias de personas con discapacidad, para tener mayor autonomía y poder desplazarse sin barreras añadidas.
         </p>
-        <p style="margin:1rem 0 0 0; line-height:1.6;">
+        <p>
           Ofrece una aplicación en la que refiere más de 75.000 plazas en más de 1.000 municipios. La plataforma se nutre de su <strong>red de voluntarios</strong> en colaboración con empresas socialmente responsables.
         </p>
       </div>
@@ -1155,10 +1159,10 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
         <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
-        <p style="margin:0; line-height:1.6;">
+        <p>
           Organización sin ánimo de lucro que <strong>promueve la transparencia de las instituciones y el fácil acceso a la información pública mediante la tecnología y el periodismo</strong>.
         </p>
-        <p style="margin:1rem 0 0 0; line-height:1.6;">
+        <p>
           Para ello cuentan con tres líneas de actuación: periodismo, incidencia pública y servicios de transparencia para las AA.PP.
         </p>
       </div>
@@ -1190,10 +1194,10 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
     <div style="flex:1; min-width:300px; padding-right:1.5rem;">
       <div style="margin-bottom:1.5rem;">
         <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿A qué se dedican?</h4>
-        <p style="margin:0; line-height:1.6;">
+        <p>
           <strong>Datadista</strong> es un medio de comunicación digital español especializado en <strong>periodismo de investigación, periodismo de datos y nuevas narrativas</strong>.
         </p>
-        <p style="margin:1rem 0 0 0; line-height:1.6;">
+        <p>
           Fue creado en 2016 con el objetivo de <strong>explicar temas complejos</strong> como la corrupción, el uso de los recursos públicos y cuestiones sociales, medioambientales y económicas <strong>mediante análisis de datos, visualizaciones interactivas, vídeos explicativos e investigaciones en profundidad.</strong>
         </p>
       </div>
@@ -1219,19 +1223,7 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
 
 En resumen, los beneficios sociales de los **datos abiertos** se traducen en la democratización del acceso a la información, permiten realidades como el **periodismo de datos** e impulsan la participación activa de la sociedad en la toma de decisiones y en la mejora de su entorno, asegurando un **control social distribuido,** esto es, comunidades organizadas pueden monitorizar la calidad del aire, el nivel de ruido o el estado del mantenimiento urbano, promoviendo entornos más saludables y sostenibles.
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#ede9fe; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/blog/la-reutilizacion-de-datos-abiertos-en-el-periodismo-una-ventana-abierta-nuevos-modelos-de-negocio" target="_blank" rel="noopener">La reutilización de datos abiertos en el periodismo: una ventana abierta a nuevos modelos de negocio y comunidades</a></li>
-      <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
-      <li><a href="https://datos.gob.es/es/conocimiento/datos-abiertos-para-cumplir-con-los-objetivos-de-desarrollo-sostenible" target="_blank" rel="noopener">Datos abiertos para cumplir con los Objetivos de Desarrollo Sostenible</a></li>
-      <li><a href="https://datos.gob.es/es/blog/datos-abiertos-inteligencia-artificial-y-medio-ambiente" target="_blank" rel="noopener">Datos abiertos, inteligencia artificial y medio ambiente</a></li>
-    </ul>
-  </div>
-</div>
+
 
 *************************************************************************************************************
 
@@ -1245,6 +1237,19 @@ En el ámbito de las administraciones públicas, la reutilización de la informa
 * **Mejora de la reputación institucional** à la apertura de datos mejora la reputación de las administraciones al aumentar la transparencia, y en consecuencia, fortalecer la confianza y la participación ciudadana en la gestión pública.
 * **Ahorro en el desarrollo de la actividad pública** à La reutilización de datos abiertos por parte de las administraciones, especialmente en colaboración del sector público, favorece la innovación, lo cual se traduce en productos y servicios que mejoran la eficiencia, accesibilidad y sostenibilidad de los servicios mediante soluciones replicables. Esto se traduce en ahorros económicos directos e indirectos.
 
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+    <ul style="margin:0.5rem 0 0.5rem 0;">
+      <li><a href="https://datos.gob.es/es/conocimiento/innovacion-municipal-traves-de-datos-abiertos-soluciones-para-hacer-mas-accesibles-los" target="_blank" rel="noopener">Innovación municipal a través de datos abiertos: soluciones para hacer más accesibles los servicios municipales</a></li>
+      <li><a href="https://datos.gob.es/es/blog/aplicaciones-de-datos-geograficos-abiertos-del-centro-nacional-de-informacion-geografica" target="_blank" rel="noopener">Aplicaciones de datos geográficos abiertos del Centro Nacional de Información Geográfica</a></li>
+      <li><a href="https://datos.gob.es/es/conocimiento/las-administraciones-publicas-ante-la-reutilizacion-de-la-informacion-publica" target="_blank" rel="noopener">Las Administraciones Públicas ante la reutilización de la información pública</a></li>
+    </ul>
+  </div>
+</div>
+
 A continuación se presentan ejemplos que dejan de manifiesto los beneficios que la apertura de datos supone para la Administración.
 
 <div style="background:#ffffff; border:1px solid #ddd; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); margin:1.5rem 0; overflow:hidden;">
@@ -1254,10 +1259,10 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   <div style="padding:1.5rem;">
     <div style="margin-bottom:1.5rem;">
       <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿En qué consiste y qué beneficios aporta?</h4>
-      <p style="margin:0; line-height:1.6;">
+      <p>
         El Datahub energético de la Junta es un <strong>ejercicio de transparencia</strong> de la Administración de Castilla y León. Consiste en un compendio de información energética informatizada a través de una herramienta para la <strong>optimización energética</strong> de edificios de la administración autónoma.
       </p>
-      <p style="margin:1rem 0 0 0; line-height:1.6;">
+      <p>
         A través de esta herramienta se racionalizan anualmente los contratos energéticos y se realizan las compras energéticas de los diferentes Organismos de la Junta de Castilla y León. <strong>Los ahorros cuantificados desde el año 2015 han sido de 2M€ anuales</strong> únicamente en el coste fijo de electricidad.
       </p>
     </div>
@@ -1284,13 +1289,13 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   <div style="padding:1.5rem;">
     <div style="margin-bottom:1.5rem;">
       <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿En qué consiste y qué beneficios aporta?</h4>
-      <p style="margin:0; line-height:1.6;">
+      <p>
         Smart Agro-Recomendaciones de Riego es una herramienta digital desarrollada por el Cabildo de La Palma con el objetivo es mejorar la <strong>eficiencia del uso del agua</strong> en la agricultura local, especialmente para cultivos de plátano y aguacate.
       </p>
-      <p style="margin:1rem 0 0 0; line-height:1.6;">
+      <p>
         La aplicación proporciona información detallada al seleccionar el cultivo y la zona de explotación para facilitar decisiones hídricas más eficientes, representando un paso importante hacia una agricultura más inteligente.
       </p>
-      <p style="margin:1rem 0 0 0; line-height:1.6;">
+      <p>
         Contribuye de forma notable a la <strong>mejora de la reputación institucional</strong> al posicionar al Cabildo como una entidad innovadora, comprometida con la sostenibilidad y orientada a las necesidades reales del territorio.
       </p>
     </div>
@@ -1317,13 +1322,13 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   <div style="padding:1.5rem;">
     <div style="margin-bottom:1.5rem;">
       <h4 style="color:#446DA2; margin:0 0 0.75rem 0; font-size:1.1em; border-bottom:2px solid #e0e0e0; padding-bottom:0.5rem; font-family:'Montserrat', sans-serif;">¿En qué consiste y qué beneficios aporta?</h4>
-      <p style="margin:0; line-height:1.6;">
+      <p>
         Spain By Bike es una plataforma especializada en <strong>turismo ciclista por España</strong> desarrollada Instituto Geográfico Nacional (IGN) y el Centro Nacional de Información Geográfica (CNIG). Presenta una amplia variedad de rutas ciclistas por regiones, adaptadas a distintos niveles y estilos: desde recorridos tranquilos por vías verdes hasta desafíos de montaña. A través de una herramienta interactiva, los usuarios pueden ver el itinerario, la ubicación, la dificultad, la distancia, etc. Además, ofrece servicios complementarios como alquiler de bicicletas, transporte de equipaje, alojamiento y asistencia técnica.
       </p>
-      <p style="margin:1rem 0 0 0; line-height:1.6;">
+      <p>
         Esta herramienta contribuye a reforzar la imagen de las administraciones como <strong>instituciones innovadoras</strong>, y alineadas con las políticas públicas de sostenibilidad y reutilización de la información pública.
       </p>
-      <p style="margin:1rem 0 0 0; line-height:1.6;">
+      <p>
         La aplicación está basada en datos abiertos con licencia CC BY 4.0, lo cual refuerza el <strong>compromiso de la administración con la transparencia y la reutilización de la información del sector público.</strong>
       </p>
     </div>
@@ -1343,18 +1348,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   </div>
 </div>
 
-<div style="background:#f3e8ff; border-left:4px solid #7c3aed; padding:0; border-radius:8px; overflow:hidden; margin-top:1.5rem; margin-bottom:1.5rem;">
-  <div style="background:#ede9fe; color:#7c3aed; padding:0.6rem 1rem; font-weight:600; font-size:1.05em;">
-    ℹ️ Más información
-  </div>
-  <div style="padding:0 1rem 0 1rem;">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/conocimiento/innovacion-municipal-traves-de-datos-abiertos-soluciones-para-hacer-mas-accesibles-los" target="_blank" rel="noopener">Innovación municipal a través de datos abiertos: soluciones para hacer más accesibles los servicios municipales</a></li>
-      <li><a href="https://datos.gob.es/es/blog/aplicaciones-de-datos-geograficos-abiertos-del-centro-nacional-de-informacion-geografica" target="_blank" rel="noopener">Aplicaciones de datos geográficos abiertos del Centro Nacional de Información Geográfica</a></li>
-      <li><a href="https://datos.gob.es/es/conocimiento/las-administraciones-publicas-ante-la-reutilizacion-de-la-informacion-publica" target="_blank" rel="noopener">Las Administraciones Públicas ante la reutilización de la información pública</a></li>
-    </ul>
-  </div>
-</div>
+
 
 *************************************************************************************************************
 
@@ -1426,13 +1420,10 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 <div style="background:#ffffff; border:2px solid #154481; border-radius:16px; box-shadow:0 4px 12px rgba(147,51,234,0.2); margin:2rem 0; overflow:hidden;">
   <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:2rem; text-align:center;">
     <div style="font-size:3em; margin-bottom:0.5rem;">📋</div>
-    <h3 style="margin:0; font-size:2em; font-weight:700; text-transform:uppercase; letter-spacing:1px; font-family:'Montserrat', sans-serif;">Cuestionario Final</h3>
-    <p style="margin:0.75rem 0 0 0; font-size:1.1em; opacity:0.95;">Evalúa tus conocimientos sobre datos abiertos</p>
+    <h3 style="margin:0; font-size:2em; font-weight:700; text-transform:uppercase; letter-spacing:1px; font-family:'Montserrat', sans-serif;">Comprueba lo aprendido</h3>
   </div>
-  <div style="padding:1.5rem 2rem; background:linear-gradient(to bottom, #faf5ff 0%, #ffffff 100%);">
-    <p style="margin:0; font-size:1.05em; color:#333; text-align:center;">
-      <strong>Instrucciones:</strong> Indica si cada afirmación es <strong>verdadera</strong> o <strong>falsa</strong>
-    </p>
+  <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
+      Indica cuáles de las siguientes afirmaciones sobre los beneficios de los datos abiertos son verdaderas y cuáles falsas.
   </div>
 </div>
 
@@ -1540,43 +1531,3 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 
 *************************************************************************************************************
 
-<!-- id="contacto" -->
-## CONTACTO
-
-{{|>}}
-*************************************************************************************************************
-
-<div style="background:#ffffff; border:2px solid #154481; border-radius:16px; box-shadow:0 4px 12px rgba(21,68,129,0.2); margin:2rem 0; overflow:hidden;">
-  <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:2rem; text-align:center;">
-    <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_iniciativa-aporta.svg" alt="Iniciativa Aporta" style="height:60px; margin-bottom:1rem; filter:brightness(0) invert(1);">
-    <h3 style="margin:0; font-size:1.75em; font-weight:700; font-family:'Montserrat', sans-serif;">¿Quieres saber más sobre la Iniciativa Aporta?</h3>
-    <p style="margin:0.75rem 0 0 0; font-size:1.05em; opacity:0.9;">Descubre todo el potencial de los datos abiertos en España</p>
-  </div>
-  <div style="padding:1.5rem 2rem; background:linear-gradient(to bottom, #f0f7ff 0%, #ffffff 100%);">
-    <div style="display:flex; flex-direction:column; gap:1rem;">
-      <a href="https://datos.gob.es/" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:1rem; padding:1rem 1.25rem; background:#ffffff; border:2px solid #e0e7ef; border-radius:12px; text-decoration:none; color:#333; box-shadow:0 2px 4px rgba(0,0,0,0.05); cursor:pointer;" onmouseover="this.style.borderColor='#154481'; this.style.boxShadow='0 6px 16px rgba(21,68,129,0.2)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.borderColor='#e0e7ef'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.05)'; this.style.transform='translateY(0)';">
-        <div style="background:#154481; color:#fff; width:50px; height:50px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-size:1.5em; flex-shrink:0;">🌐</div>
-        <div>
-          <div style="font-weight:700; font-size:1.1em; color:#154481;">Visita datos.gob.es</div>
-          <div style="font-size:0.9em; color:#666; margin-top:0.25rem;">Portal nacional de datos abiertos de España</div>
-        </div>
-      </a>
-      <a href="http://bit.ly/2IY8JgV" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:1rem; padding:1rem 1.25rem; background:#ffffff; border:2px solid #e0e7ef; border-radius:12px; text-decoration:none; color:#333; box-shadow:0 2px 4px rgba(0,0,0,0.05); cursor:pointer;" onmouseover="this.style.borderColor='#10b981'; this.style.boxShadow='0 6px 16px rgba(16,185,129,0.2)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.borderColor='#e0e7ef'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.05)'; this.style.transform='translateY(0)';">
-        <div style="background:#10b981; color:#fff; width:50px; height:50px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-size:1.5em; flex-shrink:0;">📬</div>
-        <div>
-          <div style="font-weight:700; font-size:1.1em; color:#10b981;">Suscríbete al boletín</div>
-          <div style="font-size:0.9em; color:#666; margin-top:0.25rem;">Recibe las últimas novedades en tu correo</div>
-        </div>
-      </a>
-      <a href="https://datos.gob.es/es/form/contact" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:1rem; padding:1rem 1.25rem; background:#ffffff; border:2px solid #e0e7ef; border-radius:12px; text-decoration:none; color:#333; box-shadow:0 2px 4px rgba(0,0,0,0.05); cursor:pointer;" onmouseover="this.style.borderColor='#f59e0b'; this.style.boxShadow='0 6px 16px rgba(245,158,11,0.2)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.borderColor='#e0e7ef'; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.05)'; this.style.transform='translateY(0)';">
-        <div style="background:#f59e0b; color:#fff; width:50px; height:50px; border-radius:10px; display:flex; align-items:center; justify-content:center; font-size:1.5em; flex-shrink:0;">💬</div>
-        <div>
-          <div style="font-weight:700; font-size:1.1em; color:#d97706;">Contacta con nosotros</div>
-          <div style="font-size:0.9em; color:#666; margin-top:0.25rem;">Sugerencias, mejoras o incidencias</div>
-        </div>
-      </a>
-    </div>
-  </div>
-</div>
-
-*************************************************************************************************************
