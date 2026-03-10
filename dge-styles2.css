@@ -1,0 +1,372 @@
+/*
+ * DGE LiaScript Custom Styles
+ * Basado en dge-dcat-ap-es.css y adaptado para LiaScript
+ */
+
+:root {
+    /* Colores principales del repositorio DCAT-AP-ES */
+    --red-aporta: 206, 14, 45;
+    --red-aporta-light: 218, 139, 151;
+    --blue-aporta: 14, 48, 98;
+    --blue-aporta-light: 80, 143, 226;
+    --amarillo-aporta: 249, 206, 63;
+    --amarillo-aporta-light: 248, 232, 168;
+    
+    /* Variables específicas para LiaScript */
+    --lia-anthracite: 75,75,75;
+    --lia-blue-darker: 0,72,113;
+    --lia-blue-dark: 12,120,171;
+    --lia-blue: 15,147,209;
+    --lia-grey-dark: 50,50,50;
+    --lia-grey-light: 240,240,240;
+    --lia-grey-lighter: 249,249,249;
+    --lia-grey: 174,174,174;
+    --lia-red-darker: 104,0,0;
+    --lia-red-dark: 185,75,60;
+    --lia-red: var(--red-aporta);
+    --lia-success: 140,201,111;
+    --lia-turquoise-darker: 15,54,69;
+    --lia-turquoise-dark: 42,109,111;
+    --lia-turquoise: 57,145,147;
+    --lia-warning: 244,195,67;
+    --lia-white: 255,255,255;
+    --lia-yellow-darker: var(--amarillo-aporta);
+    --lia-yellow-dark: var(--amarillo-aporta);
+    --lia-yellow: var(--amarillo-aporta-light);
+    --lia-black: 0,0,0;
+    --color-background: var(--lia-white);
+    --color-border: var(--lia-grey-light);
+    --color-highlight-dark: var(--blue-aporta);
+    --color-highlight-menu: var(--blue-aporta-light);
+    --color-highlight: var(--blue-aporta-light);
+    --color-text: var(--lia-anthracite);
+}
+
+/* ========== TIPOGRAFÍA Y ELEMENTOS BASE ========== */
+
+body {
+    font-family: 'Montserrat', Arial, sans-serif !important;
+    line-height: 1.6 !important;
+}
+
+/* Alineación de texto dentro de las slides de LiaScript */
+.lia-slide__content {
+  text-align: justify;
+}
+
+.h1, .h2, .h3 .h4 {
+    font-family: 'Montserrat';
+    line-height: 1.35;
+    align-content: center;
+    text-align: center;
+}
+h1, h2, h3 h4 {
+    font-family: 'Montserrat';
+    line-height: 1.35;
+    align-content: center;
+    text-align: center;
+}
+
+
+.icon::before {
+  display: inline-block;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.overview {
+  border-left: 4px solid rgba(var(--color-highlight));
+  padding-left: 1em;
+  margin: 1em;
+}
+
+/* Espacio entre el texto inicial del strong y la definición */
+[data-group-id="information"] strong {
+    margin-right: 0.5em;
+}
+
+
+/* Colores y estilos */
+.text-error {
+    color: rgb(var(--lia-red));
+}
+
+figure figcaption {
+    text-align: center;
+}
+
+/* Logos en el header */
+/* Header Logos row */
+.dge-entidades {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: var(--dge-padding);
+}
+
+.logo-list-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; 
+}
+
+/* ========== LOGOS EN FILA HORIZONTAL ========== */
+/* Selector específico y robusto para evitar conflictos */
+ul.logo-list.primary-logos,
+.logo-list.primary-logos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+/* Elementos de la lista - forzar inline */
+ul.logo-list.primary-logos li,
+.logo-list.primary-logos li {
+    display: inline-flex;
+    flex: 0 0 auto;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Enlaces dentro de los logos */
+ul.logo-list.primary-logos li a,
+.logo-list.primary-logos li a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Imágenes de los logos - tamaño uniforme */
+ul.logo-list.primary-logos img,
+.logo-list.primary-logos img {
+    max-height: 42px;
+    width: auto;
+    max-width: 200px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Primer logo - ancho máximo especial para logos rectangulares anchos */
+ul.logo-list.primary-logos li:first-child img,
+.logo-list.primary-logos li:first-child img {
+    max-width: 350px !important;
+}
+
+/* Media Queries para pantallas pequeñas */
+@media screen and (max-width: 768px) {
+    ul.logo-list.primary-logos,
+    .logo-list.primary-logos {
+        gap: 15px;
+    }
+
+    ul.logo-list.primary-logos img,
+    .logo-list.primary-logos img {
+        max-height: 50px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    ul.logo-list.primary-logos,
+    .logo-list.primary-logos {
+        gap: 10px;
+    }
+
+    ul.logo-list.primary-logos img,
+    .logo-list.primary-logos img {
+        max-height: 40px;
+    }
+}
+
+.pdf-download-btn {
+    display:inline-block;
+    background:rgba(var(--color-highlight));
+    color:rgba(var(--lia-white)) !important;
+    font-weight:600;
+    padding:0.75em 1.5em;
+    border-radius:6px;
+    text-decoration:none;
+    font-size:1.05em;
+    box-shadow:0 2px 8px rgba(25,118,210,0.08);
+    transition:background 0.2s;
+}
+.pdf-download-btn:hover {
+    background:rgba(var(--red-aporta));
+}
+
+/* ========== CONFIGURACIÓN DEL TOC (TABLA DE CONTENIDOS) ========== */
+/* Ocultar niveles inferiores al nivel 2 en el TOC */
+/* .lia-toc__link--is-lvl-3,
+.lia-toc__link--is-lvl-4,
+.lia-toc__link--is-lvl-5,
+.lia-toc__link--is-lvl-6 {
+    display: none !important;
+}
+ */
+
+.concepto {
+    background:rgba(var(--amarillo-aporta-light));
+    padding: 0.6rem 1rem;
+    margin: 2rem 0 0 0;
+    font-size: 1.75rem;
+    font-weight: 600;
+}
+.concepto_otros {
+    background:rgba(var(--red-aporta-light));
+    padding: 0.6rem 1rem;
+    margin: 2rem 0 0 0;
+    font-size: 1.75rem;
+    font-weight: 600;
+}
+.ejemplo_caja {
+    margin:0 0 0 2rem;
+    border-left: .5rem solid #154481;
+    overflow:hidden;
+}
+.ejemplo_titulo {
+    background:#f7faff; 
+    padding:0.6rem 1rem; 
+    font-weight: 600;
+}
+.ejemplo_contenido {
+    padding:0 1rem 0 2rem;
+}
+
+.aviso_caja {
+    margin:0 0 0 2rem;
+    border-left: .5rem solid #154481;
+    overflow:hidden;
+}
+.aviso_titulo {
+    background:#f7faff; 
+    padding:0.6rem 1rem; 
+    font-weight: 600;
+}
+.aviso_contenido {
+    padding:0 1rem 0 2rem;
+}
+
+.masinfo_caja {
+    margin:0 0 0 2rem;
+    border-left: .5rem solid #154481;
+    overflow:hidden;
+}
+.masinfo_titulo {
+    background:#f7faff; 
+    padding:0.6rem 1rem; 
+    font-weight: 600;
+}
+.masinfo_contenido {
+    padding:0 1rem 0 2rem;
+}
+
+.sabermas_caja {
+    margin:0 0 0 2rem;
+    border-left: .5rem solid #154481;
+    overflow:hidden;
+}
+.sabermas_titulo {
+    background:#f7faff; 
+    padding:0.6rem 1rem; 
+    font-weight: 600;
+}
+.sabermas_contenido {
+    padding:0 1rem 0 2rem;
+}
+
+.casoestudio_caja {
+    margin:0 0 0 2rem;
+    border-left: .5rem solid #154481;
+    overflow:hidden;
+}
+.casoestudio_titulo {
+    background:#f7faff; 
+    padding:0.6rem 1rem; 
+    font-weight: 600;
+}
+.casoestudio_contenido {
+    padding:0 1rem 0 2rem;
+}
+
+.ejercicio_caja, .presentacion_caja {
+    background:#ffffff; 
+    border:2px solid #154481; 
+    border-radius:12px; 
+    box-shadow:0 2px 8px rgba(21,68,129,0.15); 
+    margin:1.5rem 0; 
+    overflow:hidden;
+}
+.ejercicio_titulo, .presentacion_titulo {
+    background:linear-gradient(135deg, #072142 0%, #154481 100%); 
+    color:#ffffff; 
+    padding:1rem 1.5rem; 
+    display:flex; 
+    align-items:center; 
+    gap:0.75rem;
+}
+.ejercicio_tituloH, .presentacion_tituloH {
+    margin:0; font-size:1.3em; 
+    font-weight:600; 
+    font-family:'Montserrat', sans-serif;
+}
+.ejercicio_contenido {
+    padding:1.25rem 1.5rem;
+    background:#f8fafc;
+}
+
+
+.respuestaok_caja {
+    background:#d1fae5; 
+    border-left:4px solid #10b981; 
+    padding:0.5rem 1rem; 
+    border-radius:6px; 
+    margin:0.5rem 0;
+}
+.respuestaok_titulo {
+    color:#065f46; 
+    font-weight:600; 
+    font-size:1.1em;
+}
+.respuestaok_subtitulo {
+    color:#047857; 
+    font-size:0.9em; 
+    margin-top:0.25rem;
+}
+.respuestaok_contenido {
+    color:#047857; 
+    font-size:0.9em; 
+    margin:0.5rem 0 0.5rem 1.5rem;
+}
+
+.presentacion_tabla_td_ico {
+    width:80px; 
+    text-align:center; 
+    vertical-align:middle; 
+    background:#f8fafc; 
+    border-right:1px solid #e0e7ef; 
+    padding:1rem; 
+    font-size:1.8em;
+}
+.presentacion_tabla_td_txt {
+    padding:1rem 1.25rem; 
+    vertical-align:middle; 
+    line-height:1.6;
+}
