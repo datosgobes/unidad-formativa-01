@@ -24,7 +24,7 @@ dark:   false
 script: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 link: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap
-      https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/css/dge-styles.css
+      https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos/assets/css/dge-styles.css
 
 font: Montserrat
 
