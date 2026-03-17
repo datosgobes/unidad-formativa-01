@@ -17,7 +17,7 @@ repository: https://github.com/datosgobes/unidad-formativa-01
 
 logo:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_dge_square.svg
 
-icon:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_dge_normal.svg
+icon:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_conjunto.png
 
 dark:   false
 
@@ -35,15 +35,31 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 
 # Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
-<ul class="logo-list primary-logos">
-  <li><a href="https://digital.gob.es/ministerio/organigrama_organos/SEDIA.html"><img alt="Secretaría de Estado de Digitalización e Inteligencia Artificial" src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_sedia_red-es.jpg"></a></li>
-  <li><a href="https://datos.gob.es"><img alt="datos.gob.es" src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_dge_normal.svg"></a></li>
-  <li><a href="https://datos.gob.es/acerca-de-la-iniciativa-aporta"><img alt="Iniciativa Aporta" src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_iniciativa-aporta.svg"></a></li>
-</ul>
 
-<div style="background:#ffffff; border:2px solid #154481; border-radius:12px; box-shadow:0 4px 12px rgba(21,68,129,0.15); margin:2rem 0; overflow:hidden;">
+<center>
+<br>
+__Título de la unidad__
 
-  <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:1.5rem 2rem; text-align:center;">
+¿Qué son los datos abiertos? Conceptos básicos, principios y beneficios.
+
+__Descripción de la unidad__
+
+La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.
+</center>
+
+  <div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap; margin-bottom:0.75rem;">
+    <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#2" class="empezar-btn" style="font-size:1.75em; padding:1rem 1.6rem; font-weight:800;">▶️ Empezar curso</a>
+  </div>
+
+## Información inicial
+
+{{|>}}
+*************************************************************************************************************
+
+
+<div style="background: #ffffff; border:2px solid rgba(var(--blue-aporta)); margin:2rem 0; overflow:hidden;">
+
+  <div style="background:rgba(var(--blue-aporta)); color:#ffffff; padding:1.5rem 2rem; text-align:center;">
     <p style="margin:0; font-size:1.6em; font-weight:700; ">Datos abiertos: conceptos básicos y beneficios</p>
   </div>
 
@@ -124,9 +140,7 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 </table>
 
 <div style="background:#f8fafc; border-top:2px solid #154481; padding:1.5rem; text-align:center;">
-  <div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap; margin-bottom:0.75rem;">
-    <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#3" class="pdf-download-btn" style="font-size:1.75em; padding:1rem 1.6rem; font-weight:800;">▶️ Empezar curso</a>
-  </div>
+
   <div style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin-bottom:0.5rem;border:none;">
     <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">📄 PDF</a>
     <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">📦 SCORM</a>
@@ -136,21 +150,6 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 </div>
   
 </div>
-
-## Información inicial
-
-{{|>}}
-*************************************************************************************************************
-
-<center>
-__Título de la unidad__
-
-¿Qué son los datos abiertos? Conceptos básicos, principios y beneficios.
-
-__Descripción de la unidad__
-
-La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.
-</center>
 
 ---
 
