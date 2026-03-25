@@ -3,7 +3,7 @@ module_id: unidad-formativa-01
 author: Equipo gestor de la plataforma datos.gob.es
 email: contacto@datos.gob.es
 date: 26/01/2026
-version: 1.0.0
+version: 0.1.0.0
 language: es
 narrator: Spanish Female
 mode: Textbook
