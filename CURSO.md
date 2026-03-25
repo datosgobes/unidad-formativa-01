@@ -70,7 +70,7 @@ La unidad ofrece una visión general de qué son los datos abiertos, cómo se us
     </tr>
     <tr style="border-bottom:1px solid #e0e7ef;">
       <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">👥</td>
-      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Público objetivo:</strong> publicadores y <u>reutilizadores</u> de datos abiertos, así como cualquier persona interesada en esta materia.</td>
+      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Público objetivo:</strong> publicadores y reutilizadores de datos abiertos, así como cualquier persona interesada en esta materia.</td>
     </tr>
     <tr>
       <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🎓</td>
