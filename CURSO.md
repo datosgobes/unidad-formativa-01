@@ -36,20 +36,18 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 # Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
 
-<center>
-<br>
-__Título de la unidad__
+Esta unidad didáctica ofrece una visión general de **qué son los datos abiertos**, los **conceptos clave** relacionados con la apertura de datos, sus **principios fundamentale** y los **beneficios** que aporta la reutilización de la información. 
 
-¿Qué son los datos abiertos? Conceptos básicos, principios y beneficios.
+Para consolidar lo aprendido, contarás con **ejercicios** en cada bloque, un **cuestionario final** y un **resumen** que recogerá las ideas más importantes.
 
-__Descripción de la unidad__
+Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece una visión general de los conceptos fundamentales que exploraremos a lo largo de los distintos apartados. Este recurso audiovisual te permitirá situarte en el tema, comprender su importancia y anticipar las ideas clave que desarrollaremos con mayor profundidad .
 
-La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.
-</center>
+<center>**¡Adelante!**</center>
 
-  <div style="display:flex; justify-content:center; gap:1rem; flex-wrap:wrap; margin-bottom:0.75rem;">
-    <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md#2" class="empezar-btn" style="font-size:1.75em; padding:1rem 1.6rem; font-weight:800;">▶️ Empezar curso</a>
-  </div>
+---
+
+!?[Vídeo descriptivo de la unidad](https://www.youtube.com/watch?v=UM9aGVdHuyU)
+
 
 ## Información inicial
 
@@ -59,26 +57,27 @@ La unidad ofrece una visión general de qué son los datos abiertos, cómo se us
 
 <div style="background: #ffffff; border:2px solid rgba(var(--blue-aporta)); margin:2rem 0; overflow:hidden;">
 
-  <div style="background:rgba(var(--blue-aporta)); color:#ffffff; padding:1.5rem 2rem; text-align:center;">
-    <p style="margin:0; font-size:1.6em; font-weight:700; ">Datos abiertos: conceptos básicos y beneficios</p>
-  </div>
 
-  <table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed; border-bottom:2px solid #154481;">
-    <tr style="border-bottom:1px solid #e0e7ef;">
-      <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">📋</td>
-      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Descripción:</strong> La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.</td>
-    </tr>
-    <tr style="border-bottom:1px solid #e0e7ef;">
-      <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">👥</td>
-      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Público objetivo:</strong> publicadores y reutilizadores de datos abiertos, así como cualquier persona interesada en esta materia.</td>
-    </tr>
-    <tr>
-      <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🎓</td>
-      <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Conocimientos previos:</strong> no se precisan</td>
-    </tr>
-  </table>
+<table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed; border-bottom:2px solid #154481;">
+<tr style="border-bottom:1px solid #e0e7ef;">
+<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">📋</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Título:</strong> Datos abiertos: conceptos básicos, principios y beneficios.</td>
+</tr>
+<tr style="border-bottom:1px solid #e0e7ef;">
+<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">📋</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Descripción:</strong> La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.</td>
+</tr>
+<tr style="border-bottom:1px solid #e0e7ef;">
+<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">👥</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Público objetivo:</strong> publicadores y reutilizadores de datos abiertos, así como cualquier persona interesada en esta materia.</td>
+</tr>
+<tr>
+<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🎓</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Conocimientos previos:</strong> no se precisan</td>
+</tr>
+</table>
 
-  <div style="display:flex; flex-wrap:wrap; border-bottom:2px solid #154481;">
+  <div style="display:flex; flex-wrap:wrap; border-bottom:2px solid #154481; padding:1rem 1.25rem;">
     <div style="flex:1; min-width:300px; border-right:2px solid #154481;">
       <div style="display:flex; border-bottom:1px solid #e0e7ef;">
         <div style="width:80px; display:flex; align-items:center; justify-content:center; background:#f8fafc; border-right:1px solid #e0e7ef; padding:0.75rem; flex-shrink:0;">
@@ -88,13 +87,11 @@ La unidad ofrece una visión general de qué son los datos abiertos, cómo se us
           <p class="subtitulo">Objetivos</p>
         </div>
       </div>
-      <div style="padding:1rem 1.25rem;">
-        <ul style="margin:0; padding-left:1.25rem; line-height:1.7;">
-          <li>Establecer <strong>conceptos básicos</strong> relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.</li>
-          <li>Reconocer los <strong>principios generales</strong> a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.</li>
-          <li>Descubrir los principales <strong>beneficios económicos y sociales</strong> que supone la apertura de datos públicos.</li>
-          <li>Conocer los <strong>aspectos clave ligados al ecosistema de los datos</strong> de cara a asegurar la generación de los beneficios apuntados.</li>
-        </ul>
+      <div style="padding:1rem">
+- Establecer <strong>conceptos básicos</strong> relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.
+- Reconocer los <strong>principios generales</strong> a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.
+- Descubrir los principales <strong>beneficios económicos y sociales</strong> que supone la apertura de datos públicos.
+- Conocer los <strong>aspectos clave ligados al ecosistema de los datos</strong> de cara a asegurar la generación de los beneficios apuntados.
       </div>
     </div>
     <div style="flex:1; min-width:300px;">
@@ -106,54 +103,45 @@ La unidad ofrece una visión general de qué son los datos abiertos, cómo se us
             <p class="subtitulo">Contenidos</p>
         </div>
       </div>
-      <div style="padding:1rem 1.25rem;">
-        <ol style="margin:0; padding-left:1.25rem; line-height:1.7;">
-          <li>Introducción</li>
-          <li>Conceptos clave
-            <ul style="margin:0.25rem 0; padding-left:1.25rem;">
-              <li>Bloque I: conceptos básicos</li>
-              <li>Bloque II: conceptos relacionados con la publicación</li>
-              <li>Bloque III: conceptos relacionados con la reutilización</li>
-            </ul>
-          </li>
-          <li>Principios generales de los datos abiertos</li>
-          <li>Beneficios de los datos abiertos
-            <ul style="margin:0.25rem 0; padding-left:1.25rem;">
-              <li>Beneficios económicos</li>
-              <li>Beneficios sociales</li>
-              <li>Beneficios para las Administraciones</li>
-            </ul>
-          </li>
-        </ol>
+      <div style="padding:1rem">
+1. Introducción
+2. Conceptos clave
+   - Bloque I: conceptos básicos
+   - Bloque II: conceptos relacionados con la publicación
+   - Bloque III: conceptos relacionados con la reutilización
+3. Principios generales de los datos abiertos
+4. Beneficios de los datos abiertos
+   - Beneficios económicos
+   - Beneficios sociales
+   - Beneficios para las administraciones públicas
       </div>
     </div>
   </div>
-<table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed;">
+<table>
 <tr style="border-bottom:1px solid #e0e7ef;">
-<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">💡</td>
+ <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">💡</td>
 <td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Guía de uso:</strong> en el <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md#tutorial" style="font-weight:600;">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</td>
 </tr>
 <tr style="border-bottom:1px solid #e0e7ef;">
 <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🏷️</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Versión:</strong> v1.0.1</td>
+<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Versión de la unidad:</strong> v1.0.1</td>
 </tr>
 </table>
 
-<div style="background:#f8fafc; border-top:2px solid #154481; padding:1.5rem; text-align:center;">
+<div style="border-top:2px solid #154481; padding:1.5rem; text-align:center;">
+Empezar el curso o descargar documentación
 
   <div style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin-bottom:0.5rem;border:none;">
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">📄 PDF</a>
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">📦 SCORM</a>
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" style="display:inline-block; background:#6b7280; color:#ffffff; font-size:0.9em; padding:0.5rem 1rem; border-radius:6px; text-decoration:none;" onmouseover="this.style.background='#4b5563';" onmouseout="this.style.background='#6b7280';">📚 IMS</a>
+    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" class="botones_doc">📄 PDF</a>
+    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📦 SCORM</a>
+    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📚 IMS</a>
   </div>
-  <div style="font-size:0.85em; color:#666;">Empezar el curso o descargar documentación</div>
+
 </div>
   
 </div>
 
----
 
-!?[Vídeo descriptivo de la unidad](https://www.youtube.com/watch?v=UM9aGVdHuyU)
 
 *************************************************************************************************************
 
@@ -198,7 +186,7 @@ Como punto de partida se definen los conceptos básicos que se manejan al hablar
 <div class="concepto">
 		Dato
 </div>
-Toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)
+**Toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)**
 
 Los datos pueden ser **estructurados** y **no estructurados**:
 
@@ -227,7 +215,7 @@ Los datos se convierten en **información** cuando se les proporciona un context
 <div class="concepto">
 		Datos abiertos
 </div>
-Cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)
+**Cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)**
 
 Esta definición identifica tres características esenciales:
 
@@ -236,13 +224,6 @@ Esta definición identifica tres características esenciales:
 - **Redistribución**: posibilidad de compartir datos originales o derivados.
 
 <center>![Definición de datos abiertos](media/def_datos_abiertos.png "Figura. Definición de datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
-
-**Lo que NO son datos abiertos**
-
-- Datos publicados sin licencia clara (genera inseguridad jurídica).
-- Datos accesibles solo previo registro o pago.
-- Datos con restricciones de privacidad o seguridad (ej: datos personales).
-
 
 <div class="aviso_caja">
 	<div class="aviso_titulo">
@@ -257,10 +238,19 @@ Esta definición identifica tres características esenciales:
 	</div>
 </div>
 
+**Lo que NO son datos abiertos**
+
+- Datos publicados sin licencia clara (genera inseguridad jurídica).
+- Datos accesibles solo previo registro o pago.
+- Datos con restricciones de privacidad o seguridad (ej: datos personales).
+
+
 <div class="concepto">
 		Licencia abierta
 </div>
-Acuerdo legal que otorga permisos de libre uso, modificación y distribución de un recurso, exigiendo únicamente **el reconocimiento del autor** y la continuidad de la propia licencia abierta. Las licencias Creative Commons (CC) es el ejemplo más popular para contenidos y datos, y en concreto, las mostradas en este esquema, las más habituales en el contexto de los datos abiertos.
+**Acuerdo legal que otorga permisos de libre uso, modificación y distribución de un recurso, exigiendo únicamente el reconocimiento del autor y la continuidad de la propia licencia abierta. **
+
+Las licencias Creative Commons (CC) es el ejemplo más popular para contenidos y datos, y en concreto, las mostradas en este esquema, las más habituales en el contexto de los datos abiertos.
 
 <center>![Licencias](media/licencias.jpg "Figura. Licencias predefinidas más populares para datos abiertos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
@@ -285,9 +275,9 @@ Acuerdo legal que otorga permisos de libre uso, modificación y distribución de
 <div class="concepto">
 		Datos abiertos gubernamentales o del sector público
 </div>
-Son datos generados, creados, recolectados, procesados, preservados, mantenidos, diseminados o financiados por un gobierno o una institución pública, y que consideran los requerimientos y restricciones legales que permiten su reutilización -licencia abierta-. Son datos con un gran potencial. [📖 Fuente](https://ideas.repec.org/p/oec/govaaa/22-en.html).
+**Son datos generados, creados, recolectados, procesados, preservados, mantenidos, diseminados o financiados por un gobierno o una institución pública, y que consideran los requerimientos y restricciones legales que permiten su reutilización -licencia abierta-. Son datos con un gran potencial. [📖 Fuente](https://ideas.repec.org/p/oec/govaaa/22-en.html).**
 
-**Las administraciones públicas son los principales proveedores de datos abiertos**. Por esta razón, cuando hablamos de datos abiertos, generalmente se hace referencia a datos oficinales gubernamentales disponibles como abiertos.
+Las administraciones públicas son los principales proveedores de datos abiertos. Por esta razón, cuando hablamos de datos abiertos, generalmente se hace referencia a datos oficinales gubernamentales disponibles como abiertos.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -301,7 +291,7 @@ Son datos generados, creados, recolectados, procesados, preservados, mantenidos,
 <div class="concepto">
 		Datos abiertos de alto valor (HVD por sus siglas en inglés)
 </div>
-Datos cuya reutilización está asociada a considerables **beneficios para la sociedad, el medio ambiente y la economía**, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%207%3A%20%23a3%2D3%5D,-Art%C3%ADculo%203.ter)
+**Datos cuya reutilización está asociada a considerables beneficios para la sociedad, el medio ambiente y la economía, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%207%3A%20%23a3%2D3%5D,-Art%C3%ADculo%203.ter)**
 
 En enero de 2023, la Comisión Europea define seis categorías para diferenciar los datos de alto valor [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true)
 
@@ -329,14 +319,16 @@ En enero de 2023, la Comisión Europea define seis categorías para diferenciar 
 <div class="concepto">
 		Datos protegidos
 </div>
-Datos que obran en poder de organismos del sector público que estén protegidos por motivos de:
+**Datos que obran en poder de organismos del sector público sujetos a derechos de terceros, pero que bajo ciertas condiciones, se permite su reutilización.**
 
-- confidencialidad comercial, incluidos los secretos comerciales, profesionales o empresariales
-- confidencialidad estadística
-- protección de los derechos de propiedad intelectual de terceros, o
-- protección de los datos personales
+La **Ley de Gobernanza de Datos (DGA)** establece el marco para este tipo de datos. Norma complementaria de la Directiva de 2019, que rige el ámbito de los datos abiertos. [📖 Fuente](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R0868)
 
-La Ley de Gobernanza de Datos (DGA) establece el marco para este tipo de datos. Norma complementaria de la Directiva de 2019, que rige el ámbito de los datos abiertos. [📖 Fuente](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R0868)
+Para los datos protegidos, el acceso está restringido o limitado, principalmente por las siguientes razones:
+
+- **confidencialidad comercial**, incluidos los secretos comerciales, profesionales o empresariales
+- **confidencialidad estadística**
+- **protección de los derechos de propiedad intelectual** de terceros, o
+- **protección de los datos personales**
 
 
 <div class="aviso_caja">
@@ -344,7 +336,7 @@ La Ley de Gobernanza de Datos (DGA) establece el marco para este tipo de datos. 
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-			Los datos protegidos son aquellos datos que las administraciones no pueden disponer como datos abiertos pues en ellos concurren derechos de terceros que dificultan su reutilización: datos de carácter personal, datos con derechos de propiedad intelectual, entre otros. 
+			Los datos protegidos son aquellos datos que las administraciones no pueden disponer como datos abiertos, pues en ellos concurren derechos de terceros que dificultan su reutilización: datos de carácter personal, datos con derechos de propiedad intelectual, entre otros. 
 	</div>
 </div>
 
@@ -373,7 +365,7 @@ La Ley de Gobernanza de Datos (DGA) establece el marco para este tipo de datos. 
 <div class="concepto">
 		Conjunto de datos
 </div>
-Datos relacionados, convenientemente estructurados y organizados, de forma que puedan ser tratados (procesados) apropiadamente para obtener información. [📖 Fuente](https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf)
+**Datos relacionados, convenientemente estructurados y organizados, de forma que puedan ser tratados (procesados) apropiadamente para obtener información. [📖 Fuente](https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf)**
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -387,8 +379,9 @@ Datos relacionados, convenientemente estructurados y organizados, de forma que p
 <div class="concepto">
 		Servicio de datos
 </div>
-Conjunto de operaciones que ofrecen acceso a uno o más conjuntos de datos o funciones de procesamiento permitiendo obtener datos en distintos formatos.
-A los servicios de datos se accede principalmente mediante API (Interfaz de Programación de Aplicaciones), que actúa como un puente para acceder a los datos de un sistema sin necesidad de conocer su implementación interna.
+**Conjunto de operaciones que ofrecen acceso a uno o más conjuntos de datos o funciones de procesamiento permitiendo obtener datos en distintos formatos.**
+
+A los servicios de datos **se accede principalmente mediante API** (Interfaz de Programación de Aplicaciones), que actúa como un **puente** para acceder a los datos de un sistema sin necesidad de conocer su implementación interna.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -396,6 +389,15 @@ A los servicios de datos se accede principalmente mediante API (Interfaz de Prog
 	</div>
 	<div class="ejemplo_contenido">
 			La Agencia Estatal de Meteorología (AEMET) publica una API de datos meteorológicos que permite que una aplicación consulte la temperatura actual mediante una llamada programada. [📖 Fuente](https://opendata.aemet.es/centrodedescargas/inicio) 
+	</div>
+</div>
+
+<div class="aviso_caja">
+	<div class="aviso_titulo">
+		⚠️ Aviso
+	</div>
+	<div class="aviso_contenido">
+			Es importante no confundir entre servicio de datos y API. El **servicio de datos** es el “repositorio” o fuente donde están los datos. La **API** es la “puerta de acceso programática” que permite interactuar con esos datos de forma dinámica y automatizada.
 	</div>
 </div>
 
@@ -408,26 +410,17 @@ A los servicios de datos se accede principalmente mediante API (Interfaz de Prog
   </div>
 </div>
 
-<div class="aviso_caja">
-	<div class="aviso_titulo">
-		⚠️ Aviso
-	</div>
-	<div class="aviso_contenido">
-			Es importante no confundir entre servicio de datos y API. El **servicio de datos** es el “repositorio” o fuente donde están los datos. La **API** es la “puerta de acceso programática” que permite interactuar con esos datos de forma dinámica y automatizada.
-	</div>
-</div>
-
 <div class="concepto">
 		Distribución
 </div>
-Información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. [📖 Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) 
+**Información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. [📖 Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) **
 
-Cada formato tiene diferentes peculiaridades. Los más comunes son los siguientes:
+**Cada formato** tiene diferentes peculiaridades. Los más comunes son los siguientes:
 <ul style="list-style-type: disc; margin-left: 1.5em;">
-  <li>CSV: simple, universal y legible por máquina</li>
-  <li>XLSX: familiar para usuarios de Excel</li>
-  <li>JSON/JSON-LD: estructurado, ideal para su uso por API</li>
-  <li>PC-AXIS: habitual para datos estadísticos </li>
+  <li>**CSV**: simple, universal y legible por máquina</li>
+  <li>**XLSX**: familiar para usuarios de Excel</li>
+  <li>**JSON/JSON-LD**: estructurado, ideal para su uso por API</li>
+  <li>**PC-AXIS**: habitual para datos estadísticos </li>
 </ul>
 
 <div class="ejemplo_caja">
@@ -435,7 +428,9 @@ Cada formato tiene diferentes peculiaridades. Los más comunes son los siguiente
 		🧭 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			El Instituto Nacional de Estadística publica datos sobre residuos alimentarios por actividad económica. Los datos se sirven como [servicio API](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542) y como [ficheros con diferentes formatos](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542), lo que referimos como diferentes distribuciones: CSV, XLSX, JSON, PC-AXIS, entre otros.
+			El Instituto Nacional de Estadística publica datos sobre residuos alimentarios por actividad económica. 
+      
+      Los datos se sirven como [servicio API](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542) y como [ficheros con diferentes formatos](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542), lo que referimos como diferentes distribuciones: CSV, XLSX, JSON, PC-AXIS, entre otros.
       <br>
       Además del servicio API, que permite acceder mediante consultas dinámicas a los datos mencionados, el INE ofrece datasets en CSV y JSON, entre otros formatos.
 	</div>
@@ -448,7 +443,9 @@ Cada formato tiene diferentes peculiaridades. Los más comunes son los siguiente
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-      El concepto de distribución en ocasiones se refiere a la forma de ofrecer los datos para su descarga o uso. Es decir, se pueden diferenciar distribuciones no solo por formato del fichero sino también en base a otros criterios como puede ser el periodo temporal al que se refiere la información. De esta forma, cada fichero de datos correspondiente a un periodo es una distribución, siempre que ese fichero se publique como una unidad de acceso independiente. Ver ejemplo a continuación. 
+      El concepto de distribución **en ocasiones se refiere a la forma de ofrecer los datos** para su descarga o uso. 
+      
+      Es decir, se pueden diferenciar distribuciones no solo por formato del fichero sino también en base a otros criterios como puede ser el periodo temporal al que se refiere la información. De esta forma, cada fichero de datos correspondiente a un periodo es una distribución, siempre que ese fichero se publique como una unidad de acceso independiente. Ver ejemplo a continuación. 
 
       <div class="ejemplo_caja">
         <div class="ejemplo_titulo">
@@ -482,7 +479,7 @@ Cada formato tiene diferentes peculiaridades. Los más comunes son los siguiente
 <div class="concepto">
 		Metadatos
 </div>
-Datos que definen y describen otros datos. Es información estructurada que describe, explica o localiza un conjunto de datos o un servicio de datos, haciendo más sencilla la recuperación de información, utilización o administración de dicho conjunto de datos [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO) 
+**Datos que definen y describen otros datos. Es información estructurada que describe, explica o localiza un conjunto de datos o un servicio de datos, haciendo más sencilla la recuperación de información, utilización o administración de dicho conjunto de datos [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO) **
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -518,9 +515,11 @@ Datos que definen y describen otros datos. Es información estructurada que desc
 <div class="concepto">
 		Catálogo de datos abiertos
 </div>
-Repositorio electrónico donde se almacenan y administran datos abiertos y sus metadatos.
+**Repositorio electrónico donde se almacenan y administran datos abiertos y sus metadatos.**
 
-Estos catálogos generalmente se presentan en forma de páginas web que almacenan y administran tanto los **datos** como algunos **metadatos** que los describen. Podemos encontrar [catálogos con datos abiertos del sector público en todos los niveles administrativos](https://datos.gob.es/es/iniciativas), ya sea nacional, regional o local.
+Un catálogo de datos generalmente se presenta en forma de páginas web desde la que se **almacena y administran tanto los datos como los metadatos** de los describen. 
+
+Podemos encontrar [catálogos con datos abiertos del sector público en todos los niveles administrativos](https://datos.gob.es/es/iniciativas), ya sea nacional, regional o local.
 
 Dado que el número de portales y repositorios continúa creciendo día a día, para facilitarla localización de datos, estos catálogos se consolidan a través de **meta-catálogos y agregadores**, que ofrecen una visión consolidada y estable de los distintos conjuntos y servicios de datos a través de un único punto de acceso común. Es el caso del [Catálogo nacional,](https://datos.gob.es/es/catalogo/conjuntos-datos) albergado en el portal de datos abiertos nacional (datos.gob.es) o del [Catálogo del portal europeo de datos](https://data.europa.eu/data/combined?locale=es), o de repositorios temáticos como los referidos en la imagen siguiente.
 
@@ -538,7 +537,7 @@ Dado que el número de portales y repositorios continúa creciendo día a día, 
 <div class="concepto">
 		Espacio de datos
 </div>
-Es un ecosistema donde materializar la compartición voluntaria de los datos de sus participantes dentro de un entorno de soberanía, confianza y seguridad, establecido mediante mecanismos integrados de gobernanza y técnicos, habilitadores de la generación de valor. [📖 Fuente](https://gaiax-spain.com/espacios-de-datos/)
+**Es un ecosistema donde materializar la compartición voluntaria de los datos de sus participantes dentro de un entorno de soberanía, confianza y seguridad, establecido mediante mecanismos integrados de gobernanza y técnicos, habilitadores de la generación de valor. [📖 Fuente](https://gaiax-spain.com/espacios-de-datos/)**
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -560,63 +559,6 @@ Es un ecosistema donde materializar la compartición voluntaria de los datos de 
 
 </div>
 
-<div class="concepto_otros">
-    🧪 Caso de estudio
-</div>
-      En la siguiente imagen se refieren los principales conceptos descritos anteriormente. Se aplican a una colección de datos publicado por el INE y referenciado en el Catálogo de datos abiertos nacional albergado en datos.gob.es en la siguiente url:
-      <br>
-      https://datos.gob.es/es/catalogo/ea0010587-empleo-por-ramas-de-actividad-cntr2010-identificador-api-67201
-      <br>
-      <strong>Datos</strong> sobre la evolución del empleo por ramas de actividad
-      <br>
-      Si descargamos el fichero <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=67201">aquí</a> obtenemos un fichero xls que contiene los siguientes datos:
-      <br>
-      <center><img src="media/ejemplo_tabla.png"></center>
-      <br>
-      <strong>Datos abiertos</strong> dado que se publican asociados a una licencia abierta:
-      <br>
-      <center><img src="media/ejemplo_licencia.png"></center>
-      <br>
-      [📖 Fuente](https://www.ine.es/dyngs/AYU/index.htm?cid=125)
-      <br>
-      <br>
-      <strong>Datos abiertos de alto valor</strong>. Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
-      <br>
-      <center><img src="media/ejemplo_hvd.png"></center>
-      <br>
-      <strong>Conjunto de datos</strong>
-      <br>
-      Los datos que publica el INE con los datos sobre evolución de empleo, junto con sus correspondientes metadatos, constituye un conjunto de datos.
-      <br>
-      <center><img src="media/ejemplo_dataset.png"></center>
-      <br>
-      <strong>Distribuciones</strong>
-      <br>
-      La colección de ficheros en diferentes formatos: CSV, XLSX, JSON, etc. se corresponde con las distribuciones.
-      <br>
-      <center><img src="media/ejemplo_distribuciones.png"></center>
-      <br>
-      <strong>Metadatos</strong>
-      <br>
-      Los atributos que definen y describen los metadatos que facilitarán su comprensión y su localización a través de buscadores.
-      <br>
-      <center><img src="media/ejemplo_metadatos.png"></center>
-
-<div class="concepto_otros">
-		🔍 Saber más
-</div>
-Se pueden encontrar listados de definiciones para ampliar los conceptos ligados a datos abiertos en los siguientes documentos oficiales:
-<br>
-<ol style="list-style-type: disc; margin-left: 1.5em;">
-  <li>Glosario de términos del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO">Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica</a>.</li>
-  <li>Anexo - Definiciones de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo">Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público</a></li>
-  <li>Anexo I - Glosario de terminología de la <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380">Norma Técnica de Interoperabilidad de reutilización de recursos de información (NTI-RISP)</a></li>
-  <li>Capítulo 9 - Definiciones y Acrónimos de la <a href="https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf">Guía de aplicación de la Norma Técnica de Interoperabilidad de reutilización de recursos de información</a>. Incluye un capítulo 9 de Definiciones y Acrónimos.</li>
-  <li>Anexo V - Definiciones y acrónimos de la <a href="https://datos.gob.es/elearning/Unidades_Didacticas/Unidad_1/contenidos/descargas/04-ref.pdf">Guía de Aplicación del Real Decreto 1495/2011 por el que se desarrolla la Ley 37/2007</a>.</li>
-  <li><a href="https://www.esmartcity.es/2025/10/17/diccionario-terminos-administracion-electronica-actualiza-11-edicion">Diccionario de conceptos y términos de la Administración Electrónica (edición 11ª)</a></li>
-</ol>
-
-
 *************************************************************************************************************
 
 
@@ -628,7 +570,7 @@ Se pueden encontrar listados de definiciones para ampliar los conceptos ligados 
 <div class="concepto">
 		Reutilización de la información pública (RISP)
 </div>
-Uso de documentos que obran en poder de las Administraciones y organismos del sector público, por personas físicas o jurídicas, con fines comerciales o no comerciales [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo).
+**Uso de documentos que obran en poder de las Administraciones y organismos del sector público, por personas físicas o jurídicas, con fines comerciales o no comerciales [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo).**
 
 La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814) sobre la reutilización de la información del sector público en aplicación de la [Directiva Europea 2019/1024.](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX%3A32019L1024)
 
@@ -646,7 +588,7 @@ La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.ph
 <div class="concepto">
 		Calidad de datos
 </div>
-Se entiende como la idoneidad de los datos para servir para múltiples propósitos y para diferentes tipos de usuarios [📖 Fuente](https://datos.gob.es/sites/default/files/documentacion/files/guia_calidad_de_datos_abiertos_1_0.pdf).
+**Se entiende como la idoneidad de los datos para servir para múltiples propósitos y para diferentes tipos de usuarios [📖 Fuente](https://datos.gob.es/sites/default/files/documentacion/files/guia_calidad_de_datos_abiertos_1_0.pdf).**
 
 [La norma ISO/IEC 25012](https://iso25000.com/index.php/normas-iso-25000/iso-25012) establece las características que deben cumplir los datos para considerarse de calidad, las cuales se recogen en la siguiente imagen.
 
@@ -666,7 +608,7 @@ Se entiende como la idoneidad de los datos para servir para múltiples propósit
 <div class="concepto">
 		Gobierno abierto (*open Government*)
 </div>
-Es una doctrina que tiene como objetivo que la ciudadanía colabore en la creación y mejora de servicios públicos y en el robustecimiento de la transparencia y la rendición de cuentas [📖 Fuente](https://es.wikipedia.org/wiki/Gobierno_abierto).
+**Es una doctrina que tiene como objetivo que la ciudadanía colabore en la creación y mejora de servicios públicos y en el robustecimiento de la transparencia y la rendición de cuentas [📖 Fuente](https://es.wikipedia.org/wiki/Gobierno_abierto).**
 
 Se sustenta en tres pilares básicos:
 
@@ -691,19 +633,74 @@ Se sustenta en tres pilares básicos:
 
 *************************************************************************************************************
 
+
+### Caso de estudio
+
+{{|>}}
+*************************************************************************************************************
+
+A continuación se muestran, a través de un ejemplo, los principales conceptos descritos anteriormente.
+      
+Se aplican a una **colección de datos publicado por el INE y referenciado en el Catálogo de datos abiertos nacional**, albergado en datos.gob.es en la siguiente url:
+
+https://datos.gob.es/es/catalogo/ea0010587-empleo-por-ramas-de-actividad-cntr2010-identificador-api-67201
+
+ - <strong>Datos</strong> sobre la evolución del empleo por ramas de actividad.
+
+Si descargamos el fichero <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=67201">aquí</a> obtenemos un fichero xls que contiene los siguientes datos:
+
+<center><img src="media/ejemplo_tabla.png"></center>
+
+ - <strong>Datos abiertos</strong> dado que se publican asociados a una licencia abierta.
+
+<center><img src="media/ejemplo_licencia.png"></center>
+
+[📖 Fuente](https://www.ine.es/dyngs/AYU/index.htm?cid=125)
+
+
+ - <strong>Datos abiertos de alto valor</strong>. Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
+ 
+<center><img src="media/ejemplo_hvd.png"></center>
+ 
+ - <strong>Conjunto de datos.</strong> Los datos que publica el INE con los datos sobre evolución de empleo, junto con sus correspondientes metadatos, constituye un conjunto de datos.
+
+<center><img src="media/ejemplo_dataset.png"></center>
+
+ - <strong>Distribuciones.</strong> La colección de ficheros en diferentes formatos: CSV, XLSX, JSON, etc. se corresponde con las distribuciones.
+
+<center><img src="media/ejemplo_distribuciones.png"></center>
+
+ - <strong>Metadatos.</strong> Los atributos que definen y describen los metadatos que facilitarán su comprensión y su localización a través de buscadores.
+
+<center><img src="media/ejemplo_metadatos.png"></center>
+
+*************************************************************************************************************
+
+
+
+### Saber más
+
+{{|>}}
+*************************************************************************************************************
+
+Se pueden encontrar listados de definiciones para ampliar los conceptos ligados a datos abiertos en los siguientes documentos oficiales:
+
+ - Glosario de términos del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO">Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica</a>.
+ - Anexo - Definiciones de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo">Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público</a>
+ - Anexo I - Glosario de terminología de la <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380">Norma Técnica de Interoperabilidad de reutilización de recursos de información (NTI-RISP)</a>
+ - Capítulo 9 - Definiciones y Acrónimos de la <a href="https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf">Guía de aplicación de la Norma Técnica de Interoperabilidad de reutilización de recursos de información</a>. Incluye un capítulo 9 de Definiciones y Acrónimos.
+ - Anexo V - Definiciones y acrónimos de la <a href="https://datos.gob.es/elearning/Unidades_Didacticas/Unidad_1/contenidos/descargas/04-ref.pdf">Guía de Aplicación del Real Decreto 1495/2011 por el que se desarrolla la Ley 37/2007</a>.
+ - <a href="https://www.esmartcity.es/2025/10/17/diccionario-terminos-administracion-electronica-actualiza-11-edicion">Diccionario de conceptos y términos de la Administración Electrónica (edición 11ª)</a>
+
+
+*************************************************************************************************************
+
 ### Ejercicio
 
 {{|>}}
 *************************************************************************************************************
 
-<div class="ejercicio_caja">
-	<div class="ejercicio_titulo">
-    ✏️ Ejercicio
-	</div>
-	<div class="ejercicio_contenido">
-      Consulta el enlace a continuación y marca el concepto al que se refiere el ejemplo de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales1">Principales parques y jardines municipales</a>
-  </div>
-</div>
+Consulta el enlace indicado a continuación y marca el concepto al que se refiere el ejemplo de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales1">Principales parques y jardines municipales</a>
 
 - [[Dato] [Conjunto de datos] [Distribución] [Licencia] [Metadatos]]
 - [  ( )        ( )                 (X)          ( )         ( )    ]  **1)** Los datos de parques municipales del Ayuntamiento en CSV
@@ -714,14 +711,13 @@ Se sustenta en tres pilares básicos:
 ***
 <div class="respuestaok_caja">
   <div class="respuestaok_titulo">✅ ¡Excelente!</div>
-  <div class="respuestaok_subtitulo">Has comprendido correctamente los conceptos:</div>
-  <ul class="respuestaok_contenido">
-    <li><strong>Dato:</strong> unidad básica de información (ej. ubicación de un jardín)</li>
-    <li><strong>Conjunto de datos:</strong> colección de distribuciones sobre una misma temática</li>
-    <li><strong>Distribución:</strong> datos en un formato específico (CSV, JSON, XML, etc.)</li>
-    <li><strong>Licencia:</strong> términos legales de uso y reutilización</li>
-    <li><strong>Metadatos:</strong> información descriptiva (fecha, autor, formato, etc.)</li>
-  </ul>
+Has comprendido correctamente los conceptos
+
+- **Dato**: unidad básica de información (ej. ubicación de un jardín)
+- **Conjunto de datos**: colección de distribuciones sobre una misma temática
+- **Distribución**: datos en un formato específico (CSV, JSON, XML, etc.)
+- **Licencia**: términos legales de uso y reutilización
+- **Metadatos**: información descriptiva (fecha, autor, formato, etc.)
 </div>
 ***
 
@@ -733,9 +729,11 @@ Se sustenta en tres pilares básicos:
 {{|>}}
 *************************************************************************************************************
 
-Para garantizar que los datos abiertos sean fácilmente utilizables, reutilizables y redistribuibles, es necesario cumplir con una serie de principios reconocidos internacionalmente. Estos principios constituyen el marco de referencia que orienta a las organizaciones en la publicación de datos abiertos.
+Para garantizar que los datos abiertos sean **fácilmente utilizables, reutilizables y redistribuibles**, es necesario cumplir con una serie de **principios reconocidos internacionalmente**. 
 
-Aunque en la literatura se identifican diversos enfoques, existen dos marcos de referencia considerados fundamentales, los cuales se presentan a continuación.
+Estos principios constituyen el **marco de referencia** que orienta a las organizaciones en la publicación de datos abiertos.
+
+Aunque en la literatura se identifican diversos enfoques, existen **dos marcos de referencia** considerados fundamentales, los cuales se presentan a continuación.
 
 <center>![Conceptos de apertura de datos](media/principios.jpg "Figura. Conceptos de apertura de datos. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
@@ -746,16 +744,16 @@ Aunque en la literatura se identifican diversos enfoques, existen dos marcos de 
 {{|>}}
 *************************************************************************************************************
 
-En 2007, [una treintena de defensores del gobierno abierto](https://public.resource.org/open_government_meeting.html) se reunió en California (EE.UU.) para elaborar un documento que recogiera los principios [Open Government Data. Así nacieron los](https://opengovdata.org/) ocho **principios** de los datos abiertos gubernamentales, que son los siguientes:
+En 2007, [una treintena de defensores del gobierno abierto](https://public.resource.org/open_government_meeting.html) se reunió en California (EE.UU.) para elaborar un documento que recogiera los principios [Open Government Data. Así nacieron los](https://opengovdata.org/) **ocho principios** de los datos abiertos gubernamentales, que son los siguientes:
 
-* **Completos:** deben ofrecerse todos los datos disponibles, siempre que no estén sujetos a condiciones de privacidad o seguridad y que su apertura no suponga un riesgo de identificación o individualización de una persona física o de seguridad nacional.
-* **Primarios:** los datos ofrecidos deben tener el más alto nivel de granularidad, evitando agregaciones o modificaciones.
-* **Oportunos:** los datos tienen que estar disponibles tan rápido como sea necesario para preservar su valor.
-* **Accesibles:** los datos deben estar a disposición de la más amplia gama de usuarios y de propósitos.
-* **Procesables:** los datos deben estar razonablemente estructurados para permitir el procesamiento automatizado.
-* **No discriminatorio:** los datos deben estar disponibles para cualquier persona y bajo las mismas condiciones.
-* **No propietario:** los datos deben ofrecerse en un formato sobre el cual ninguna entidad tenga un control exclusivo.
-* **De licencia libre:** los datos no deben estar sujetos a ninguna regulación sobre derechos de autor, patentes, marcas registradas o secretos comerciales. Sí se pueden permitir restricciones razonables de privacidad, seguridad y privilegios.
+1. **Completos:** deben ofrecerse todos los datos disponibles, siempre que no estén sujetos a condiciones de privacidad o seguridad y que su apertura no suponga un riesgo de identificación o individualización de una persona física o de seguridad nacional.
+2. **Primarios:** los datos ofrecidos deben tener el más alto nivel de granularidad, evitando agregaciones o modificaciones.
+3. **Oportunos:** los datos tienen que estar disponibles tan rápido como sea necesario para preservar su valor.
+4. **Accesibles:** los datos deben estar a disposición de la más amplia gama de usuarios y de propósitos.
+5. **Procesables:** los datos deben estar razonablemente estructurados para permitir el procesamiento automatizado.
+6. **No discriminatorio:** los datos deben estar disponibles para cualquier persona y bajo las mismas condiciones.
+7. **No propietario:** los datos deben ofrecerse en un formato sobre el cual ninguna entidad tenga un control exclusivo.
+8. **De licencia libre:** los datos no deben estar sujetos a ninguna regulación sobre derechos de autor, patentes, marcas registradas o secretos comerciales. Sí se pueden permitir restricciones razonables de privacidad, seguridad y privilegios.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -811,41 +809,39 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
   </div>
 </div>
 
-<div class="concepto_otros">
-    🔍 Saber más
-</div>
-Además de los dos marcos de referencia mencionados, existen otros que también son relevantes. Cabe mencionar los siguientes:
-<br>
-<ol style="margin-left: 1.5em;">
-  <li>Los principios definidos por la <a href="https://opendatacharter.org/wp-content/uploads/2025/09/Carta_Internacional_de_Datos_Abiertos2015.pdf">Carta internacional de los Datos Abiertos</a> (Open Data Charter) que establecen que los datos deben ser:
-    <ul style="margin-left: 2em;">
-        <li>Abiertos por defecto.</li>
-        <li>Oportunos y exhaustivos.</li>
-        <li>Accesibles y utilizables.</li>
-        <li>Comparables e interoperables.</li>
-        <li>Para mejorar la gobernanza y la participación ciudadana.</li>
-        <li>Para el desarrollo incluyente y la innovación.</li>
-      </ul>
-    </li>
-    <li>Las siete dimensiones relativas a la calidad, incluidas en el informe <strong>Marco de calidad y directrices para las actividades estadísticas de la OCDE</strong> publicado en 2011: pertinencia, precisión, credibilidad, actualidad, accesibilidad, interpretabilidad y coherencia. Este documento, además, establece que la calidad está ampliamente vinculada con las perspectivas, necesidades y prioridades de los reutilizadores.</li>
-</ol>
+*************************************************************************************************************
 
+### Otros marcos de referencia
+
+{{|>}}
+*************************************************************************************************************
+
+Además de los dos marcos de referencia mencionados, existen otros que también son relevantes. Cabe mencionar los siguientes:
+
+1. Los principios definidos por la **Carta internacional de los Datos Abiertos** (Open Data Charter) que establecen que los datos deben ser:
+
+    - Abiertos por defecto.
+    - Oportunos y exhaustivos.
+    - Accesibles y utilizables.
+    - Comparables e interoperables.
+    - Para mejorar la gobernanza y la participación ciudadana.
+    - Para el desarrollo incluyente y la innovación.
+
+[📖 Fuente](https://opendatacharter.org/wp-content/uploads/2025/09/Carta_Internacional_de_Datos_Abiertos2015.pdf)
+
+2. Las siete dimensiones relativas a la calidad, incluidas en el informe **Marco de calidad y directrices para las actividades estadísticas de la OCDE** publicado en 2011: pertinencia, precisión, credibilidad, actualidad, accesibilidad, interpretabilidad y coherencia. Este documento, además, establece que la calidad está ampliamente vinculada con las perspectivas, necesidades y prioridades de los reutilizadores.
+
+[📖 Fuente](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=std/qfs%282011%291&doclanguage=en)
 
 *************************************************************************************************************
+
 
 ### Ejercicio
 
 {{|>}}
 *************************************************************************************************************
 
-<div class="ejercicio_caja">
-	<div class="ejercicio_titulo">
-    ✏️ Ejercicio
-	</div>
-	<div class="ejercicio_contenido">
-      A continuación, marca el principio de los datos abiertos con su definición de la columna izquierda
-  </div>
-</div>
+Marca el principio de los datos abiertos con su definición de la columna izquierda
 
 - [[Accesibles] [Completos] [Procesables] [No propietarios]]
 - [    (X)         ( )          ( )             ( )        ]  Los datos deben estar disponibles de tal manera que cualquiera sin discriminación pueda usarlos, modificarlos y compartirlos para cualquier fin.
@@ -857,13 +853,12 @@ Además de los dos marcos de referencia mencionados, existen otros que también 
 
 <div class="respuestaok_caja">
   <div class="respuestaok_titulo">✅ ¡Perfecto!</div>
-  <div class="respuestaok_subtitulo">Has identificado correctamente los principios OGD:</div>
-  <ul class="respuestaok_contenido">
-    <li><strong>Accesibles:</strong> disponibles para todos sin discriminación</li>
-    <li><strong>Completos:</strong> publicar toda la información salvo restricciones legales</li>
-    <li><strong>Procesables:</strong> estructurados para que las máquinas puedan procesarlos</li>
-    <li><strong>No propietarios:</strong> formatos sin control exclusivo de ninguna entidad</li>
-  </ul>
+Has identificado correctamente los principios OGD:
+
+- **Accesibles**: disponibles para todos sin discriminación
+- **Completos**: publicar toda la información salvo restricciones legales
+- **Procesables**: estructurados para que las máquinas puedan procesarlos
+- **No propietarios**: formatos sin control exclusivo de ninguna entidad
 </div>
 ***
 
@@ -1025,10 +1020,10 @@ El siguiente visual resume algunas de las cifras más relevantes con las que con
 
 La Comisión Europea, a través del Portal europeo de datos, ofrece varios ejemplos de los **beneficios económicos indirectos** derivados del uso de los datos abiertos y advierte que, sin embargo, en la actualidad no se están explotando todas estas posibilidades y oportunidades, para lo cual sería necesario disponer de más datos abiertos en toda Europa. Fuente [El impacto económico de los datos abiertos: oportunidades de creación de valor en Europa](https://www.europeandataportal.eu/en/doc/economic-impact-open-data-opportunities-value-creation-europe) (2020). Se refieren, entre otros, los siguientes:
 
-* **Contribuyen a salvar entre 54.000 y 202.000 vidas al disminuir el tiempo de respuesta de las emergencias à** Los datos abiertos pueden ayudar a los servicios de emergencia a alcanzar la ubicación de un incidente más rápido, lo que, a su vez, ayuda a salvar más vidas.
-* **Optimizan en 27 millones de horas el transporte público à** Las aplicaciones basadas en datos abiertos ligados a la movilidad hacen posible optimizar la ruta, facilitar la conducción en tiempo real de cara a evitar atascos, etc.
-* **Disminuyen la necesidad del equivalente a 5,8 millones de toneladas de petróleo à** Las aplicaciones basadas en datos abiertos sirven como una herramienta para ayudar a los hogares a reducir su consumo de energía proporcionándoles informes y sugerencias sobre cómo disminuir su uso.
-* **Ahorran 1.100 millones de euros en gastos de traducción por parte de las Administraciones públicas** Los datos abiertos permiten optimizar los sistemas de traducción automática.
+* **Contribuyen a salvar entre 54.000 y 202.000 vidas al disminuir el tiempo de respuesta de las emergencias.** Los datos abiertos pueden ayudar a los servicios de emergencia a alcanzar la ubicación de un incidente más rápido, lo que, a su vez, ayuda a salvar más vidas.
+* **Optimizan en 27 millones de horas el transporte público.** Las aplicaciones basadas en datos abiertos ligados a la movilidad hacen posible optimizar la ruta, facilitar la conducción en tiempo real de cara a evitar atascos, etc.
+* **Disminuyen la necesidad del equivalente a 5,8 millones de toneladas de petróleo.** Las aplicaciones basadas en datos abiertos sirven como una herramienta para ayudar a los hogares a reducir su consumo de energía proporcionándoles informes y sugerencias sobre cómo disminuir su uso.
+* **Ahorran 1.100 millones de euros en gastos de traducción por parte de las Administraciones públicas.** Los datos abiertos permiten optimizar los sistemas de traducción automática.
 
 En resumen, los datos abiertos, **impulsan el crecimiento y la eficiencia en todos los sectores**. Contribuyen a la **creación de empleo**, tanto de forma directa como indirecta, facilitan procesos de contratación más inteligentes y **estimulan la innovación** en ámbitos como la planificación urbana y los servicios digitales, tal y como refiere el “Tercer volumen del Observatorio de Casos de Uso” [📖 Fuente](https://data.europa.eu/en/publications/reports/use-case-observatory-0)
 
@@ -1066,20 +1061,6 @@ Los datos abiertos poseen un importante potencial para generar beneficios social
 Tal y como señala la Carta Internacional de Datos Abiertos, el acceso libre y oportuno a los datos permite a ciudadanos, gobiernos y organizaciones de la sociedad civil **comprender mejor la realidad social, identificar desigualdades, evaluar el impacto de las políticas públicas y diseñar soluciones más ajustadas a las necesidades** reales de la población.
 
 Además, los datos abiertos **favorecen la mejora de los servicios públicos** en ámbitos clave como la salud, la educación, la protección del medio ambiente, la seguridad o los derechos humanos, al **facilitar decisiones basadas en evidencia** y una colaboración más efectiva entre los distintos actores sociales.
-
-<div class="masinfo_caja">
-	<div class="masinfo_titulo">
-		ℹ️ Más información
-	</div>
-	<div class="masinfo_contenido">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/blog/la-reutilizacion-de-datos-abiertos-en-el-periodismo-una-ventana-abierta-nuevos-modelos-de-negocio" target="_blank" rel="noopener">La reutilización de datos abiertos en el periodismo: una ventana abierta a nuevos modelos de negocio y comunidades</a></li>
-      <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
-      <li><a href="https://datos.gob.es/es/conocimiento/datos-abiertos-para-cumplir-con-los-objetivos-de-desarrollo-sostenible" target="_blank" rel="noopener">Datos abiertos para cumplir con los Objetivos de Desarrollo Sostenible</a></li>
-      <li><a href="https://datos.gob.es/es/blog/datos-abiertos-inteligencia-artificial-y-medio-ambiente" target="_blank" rel="noopener">Datos abiertos, inteligencia artificial y medio ambiente</a></li>
-    </ul>
-  </div>
-</div>
 
 Ejemplos relevantes del valor social de los datos abiertos se traducen en ejemplos impulsados tanto por organizaciones públicas, privada o del tercer sector, tales como los presentados a continuación.
 
@@ -1168,12 +1149,10 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
         </p>
       </div>
       <div style="margin-bottom:1.5rem;">
-        <p class="subtitulo subtitulo_borde"></p>
-        <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-          <li>Datos del Instituto Nacional de Estadística</li>
-          <li>Boletín Oficial del Estado</li>
-          <li>Registro Mercantil</li>
-        </ul>
+        <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
+- Datos del Instituto Nacional de Estadística
+- Boletín Oficial del Estado
+- Registro Mercantil
       </div>
       <div>
         <p>
@@ -1189,7 +1168,19 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
 
 En resumen, los beneficios sociales de los **datos abiertos** se traducen en la democratización del acceso a la información, permiten realidades como el **periodismo de datos** e impulsan la participación activa de la sociedad en la toma de decisiones y en la mejora de su entorno, asegurando un **control social distribuido,** esto es, comunidades organizadas pueden monitorizar la calidad del aire, el nivel de ruido o el estado del mantenimiento urbano, promoviendo entornos más saludables y sostenibles.
 
-
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+    <ul style="margin:0.5rem 0 0.5rem 0;">
+      <li><a href="https://datos.gob.es/es/blog/la-reutilizacion-de-datos-abiertos-en-el-periodismo-una-ventana-abierta-nuevos-modelos-de-negocio" target="_blank" rel="noopener">La reutilización de datos abiertos en el periodismo: una ventana abierta a nuevos modelos de negocio y comunidades</a></li>
+      <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
+      <li><a href="https://datos.gob.es/es/conocimiento/datos-abiertos-para-cumplir-con-los-objetivos-de-desarrollo-sostenible" target="_blank" rel="noopener">Datos abiertos para cumplir con los Objetivos de Desarrollo Sostenible</a></li>
+      <li><a href="https://datos.gob.es/es/blog/datos-abiertos-inteligencia-artificial-y-medio-ambiente" target="_blank" rel="noopener">Datos abiertos, inteligencia artificial y medio ambiente</a></li>
+    </ul>
+  </div>
+</div>
 
 *************************************************************************************************************
 
@@ -1200,21 +1191,8 @@ En resumen, los beneficios sociales de los **datos abiertos** se traducen en la 
 
 En el ámbito de las administraciones públicas, la reutilización de la información del sector público facilita la optimización y creación de servicios, contribuyendo a la mejora de la reputación institucional y al fomento de la innovación, lo cual se traduce en un ahorro económico en la actividad pública.
 
-* **Mejora de la reputación institucional** à la apertura de datos mejora la reputación de las administraciones al aumentar la transparencia, y en consecuencia, fortalecer la confianza y la participación ciudadana en la gestión pública.
-* **Ahorro en el desarrollo de la actividad pública** à La reutilización de datos abiertos por parte de las administraciones, especialmente en colaboración del sector público, favorece la innovación, lo cual se traduce en productos y servicios que mejoran la eficiencia, accesibilidad y sostenibilidad de los servicios mediante soluciones replicables. Esto se traduce en ahorros económicos directos e indirectos.
-
-<div class="masinfo_caja">
-	<div class="masinfo_titulo">
-		ℹ️ Más información
-	</div>
-	<div class="masinfo_contenido">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/conocimiento/innovacion-municipal-traves-de-datos-abiertos-soluciones-para-hacer-mas-accesibles-los" target="_blank" rel="noopener">Innovación municipal a través de datos abiertos: soluciones para hacer más accesibles los servicios municipales</a></li>
-      <li><a href="https://datos.gob.es/es/blog/aplicaciones-de-datos-geograficos-abiertos-del-centro-nacional-de-informacion-geografica" target="_blank" rel="noopener">Aplicaciones de datos geográficos abiertos del Centro Nacional de Información Geográfica</a></li>
-      <li><a href="https://datos.gob.es/es/conocimiento/las-administraciones-publicas-ante-la-reutilizacion-de-la-informacion-publica" target="_blank" rel="noopener">Las Administraciones Públicas ante la reutilización de la información pública</a></li>
-    </ul>
-  </div>
-</div>
+- **Mejora de la reputación institucional.** La apertura de datos mejora la reputación de las administraciones al aumentar la transparencia, y en consecuencia, fortalecer la confianza y la participación ciudadana en la gestión pública.
+- **Ahorro en el desarrollo de la actividad pública.** La reutilización de datos abiertos por parte de las administraciones, especialmente en colaboración del sector público, favorece la innovación, lo cual se traduce en productos y servicios que mejoran la eficiencia, accesibilidad y sostenibilidad de los servicios mediante soluciones replicables. Esto se traduce en ahorros económicos directos e indirectos.
 
 A continuación se presentan ejemplos que dejan de manifiesto los beneficios que la apertura de datos supone para la Administración.
 
@@ -1314,7 +1292,18 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   </div>
 </div>
 
-
+<div class="masinfo_caja">
+	<div class="masinfo_titulo">
+		ℹ️ Más información
+	</div>
+	<div class="masinfo_contenido">
+    <ul style="margin:0.5rem 0 0.5rem 0;">
+      <li><a href="https://datos.gob.es/es/conocimiento/innovacion-municipal-traves-de-datos-abiertos-soluciones-para-hacer-mas-accesibles-los" target="_blank" rel="noopener">Innovación municipal a través de datos abiertos: soluciones para hacer más accesibles los servicios municipales</a></li>
+      <li><a href="https://datos.gob.es/es/blog/aplicaciones-de-datos-geograficos-abiertos-del-centro-nacional-de-informacion-geografica" target="_blank" rel="noopener">Aplicaciones de datos geográficos abiertos del Centro Nacional de Información Geográfica</a></li>
+      <li><a href="https://datos.gob.es/es/conocimiento/las-administraciones-publicas-ante-la-reutilizacion-de-la-informacion-publica" target="_blank" rel="noopener">Las Administraciones Públicas ante la reutilización de la información pública</a></li>
+    </ul>
+  </div>
+</div>
 
 *************************************************************************************************************
 
@@ -1323,14 +1312,8 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 {{|>}}
 *************************************************************************************************************
 
-<div class="ejercicio_caja">
-	<div class="ejercicio_titulo">
-    ✏️ Ejercicio
-	</div>
-	<div class="ejercicio_contenido">
-      Indica cuáles de las siguientes afirmaciones sobre los beneficios de los datos abiertos son verdaderas y cuáles falsas.
-  </div>
-</div>
+Indica cuáles de las siguientes afirmaciones sobre los beneficios de los datos abiertos son verdaderas y cuáles falsas.
+
 
 **1) Los datos abiertos pueden contribuir a que los Gobiernos sean más transparentes**
 
@@ -1380,15 +1363,8 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 {{|>}}
 *************************************************************************************************************
 
-<div style="background:#ffffff; border:2px solid #154481; border-radius:16px; box-shadow:0 4px 12px rgba(147,51,234,0.2); margin:2rem 0; overflow:hidden;">
-  <div style="background:linear-gradient(135deg, #072142 0%, #154481 100%); color:#ffffff; padding:2rem; text-align:center;">
-    <div style="font-size:3em; margin-bottom:0.5rem;">📋</div>
-    <h3 style="margin:0; font-size:2em; font-weight:700; text-transform:uppercase; letter-spacing:1px; font-family:'Montserrat', sans-serif;">Comprueba lo aprendido</h3>
-  </div>
-  <div style="padding:1.25rem 1.5rem; background:#f8fafc;">
-      Indica cuáles de las siguientes afirmaciones sobre los beneficios de los datos abiertos son verdaderas y cuáles falsas.
-  </div>
-</div>
+Indica cuáles de las siguientes afirmaciones sobre los datos abiertos son verdaderas y cuáles falsas.
+
 
 **1) Es conveniente que los datos abiertos tengan limitaciones de uso comercial con licencias específicas**
 
@@ -1403,7 +1379,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 - [( )] Verdadero
 - [(X)] Falso
 ***
-> Datos protegidos no pueden abrirse sin salvaguardas.
+> Los datos protegidos no pueden abrirse sin salvaguardas.
 ***
 
 **3) Los principios FAIR se crearon específicamente para datos gubernamentales**
@@ -1451,7 +1427,7 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 - [(X)] Verdadero
 - [( )] Falso
 ***
-> Datos primarios permiten máxima reutilización.
+> Los datos primarios permiten máxima reutilización.
 ***
 
 **9) Cualquier restricción que se imponga sobre el uso de datos abiertos incrementa su potencial para generar nuevo valor**
