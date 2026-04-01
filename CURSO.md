@@ -28,25 +28,23 @@ link: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1
 
 font: Montserrat
 
-
-
 attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 -->
 
 # Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
 
-Esta unidad didáctica ofrece una visión general de **qué son los datos abiertos**, los **conceptos clave** relacionados con la apertura de datos, sus **principios fundamentale** y los **beneficios** que aporta la reutilización de la información. 
+Esta unidad didáctica ofrece una visión general de **qué son los datos abiertos**, los **conceptos clave** relacionados con la apertura de datos, sus **principios fundamentales** y los **beneficios** que aporta la reutilización de la información. 
 
 Para consolidar lo aprendido, contarás con **ejercicios** en cada bloque, un **cuestionario final** y un **resumen** que recogerá las ideas más importantes.
 
-Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece una visión general de los conceptos fundamentales que exploraremos a lo largo de los distintos apartados. Este recurso audiovisual te permitirá situarte en el tema, comprender su importancia y anticipar las ideas clave que desarrollaremos con mayor profundidad .
+Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece una visión general de los conceptos fundamentales que exploraremos a lo largo de los distintos apartados. Este recurso audiovisual te permitirá situarte en el tema, comprender su importancia y anticipar las ideas clave que desarrollaremos con mayor profundidad.
 
 <center>**¡Adelante!**</center>
 
 ---
 
-!?[Vídeo descriptivo de la unidad](https://www.youtube.com/watch?v=UM9aGVdHuyU)
+!?[Vídeo descriptivo de la unidad](https://youtu.be/LAe0MN-A0FQ?si=IqDVUYPjhPmGXI4W)
 
 
 ## Información inicial
@@ -88,10 +86,10 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
         </div>
       </div>
       <div style="padding:1rem">
-- Establecer <strong>conceptos básicos</strong> relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.
-- Reconocer los <strong>principios generales</strong> a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.
-- Descubrir los principales <strong>beneficios económicos y sociales</strong> que supone la apertura de datos públicos.
-- Conocer los <strong>aspectos clave ligados al ecosistema de los datos</strong> de cara a asegurar la generación de los beneficios apuntados.
+- Establecer **conceptos básicos** relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.
+- Reconocer los **principios generales** a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.
+- Descubrir los principales **beneficios económicos y sociales** que supone la apertura de datos públicos.
+- Conocer los **aspectos clave ligados al ecosistema de los datos** de cara a asegurar la generación de los beneficios apuntados.
       </div>
     </div>
     <div style="flex:1; min-width:300px;">
@@ -200,14 +198,15 @@ Los datos se convierten en **información** cuando se les proporciona un context
 		🧭 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-		<ul>
-			<li>**Dato:** 15°C.
-			<br>Es un valor aislado, sin contexto. Solo sabemos que es una temperatura.</li>
-			<li>**Información:** la temperatura en Valladolid hoy es de 15°C.
-			<br>El dato se contextualiza: sabemos dónde y cuándo se aplica.</li>
-			<li>**Conocimiento:** si la temperatura en Valladolid es de 15°C en enero, es inusualmente alta.
-			<br>Se interpreta la información, se relaciona con experiencia y se extraen conclusiones útiles.</li>
-		</ul>
+- **Dato:** 15°C.  
+
+  Es un valor aislado, sin contexto. Solo sabemos que es una temperatura.
+- **Información:** La temperatura en Valladolid hoy es de 15°C.  
+
+  El dato se contextualiza: sabemos dónde y cuándo se aplica.
+- **Conocimiento:** Si la temperatura en Valladolid es de 15°C en enero, es inusualmente alta.  
+
+  Se interpreta la información, se relaciona con experiencia y se extraen conclusiones útiles.
 	</div>
 </div>
 <center>![Datos, información y conocimiento](media/datos_info_conocimiento.jpg "Figura. Datos, información y conocimiento. Fuente: Shutterstock. Créditos: Anna Frajtova")</center>
@@ -312,7 +311,7 @@ En enero de 2023, la Comisión Europea define seis categorías para diferenciar 
 		🧭 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			A través del Cátalogo Nacional diferentes organismos publican datos de alto valor (HVD) [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true) 
+			A través del Catálogo Nacional diferentes organismos publican datos de alto valor (HVD) [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true) 
 	</div>
 </div>
 
@@ -345,12 +344,10 @@ Para los datos protegidos, el acceso está restringido o limitado, principalment
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-    <ul style="list-style-type: disc; margin-left: 1.5em;">
-      <li>[La aplicación del Reglamento UE sobre Gobernanza de Datos en las Administraciones Públicas](https://datos.gob.es/es/blog/la-aplicacion-del-reglamento-ue-sobre-gobernanza-de-datos-en-las-administraciones-publicas)</li>
-      <li>[Infografía: Reglamento Europeo de Gobernanza de Datos](https://datos.gob.es/sites/default/files/blog/file/infografia-doble-reglamento-europeo-es_0.pdf)</li>
-      <li>[La protección de datos personales en el borrador del Reglamento de Gobernanza de los Datos (Data Governance Act)](https://datos.gob.es/es/blog/la-proteccion-de-datos-personales-en-el-borrador-del-reglamento-de-gobernanza-de-los-datos-data)</li>
-      <li>[Las salas seguras en España: ¿A qué tipo de datos pueden acceder los investigadores?](https://datos.gob.es/es/blog/las-salas-seguras-en-espana-que-tipo-de-datos-pueden-acceder-los-investigadores)</li>
-    </ul>
+- [La aplicación del Reglamento UE sobre Gobernanza de Datos en las Administraciones Públicas](https://datos.gob.es/es/blog/la-aplicacion-del-reglamento-ue-sobre-gobernanza-de-datos-en-las-administraciones-publicas)
+- [Infografía: Reglamento Europeo de Gobernanza de Datos](https://datos.gob.es/sites/default/files/blog/file/infografia-doble-reglamento-europeo-es_0.pdf)
+- [La protección de datos personales en el borrador del Reglamento de Gobernanza de los Datos (Data Governance Act)](https://datos.gob.es/es/blog/la-proteccion-de-datos-personales-en-el-borrador-del-reglamento-de-gobernanza-de-los-datos-data)
+- [Las salas seguras en España: ¿A qué tipo de datos pueden acceder los investigadores?](https://datos.gob.es/es/blog/las-salas-seguras-en-espana-que-tipo-de-datos-pueden-acceder-los-investigadores)
   </div>
 </div>
 
@@ -416,12 +413,10 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 **Información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. [📖 Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) **
 
 **Cada formato** tiene diferentes peculiaridades. Los más comunes son los siguientes:
-<ul style="list-style-type: disc; margin-left: 1.5em;">
-  <li>**CSV**: simple, universal y legible por máquina</li>
-  <li>**XLSX**: familiar para usuarios de Excel</li>
-  <li>**JSON/JSON-LD**: estructurado, ideal para su uso por API</li>
-  <li>**PC-AXIS**: habitual para datos estadísticos </li>
-</ul>
+- **CSV**: simple, universal y legible por máquina
+- **XLSX**: familiar para usuarios de Excel
+- **JSON/JSON-LD**: estructurado, ideal para su uso por API
+- **PC-AXIS**: habitual para datos estadísticos
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
@@ -431,7 +426,7 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 			El Instituto Nacional de Estadística publica datos sobre residuos alimentarios por actividad económica. 
       
       Los datos se sirven como [servicio API](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542) y como [ficheros con diferentes formatos](https://datos.gob.es/es/catalogo/ea0010587-distribucion-porcentual-del-residuo-alimentario-por-actividad-economica-cnae-2009-identificador-api-67542), lo que referimos como diferentes distribuciones: CSV, XLSX, JSON, PC-AXIS, entre otros.
-      <br>
+
       Además del servicio API, que permite acceder mediante consultas dinámicas a los datos mencionados, el INE ofrece datasets en CSV y JSON, entre otros formatos.
 	</div>
 </div>
@@ -452,23 +447,17 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
           🧭 Ejemplo
         </div>
         <div class="ejemplo_contenido">
-            <strong>Población residente por municipio</strong>, que representa una serie temporal con periodicidad anual
-          <p>
-            <strong>Ficheros publicados:</strong>
-          </p>
-          <ul style="list-style-type: disc; margin-left: 1.5em; margin-bottom: 0.5rem;">
-            <li>poblacion_2021.csv</li>
-            <li>poblacion_2022.csv</li>
-            <li>poblacion_2021.json</li>
-            <li>poblacion_2022.json</li>
-          </ul>
-          <p>
-            <strong>Modelado correcto:</strong>
-          </p>
-          <ul style="list-style-type: disc; margin-left: 1.5em; margin-bottom: 0.5rem;">
-            <li>1 dataset: describe la serie temporal completa en diferentes formatos</li>
-            <li>4 distribuciones: cada una corresponde a un año concreto o a un formato</li>
-          </ul>
+            **Población residente por municipio**, que representa una serie temporal con periodicidad anual
+
+ **Ficheros publicados:**
+- poblacion_2021.csv
+- poblacion_2022.csv
+- poblacion_2021.json
+- poblacion_2022.json
+
+ **Modelado correcto:**
+- 1 dataset: describe la serie temporal completa en diferentes formatos
+- 4 distribuciones: cada una corresponde a un año concreto o a un formato
         </div>
       </div>
   </div>
@@ -487,13 +476,18 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 	</div>
 	<div class="ejemplo_contenido">
 			El Instituto Nacional de Estadística publica los consumos energéticos anualmente. El conjunto de datos cuenta, entre otros, con los siguientes metadatos:
-      <br>
-			<strong>Título:</strong> Consumos energéticos por año, comunidades y ciudades autónomas y producto consumido
-			<br><strong>Descripción:</strong> tabla de INEbase Consumos energéticos por año, comunidades y ciudades autónomas y producto consumido. Encuesta de Consumos Energéticos
-			<br><strong>Frecuencia de actualización:</strong> Anual
-			<br><strong>Licencia:</strong> https://www.ine.es/aviso_legal
-			<br><strong>Fecha de última actualización:</strong> 26/05/2025
-			<br><strong>Otros recursos:</strong> https://www.ine.es/dyngs/IOE/es/operacion.htm?numinv=30070
+
+			**Título:** Consumos energéticos por año, comunidades y ciudades autónomas y producto consumido
+			
+      **Descripción:** tabla de INEbase Consumos energéticos por año, comunidades y ciudades autónomas y producto consumido. Encuesta de Consumos Energéticos
+			
+      **Frecuencia de actualización:** Anual
+			
+      **Licencia:** https://www.ine.es/aviso_legal
+			
+      **Fecha de última actualización:** 26/05/2025
+			
+      **Otros recursos:** https://www.ine.es/dyngs/IOE/es/operacion.htm?numinv=30070
 	</div>
 </div>
 
@@ -502,10 +496,8 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/blog/importancia-de-la-catalogacion-de-datos">Importancia de la Catalogación de Datos</a></li>
-        <li><a href="https://datos.gob.es/es/blog/metadatos-para-incrementar-la-reutilizacion-de-datos-abiertos-en-aprendizaje-automatico">Metadatos para incrementar la reutilización de datos abiertos en aprendizaje automático</a></li>
-      </ul>
+- <a href="https://datos.gob.es/es/blog/importancia-de-la-catalogacion-de-datos">Importancia de la Catalogación de Datos</a>
+- <a href="https://datos.gob.es/es/blog/metadatos-para-incrementar-la-reutilizacion-de-datos-abiertos-en-aprendizaje-automatico">Metadatos para incrementar la reutilización de datos abiertos en aprendizaje automático</a>
   </div>
 </div>
 
@@ -530,7 +522,7 @@ Dado que el número de portales y repositorios continúa creciendo día a día, 
 		⚠️ Aviso
 	</div>
 	<div class="aviso_contenido">
-			A menudo el término <strong>Catálogo de datos abiertos</strong> se utiliza como sinónimo de <strong>Portal de datos abiertos</strong>, si bien son términos diferentes. El portal de datos abiertos es el sitio web que aloja un Catálogo de datos pero que también incluye funcionalidades y contenidos complementarios.
+			A menudo el término **Catálogo de datos abiertos** se utiliza como sinónimo de **Portal de datos abiertos**, si bien son términos diferentes. El portal de datos abiertos es el sitio web que aloja un Catálogo de datos pero que también incluye funcionalidades y contenidos complementarios.
 	</div>
 </div>
 
@@ -544,7 +536,7 @@ Dado que el número de portales y repositorios continúa creciendo día a día, 
 		🧭 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			El Ministerio de Sanidad de España pone en marcha en enero de 2026 el <strong>Espacio nacional de datos de salud</strong>. Se trata de una red de plataformas de organismos públicos y privados, para interactuar e intercambiar datos. Este entorno busca facilitar la personalización de la atención del paciente o impulsar la investigación médica mediante un uso responsable, seguro y útil de la inteligencia artificial.
+			El Ministerio de Sanidad de España pone en marcha en enero de 2026 el **Espacio nacional de datos de salud**. Se trata de una red de plataformas de organismos públicos y privados, para interactuar e intercambiar datos. Este entorno busca facilitar la personalización de la atención del paciente o impulsar la investigación médica mediante un uso responsable, seguro y útil de la inteligencia artificial.
 	</div>
 </div>
 
@@ -579,9 +571,7 @@ La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.ph
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/blog/las-claves-de-la-ley-sobre-reutilizacion-de-la-informacion-del-sector-publico-en-espana">Las claves de la Ley sobre reutilización de la información del sector público en España</a></li>
-      </ul>
+- <a href="https://datos.gob.es/es/blog/las-claves-de-la-ley-sobre-reutilizacion-de-la-informacion-del-sector-publico-en-espana">Las claves de la Ley sobre reutilización de la información del sector público en España</a>
   </div>
 </div>
 
@@ -599,9 +589,7 @@ La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.ph
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/conocimiento/guia-practica-para-la-mejora-de-la-calidad-de-datos-abiertos">Guía práctica para la mejora de la calidad de datos abiertos</a></li>
-      </ul>
+- <a href="https://datos.gob.es/es/conocimiento/guia-practica-para-la-mejora-de-la-calidad-de-datos-abiertos">Guía práctica para la mejora de la calidad de datos abiertos</a>
   </div>
 </div>
 
@@ -612,9 +600,9 @@ La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.ph
 
 Se sustenta en tres pilares básicos:
 
-* **Transparencia:** publicación de datos como abiertos para asegurar el seguimiento de políticas públicas
-* **Colaboración:** derribo de silos y estructuras piramidales con el fin de trabajar horizontalmente y favorecer la organización de las sociedades.
-* **Participación:** co-diseño de políticas públicas, deliberación con ciudadanos y consulta ciudadana.
+- **Transparencia:** publicación de datos como abiertos para asegurar el seguimiento de políticas públicas
+- **Colaboración:** derribo de silos y estructuras piramidales con el fin de trabajar horizontalmente y favorecer la organización de las sociedades.
+- **Participación:** co-diseño de políticas públicas, deliberación con ciudadanos y consulta ciudadana.
 
 <center>![Definición de gobierno abierto](media/gobierno_abierto.png "Figura. Definición de gobierno abierto. Fuente: [Wikipedia](https://es.wikipedia.org/)")</center>
 
@@ -623,9 +611,7 @@ Se sustenta en tres pilares básicos:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/noticias/el-v-plan-de-gobierno-abierto-incorpora-medidas-concretas-para-impulsar-los-datos-abiertos">El V Plan de Gobierno Abierto incorpora medidas concretas para impulsar los datos abiertos</a></li>
-      </ul>
+- <a href="https://datos.gob.es/es/noticias/el-v-plan-de-gobierno-abierto-incorpora-medidas-concretas-para-impulsar-los-datos-abiertos">El V Plan de Gobierno Abierto incorpora medidas concretas para impulsar los datos abiertos</a>
   </div>
 </div>
 
@@ -645,32 +631,32 @@ Se aplican a una **colección de datos publicado por el INE y referenciado en el
 
 https://datos.gob.es/es/catalogo/ea0010587-empleo-por-ramas-de-actividad-cntr2010-identificador-api-67201
 
- - <strong>Datos</strong> sobre la evolución del empleo por ramas de actividad.
+ - **Datos** sobre la evolución del empleo por ramas de actividad.
 
 Si descargamos el fichero <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=67201">aquí</a> obtenemos un fichero xls que contiene los siguientes datos:
 
 <center><img src="media/ejemplo_tabla.png"></center>
 
- - <strong>Datos abiertos</strong> dado que se publican asociados a una licencia abierta.
+ - **Datos abiertos** dado que se publican asociados a una licencia abierta.
 
 <center><img src="media/ejemplo_licencia.png"></center>
 
 [📖 Fuente](https://www.ine.es/dyngs/AYU/index.htm?cid=125)
 
 
- - <strong>Datos abiertos de alto valor</strong>. Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
+ - **Datos abiertos de alto valor.** Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
  
 <center><img src="media/ejemplo_hvd.png"></center>
  
- - <strong>Conjunto de datos.</strong> Los datos que publica el INE con los datos sobre evolución de empleo, junto con sus correspondientes metadatos, constituye un conjunto de datos.
+ - **Conjunto de datos.** Los datos que publica el INE con los datos sobre evolución de empleo, junto con sus correspondientes metadatos, constituye un conjunto de datos.
 
 <center><img src="media/ejemplo_dataset.png"></center>
 
- - <strong>Distribuciones.</strong> La colección de ficheros en diferentes formatos: CSV, XLSX, JSON, etc. se corresponde con las distribuciones.
+ - **Distribuciones.** La colección de ficheros en diferentes formatos: CSV, XLSX, JSON, etc. se corresponde con las distribuciones.
 
 <center><img src="media/ejemplo_distribuciones.png"></center>
 
- - <strong>Metadatos.</strong> Los atributos que definen y describen los metadatos que facilitarán su comprensión y su localización a través de buscadores.
+ - **Metadatos.** Los atributos que definen y describen los metadatos que facilitarán su comprensión y su localización a través de buscadores.
 
 <center><img src="media/ejemplo_metadatos.png"></center>
 
@@ -760,7 +746,7 @@ En 2007, [una treintena de defensores del gobierno abierto](https://public.resou
 		🧭 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			En el siguiente esquema se presenta un ejemplo de cómo interpretar los principios básicos referidos, aplicados a <strong>datos sobre accidentes de tráfico</strong>:
+			En el siguiente esquema se presenta un ejemplo de cómo interpretar los principios básicos referidos, aplicados a **datos sobre accidentes de tráfico**:
     <center>![Principios Open Government Data](media/principios_OGD.jpg "Figura. Principios Open Government Data. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 	</div>
 </div>
@@ -778,21 +764,21 @@ Estos principios hacen **hincapié en la capacidad de acción de los sistemas in
 
 Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
 
-* **Datos encontrables (*Findable)*:** los datos y metadatos pueden ser localizados por el usuario de manera sencilla después de su publicación, mediante herramientas de búsqueda. Para ello es necesario:
-  * Asignar un identificador único y persistente (URI).
-  * Describir los datos con metadatos de manera prolija.
-  * Indexar los datos y metadatos en el recurso de búsqueda.
-  * En los metadatos, especificar el identificador de los datos que se describen.
-* **Accesibles (*Accessible*):** los datos y metadatos deben estar disponibles sin barreras para todos los usuarios. Los datos y metadatos son recuperables por su identificador utilizando protocolos de comunicación estandarizados.
-  * El protocolo es abierto, gratuito y de aplicación universal.
-  * El protocolo permite un procedimiento de autenticación y autorización cuando sea necesario.
-* **Interoperables (*Interoperable*):** los datos deben poder integrarse con otros datos. Además, los datos deben poder interoperar con aplicaciones o flujos de trabajo para su análisis, almacenamiento y procesamiento.
-  * Los datos y metadatos deben utilizar un lenguaje formal, accesible, compartido y ampliamente aplicable.
-  * Los datos y metadatos deben incluir referencias cualificadas a otros datos o metadatos.
-* **Reutilizables (*Reusable*):** los datos y metadatos deben estar bien descritos para que puedan ser replicados y/o combinados en diferentes entornos.
-  * Los datos y metadatos deben estar bien descritos con una pluralidad de atributos precisos y relevantes.
-  * Los datos y metadatos deben estar asociados a una procedencia detallada.
-  * Los datos y metadatos deben cumplir con las normas de la comunidad pertinentes para el sector.
+- **Datos encontrables (*Findable)*:** los datos y metadatos pueden ser localizados por el usuario de manera sencilla después de su publicación, mediante herramientas de búsqueda. Para ello es necesario:
+  - Asignar un identificador único y persistente (URI).
+  - Describir los datos con metadatos de manera prolija.
+  - Indexar los datos y metadatos en el recurso de búsqueda.
+  - En los metadatos, especificar el identificador de los datos que se describen.
+- **Accesibles (*Accessible*):** los datos y metadatos deben estar disponibles sin barreras para todos los usuarios. Los datos y metadatos son recuperables por su identificador utilizando protocolos de comunicación estandarizados.
+  - El protocolo es abierto, gratuito y de aplicación universal.
+  - El protocolo permite un procedimiento de autenticación y autorización cuando sea necesario.
+- **Interoperables (*Interoperable*):** los datos deben poder integrarse con otros datos. Además, los datos deben poder interoperar con aplicaciones o flujos de trabajo para su análisis, almacenamiento y procesamiento.
+  - Los datos y metadatos deben utilizar un lenguaje formal, accesible, compartido y ampliamente aplicable.
+  - Los datos y metadatos deben incluir referencias cualificadas a otros datos o metadatos.
+- **Reutilizables (*Reusable*):** los datos y metadatos deben estar bien descritos para que puedan ser replicados y/o combinados en diferentes entornos.
+  - Los datos y metadatos deben estar bien descritos con una pluralidad de atributos precisos y relevantes.
+  - Los datos y metadatos deben estar asociados a una procedencia detallada.
+  - Los datos y metadatos deben cumplir con las normas de la comunidad pertinentes para el sector.
 
 <center>![Calidad del dato | datos.gob.es](media/principios_FAIR.jpg "Figura. Principios FAIR. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
@@ -801,11 +787,9 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      <ul style="list-style-type: disc; margin-left: 1.5em;">
-        <li><a href="https://datos.gob.es/es/blog/principios-fair-el-secreto-de-los-magos-de-los-datos">Principios FAIR: el secreto de los magos de los datos</a></li>
-        <li><a href="https://www.nature.com/articles/sdata201618">The FAIR Guiding Principles for scientific data management and stewardship</a></li>
-        <li><a href="https://www.go-fair.org/">Comunidad GO FAIR</a></li>
-      </ul>
+- <a href="https://datos.gob.es/es/blog/principios-fair-el-secreto-de-los-magos-de-los-datos">Principios FAIR: el secreto de los magos de los datos</a>
+- <a href="https://www.nature.com/articles/sdata201618">The FAIR Guiding Principles for scientific data management and stewardship</a>
+- <a href="https://www.go-fair.org/">Comunidad GO FAIR</a>
   </div>
 </div>
 
@@ -870,7 +854,7 @@ Has identificado correctamente los principios OGD:
 {{|>}}
 *************************************************************************************************************
 
-La apertura de datos que están en manos de las Administraciones públicas tienen un gran potencial para la generación de **beneficios económicos y sociales, así como ventajas para las propias administraciones** que apuestan por la apertura.
+La apertura de datos que están en manos de las administraciones públicas tienen un gran potencial para la generación de **beneficios económicos y sociales, así como ventajas para las propias administraciones** que apuestan por la apertura.
 
 La [**Carta Internacional de Datos Abiertos**](https://opendatacharter.org/wp-content/uploads/2025/09/Carta_Internacional_de_Datos_Abiertos2015.pdf), presentada en 2015 y adoptada por numerosos gobiernos y organizaciones, entre ellos, el Gobierno de España, destaca los datos abiertos como un **elemento clave de la transformación global** impulsada por la tecnología y los medios digitales.
 
@@ -899,33 +883,27 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
   <div class="destacado_titulo">
     Meteogrid
   </div>
-  <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
-    <div style="flex:1; min-width:300px; padding-right:1.5rem;">
-      <div style="margin-bottom:1.5rem;">
+  <div style="display:flex; flex-wrap:wrap;">
+    <div class="destacado_contenido" style="flex:1; min-width:300px;">
+      <div>
         <p class="subtitulo subtitulo_borde">¿A qué se dedican?</p>
-        <p>
-          <strong>Meteogrid</strong> nace en 2004, una SME especializados en la <strong>lucha contra incendios y protección civil.</strong> Entre otras actividades, la compañía ofrece <strong>servicios de asesoría diaria a los</strong> cuerpos de protección civil y bomberos en incendios forestales sobre <strong>comportamiento del fuego en base a las condiciones meteorológicas.</strong>
-        </p>
-        <p>
-          Dispone de índices y aplicaciones específicas para la <strong>asesoría del comportamiento de incendio en las zonas de interfaz</strong>, y para la <strong>identificación del riesgo</strong> sobre personas, viviendas, propiedades y medio natural.
-        </p>
+
+          **Meteogrid** nace en 2004, una SME especializados en la **lucha contra incendios y protección civil**. Entre otras actividades, la compañía ofrece **servicios de asesoría diaria a los** cuerpos de protección civil y bomberos en incendios forestales sobre **comportamiento del fuego en base a las condiciones meteorológicas**.
+
+          Dispone de índices y aplicaciones específicas para la **asesoría del comportamiento de incendio en las zonas de interfaz**, y para la **identificación del riesgo** sobre personas, viviendas, propiedades y medio natural.
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-        <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-          <li>Telemetría LIDAR vuelo PNOA (Plan Nacional de Ortofotografía Aérea)</li>
-          <li>Inventario Forestal Nacional (IFN3)</li>
-          <li>Datos del Catastro</li>
-        </ul>
-      </div>
-      <div>
-        <p>
-          <strong>Más información:</strong> <a href="https://datos.gob.es/es/empresas/meteogrid" target="_blank" rel="noopener">datos.gob.es/es/empresas/meteogrid</a>
-        </p>
+- Telemetría LIDAR vuelo PNOA (Plan Nacional de Ortofotografía Aérea)
+- Inventario Forestal Nacional (IFN3)
+- Datos del Catastro
+
+**Más información: ** <a href="https://datos.gob.es/es/empresas/meteogrid" target="_blank" rel="noopener">datos.gob.es/es/empresas/meteogrid</a>
       </div>
     </div>
-    <div style="flex:0 0 200px; display:flex; align-items:center; justify-content:center; padding:1rem;">
-      <img src="https://datos.gob.es/sites/default/files/success/images/meteogrid_0.png" alt="Meteogrid" style="max-width:180px; max-height:180px; width:auto; height:auto;">
+    <div class="destacado_divimg">
+      <img class="destacado_img" src="https://datos.gob.es/sites/default/files/success/images/meteogrid_0.png" alt="Meteogrid" >
     </div>
   </div>
 </div>
@@ -934,33 +912,27 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
   <div class="destacado_titulo">
     Hispatec Agrointeligencia
   </div>
-  <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
-    <div style="flex:1; min-width:300px; padding-right:1.5rem;">
-      <div style="margin-bottom:1.5rem;">
+  <div style="display:flex; flex-wrap:wrap;">
+    <div class="destacado_contenido" style="flex:1; min-width:300px;">
+      <div>
         <p class="subtitulo subtitulo_borde">¿A qué se dedican?</p>
-        <p>
-          <strong>Hispatec Agrointeligencia</strong> es una compañía que trabaja en pro de sacar la inteligencia de los datos para el <strong>sector agro.</strong>
-        </p>
-        <p>
-          Desde Hispatec Agrointeligencia analizan el <strong>flujo de datos desde la producción hasta el mercado y viceversa.</strong> Desarrollan productos que mejoran la <strong>eficiencia de empresas del sector agro</strong> y soluciones que aseguran la <strong>conservación del medio ambiente</strong> (uso del agua, suelo, fertilizantes,…).
-        </p>
+
+          **Hispatec Agrointeligencia** es una compañía que trabaja en pro de sacar la inteligencia de los datos para el **sector agro**.
+
+          Desde Hispatec Agrointeligencia analizan el **flujo de datos desde la producción hasta el mercado y viceversa**. Desarrollan productos que mejoran la **eficiencia de empresas del sector agro** y soluciones que aseguran la **conservación del medio ambiente** (uso del agua, suelo, fertilizantes,…).
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-        <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-          <li>Datos del proyecto Copérnico</li>
-          <li>Precios coyunturales de productos agrícolas y ganaderos</li>
-          <li>Red de Alerta e Información Fitosanitaria</li>
-        </ul>
-      </div>
-      <div>
-        <p>
-          <strong>Más información:</strong> <a href="https://datos.gob.es/es/empresas/hispatec" target="_blank" rel="noopener">datos.gob.es/es/empresas/hispatec</a>
-        </p>
+- Datos del proyecto Copérnico
+- Precios coyunturales de productos agrícolas y ganaderos
+- Red de Alerta e Información Fitosanitaria
+
+**Más información: ** <a href="https://datos.gob.es/es/empresas/hispatec" target="_blank" rel="noopener">datos.gob.es/es/empresas/hispatec</a>
       </div>
     </div>
-    <div style="flex:0 0 200px; display:flex; align-items:center; justify-content:center; padding:1rem;">
-      <img src="https://datos.gob.es/sites/default/files/success/images/hispatec_logo.jpg" alt="Hispatec" style="max-width:180px; max-height:180px; width:auto; height:auto;">
+    <div class="destacado_divimg">
+      <img class="destacado_img" src="https://datos.gob.es/sites/default/files/success/images/hispatec_logo.jpg" alt="Hispatec" >
     </div>
   </div>
 </div>
@@ -969,33 +941,27 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
   <div class="destacado_titulo">
     Idealista
   </div>
-  <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
-    <div style="flex:1; min-width:300px; padding-right:1.5rem;">
-      <div style="margin-bottom:1.5rem;">
+  <div style="display:flex; flex-wrap:wrap;">
+    <div class="destacado_contenido" style="flex:1; min-width:300px;">
+      <div>
         <p class="subtitulo subtitulo_borde">¿A qué se dedican?</p>
-        <p>
-          <strong>Idealista</strong> facilita un <strong>espacio para que los usuarios puedan publicar, o buscar, anuncios de venta o alquiler de inmuebles</strong>. También ofrecen otros servicios relacionados con el sector inmobiliario, como <strong>valoraciones de viviendas</strong> o el <strong>servicio de certificación energética</strong>.
-        </p>
-        <p>
-          Su misión es poner al alcance de cualquier profesional del sector <strong>información inmobiliaria estructurada, ordenada, homogénea y en tiempo real</strong>.
-        </p>
+
+          **Idealista** facilita un **espacio para que los usuarios puedan publicar, o buscar, anuncios de venta o alquiler de inmuebles**. También ofrecen otros servicios relacionados con el sector inmobiliario, como **valoraciones de viviendas** o el **servicio de certificación energética**.
+
+          Su misión es poner al alcance de cualquier profesional del sector **información inmobiliaria estructurada, ordenada, homogénea y en tiempo real**.
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-        <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-          <li>Datos del Catastro</li>
-          <li>Datos del Instituto Nacional de Estadística</li>
-          <li>Telemetría LIDAR vuelo PNOA (Plan Nacional de Ortofotografía Aérea)</li>
-        </ul>
-      </div>
-      <div>
-        <p>
-          <strong>Más información:</strong> <a href="https://datos.gob.es/es/empresas/idealista" target="_blank" rel="noopener">datos.gob.es/es/empresas/idealista</a>
-        </p>
+- Datos del Catastro
+- Datos del Instituto Nacional de Estadística
+- Telemetría LIDAR vuelo PNOA (Plan Nacional de Ortofotografía Aérea)
+
+**Más información: ** <a href="https://datos.gob.es/es/empresas/idealista" target="_blank" rel="noopener">datos.gob.es/es/empresas/idealista</a>
       </div>
     </div>
-    <div style="flex:0 0 200px; display:flex; align-items:center; justify-content:center; padding:1rem;">
-      <img src="https://datos.gob.es/sites/default/files/success/images/idealista.jpg" alt="Idealista" style="max-width:180px; max-height:180px; width:auto; height:auto;">
+    <div class="destacado_divimg">
+      <img class="destacado_img" src="https://datos.gob.es/sites/default/files/success/images/idealista.jpg" alt="Idealista" >
     </div>
   </div>
 </div>
@@ -1011,19 +977,17 @@ El siguiente visual resume algunas de las cifras más relevantes con las que con
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/noticias/disponible-la-13a-edicion-del-informe-del-sector-infomediario-de-asedie" target="_blank" rel="noopener">Disponible la 13ª edición del Informe del Sector Infomediario de ASEDIE</a></li>
-      <li><a href="https://datos.gob.es/es/empresas" target="_blank" rel="noopener">Ejemplos reales de empresas que basan su actividad en los datos abiertos</a></li>
-    </ul>
+- <a href="https://datos.gob.es/es/noticias/disponible-la-13a-edicion-del-informe-del-sector-infomediario-de-asedie" target="_blank" rel="noopener">Disponible la 13ª edición del Informe del Sector Infomediario de ASEDIE</a>
+- <a href="https://datos.gob.es/es/empresas" target="_blank" rel="noopener">Ejemplos reales de empresas que basan su actividad en los datos abiertos</a>
   </div>
 </div>
 
 La Comisión Europea, a través del Portal europeo de datos, ofrece varios ejemplos de los **beneficios económicos indirectos** derivados del uso de los datos abiertos y advierte que, sin embargo, en la actualidad no se están explotando todas estas posibilidades y oportunidades, para lo cual sería necesario disponer de más datos abiertos en toda Europa. Fuente [El impacto económico de los datos abiertos: oportunidades de creación de valor en Europa](https://www.europeandataportal.eu/en/doc/economic-impact-open-data-opportunities-value-creation-europe) (2020). Se refieren, entre otros, los siguientes:
 
-* **Contribuyen a salvar entre 54.000 y 202.000 vidas al disminuir el tiempo de respuesta de las emergencias.** Los datos abiertos pueden ayudar a los servicios de emergencia a alcanzar la ubicación de un incidente más rápido, lo que, a su vez, ayuda a salvar más vidas.
-* **Optimizan en 27 millones de horas el transporte público.** Las aplicaciones basadas en datos abiertos ligados a la movilidad hacen posible optimizar la ruta, facilitar la conducción en tiempo real de cara a evitar atascos, etc.
-* **Disminuyen la necesidad del equivalente a 5,8 millones de toneladas de petróleo.** Las aplicaciones basadas en datos abiertos sirven como una herramienta para ayudar a los hogares a reducir su consumo de energía proporcionándoles informes y sugerencias sobre cómo disminuir su uso.
-* **Ahorran 1.100 millones de euros en gastos de traducción por parte de las Administraciones públicas.** Los datos abiertos permiten optimizar los sistemas de traducción automática.
+- **Contribuyen a salvar entre 54.000 y 202.000 vidas al disminuir el tiempo de respuesta de las emergencias.** Los datos abiertos pueden ayudar a los servicios de emergencia a alcanzar la ubicación de un incidente más rápido, lo que, a su vez, ayuda a salvar más vidas.
+- **Optimizan en 27 millones de horas el transporte público.** Las aplicaciones basadas en datos abiertos ligados a la movilidad hacen posible optimizar la ruta, facilitar la conducción en tiempo real de cara a evitar atascos, etc.
+- **Disminuyen la necesidad del equivalente a 5,8 millones de toneladas de petróleo.** Las aplicaciones basadas en datos abiertos sirven como una herramienta para ayudar a los hogares a reducir su consumo de energía proporcionándoles informes y sugerencias sobre cómo disminuir su uso.
+- **Ahorran 1.100 millones de euros en gastos de traducción por parte de las administraciones públicas.** Los datos abiertos permiten optimizar los sistemas de traducción automática.
 
 En resumen, los datos abiertos, **impulsan el crecimiento y la eficiencia en todos los sectores**. Contribuyen a la **creación de empleo**, tanto de forma directa como indirecta, facilitan procesos de contratación más inteligentes y **estimulan la innovación** en ámbitos como la planificación urbana y los servicios digitales, tal y como refiere el “Tercer volumen del Observatorio de Casos de Uso” [📖 Fuente](https://data.europa.eu/en/publications/reports/use-case-observatory-0)
 
@@ -1041,11 +1005,9 @@ En resumen, los datos abiertos, **impulsan el crecimiento y la eficiencia en tod
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/empresas" target="_blank" rel="noopener">Catálogo de empresas de datos.gob.es</a></li>
-      <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
-      <li><a href="https://datos.gob.es/es/noticias/los-datos-abiertos-especialmente-valiosos-para-la-pequena-y-mediana-empresa" target="_blank" rel="noopener">Los datos abiertos, especialmente valiosos para la pequeña y mediana empresa</a></li>
-    </ul>
+- <a href="https://datos.gob.es/es/empresas" target="_blank" rel="noopener">Catálogo de empresas de datos.gob.es</a>
+- <a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a>
+- <a href="https://datos.gob.es/es/noticias/los-datos-abiertos-especialmente-valiosos-para-la-pequena-y-mediana-empresa" target="_blank" rel="noopener">Los datos abiertos, especialmente valiosos para la pequeña y mediana empresa</a>
   </div>
 </div>
 
@@ -1068,32 +1030,26 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
   <div class="destacado_titulo">
     Park4Dis
   </div>
-  <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
-    <div style="flex:1; min-width:300px; padding-right:1.5rem;">
-      <div style="margin-bottom:1.5rem;">
+  <div style="display:flex; flex-wrap:wrap;">
+    <div class="destacado_contenido" style="flex:1; min-width:300px;">
+      <div>
         <p class="subtitulo subtitulo_borde">¿A qué se dedican?</p>
-        <p>
-          Proyecto para <strong>ayudar a conductores con movilidad reducida</strong> en Europa y a todas las familias de personas con discapacidad, para tener mayor autonomía y poder desplazarse sin barreras añadidas.
-        </p>
-        <p>
-          Ofrece una aplicación en la que refiere más de 75.000 plazas en más de 1.000 municipios. La plataforma se nutre de su <strong>red de voluntarios</strong> en colaboración con empresas socialmente responsables.
-        </p>
+
+          Proyecto para **ayudar a conductores con movilidad reducida** en Europa y a todas las familias de personas con discapacidad, para tener mayor autonomía y poder desplazarse sin barreras añadidas.
+
+          Ofrece una aplicación en la que refiere más de 75.000 plazas en más de 1.000 municipios. La plataforma se nutre de su **red de voluntarios** en colaboración con empresas socialmente responsables.
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-        <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-          <li>Datos proporcionados por ayuntamientos para mapear y localizar plazas de aparcamiento para personas con movilidad reducida</li>
-          <li>Datos de normativas locales de tráfico</li>
-        </ul>
-      </div>
-      <div>
-        <p>
-          <strong>Más información:</strong> <a href="https://datos.gob.es/es/aplicaciones/park4dis" target="_blank" rel="noopener">datos.gob.es/es/aplicaciones/park4dis</a>
-        </p>
+- Datos proporcionados por ayuntamientos para mapear y localizar plazas de aparcamiento para personas con movilidad reducida
+- Datos de normativas locales de tráfico
+
+**Más información: ** <a href="https://datos.gob.es/es/aplicaciones/park4dis" target="_blank" rel="noopener">datos.gob.es/es/aplicaciones/park4dis</a>
       </div>
     </div>
-    <div style="flex:0 0 200px; display:flex; align-items:center; justify-content:center; padding:1rem;">
-      <img src="https://datos.gob.es/sites/default/files/app/logo/25-logo-park-dis_2.jpg" alt="Logo Park4Dis" style="max-width:180px; max-height:180px; width:auto; height:auto;">
+    <div class="destacado_divimg">
+      <img class="destacado_img" src="https://datos.gob.es/sites/default/files/app/logo/25-logo-park-dis_2.jpg" alt="Logo Park4Dis" >
     </div>
   </div>
 </div>
@@ -1102,33 +1058,27 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
   <div class="destacado_titulo">
     Civio
   </div>
-  <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
-    <div style="flex:1; min-width:300px; padding-right:1.5rem;">
-      <div style="margin-bottom:1.5rem;">
+  <div style="display:flex; flex-wrap:wrap;">
+    <div class="destacado_contenido" style="flex:1; min-width:300px;">
+      <div>
         <p class="subtitulo subtitulo_borde">¿A qué se dedican?</p>
-        <p>
-          Organización sin ánimo de lucro que <strong>promueve la transparencia de las instituciones y el fácil acceso a la información pública mediante la tecnología y el periodismo</strong>.
-        </p>
-        <p>
+
+          Organización sin ánimo de lucro que **promueve la transparencia de las instituciones y el fácil acceso a la información pública mediante la tecnología y el periodismo**.
+
           Para ello cuentan con tres líneas de actuación: periodismo, incidencia pública y servicios de transparencia para las AA.PP.
-        </p>
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-        <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-          <li>Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas</li>
-          <li>Datos del proyecto Copérnico</li>
-          <li>Datos del Boletín Oficial del Estado</li>
-        </ul>
-      </div>
-      <div>
-        <p>
-          <strong>Más información:</strong> <a href="https://datos.gob.es/es/empresas/civio" target="_blank" rel="noopener">datos.gob.es/es/empresas/civio</a>
-        </p>
+- Sistema Nacional de Publicidad de Subvenciones y Ayudas Públicas
+- Datos del proyecto Copérnico
+- Datos del Boletín Oficial del Estado
+
+**Más información: ** <a href="https://datos.gob.es/es/empresas/civio" target="_blank" rel="noopener">datos.gob.es/es/empresas/civio</a>
       </div>
     </div>
-    <div style="flex:0 0 200px; display:flex; align-items:center; justify-content:center; padding:1rem;">
-      <img src="https://datos.gob.es/sites/default/files/success/images/civio-fundacion.png" alt="Civio" style="max-width:180px; max-height:180px; width:auto; height:auto;">
+    <div class="destacado_divimg">
+      <img class="destacado_img" src="https://datos.gob.es/sites/default/files/success/images/civio-fundacion.png" alt="Civio" >
     </div>
   </div>
 </div>
@@ -1137,31 +1087,27 @@ Ejemplos relevantes del valor social de los datos abiertos se traducen en ejempl
   <div class="destacado_titulo">
     Datadista
   </div>
-  <div style="display:flex; flex-wrap:wrap; padding:1.5rem;">
-    <div style="flex:1; min-width:300px; padding-right:1.5rem;">
-      <div style="margin-bottom:1.5rem;">
+  <div style="display:flex; flex-wrap:wrap;">
+    <div class="destacado_contenido" style="flex:1; min-width:300px;">
+      <div>
         <p class="subtitulo subtitulo_borde">¿A qué se dedican?</p>
-        <p>
-          <strong>Datadista</strong> es un medio de comunicación digital español especializado en <strong>periodismo de investigación, periodismo de datos y nuevas narrativas</strong>.
-        </p>
-        <p>
-          Fue creado en 2016 con el objetivo de <strong>explicar temas complejos</strong> como la corrupción, el uso de los recursos públicos y cuestiones sociales, medioambientales y económicas <strong>mediante análisis de datos, visualizaciones interactivas, vídeos explicativos e investigaciones en profundidad.</strong>
-        </p>
+
+          **Datadista** es un medio de comunicación digital español especializado en **periodismo de investigación, periodismo de datos y nuevas narrativas**.
+
+          Fue creado en 2016 con el objetivo de **explicar temas complejos** como la corrupción, el uso de los recursos públicos y cuestiones sociales, medioambientales y económicas **mediante análisis de datos, visualizaciones interactivas, vídeos explicativos e investigaciones en profundidad.**
+
       </div>
       <div style="margin-bottom:1.5rem;">
         <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
 - Datos del Instituto Nacional de Estadística
 - Boletín Oficial del Estado
 - Registro Mercantil
-      </div>
-      <div>
-        <p>
-          <strong>Más información:</strong> <a href="https://datos.gob.es/es/empresas/datadista" target="_blank" rel="noopener">datos.gob.es/es/empresas/datadista</a>
-        </p>
+
+**Más información: **<a href="https://datos.gob.es/es/empresas/datadista" target="_blank" rel="noopener">datos.gob.es/es/empresas/datadista</a>
       </div>
     </div>
-    <div style="flex:0 0 200px; display:flex; align-items:center; justify-content:center; padding:1rem;">
-      <img src="https://datos.gob.es/sites/default/files/success/images/logo_datadista_tamano_ok.jpg" alt="Datadista" style="max-width:180px; max-height:180px; width:auto; height:auto;">
+    <div class="destacado_divimg">
+      <img class="destacado_img" src="https://datos.gob.es/sites/default/files/success/images/logo_datadista_tamano_ok.jpg" alt="Datadista" >
     </div>
   </div>
 </div>
@@ -1173,12 +1119,10 @@ En resumen, los beneficios sociales de los **datos abiertos** se traducen en la 
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/blog/la-reutilizacion-de-datos-abiertos-en-el-periodismo-una-ventana-abierta-nuevos-modelos-de-negocio" target="_blank" rel="noopener">La reutilización de datos abiertos en el periodismo: una ventana abierta a nuevos modelos de negocio y comunidades</a></li>
-      <li><a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a></li>
-      <li><a href="https://datos.gob.es/es/conocimiento/datos-abiertos-para-cumplir-con-los-objetivos-de-desarrollo-sostenible" target="_blank" rel="noopener">Datos abiertos para cumplir con los Objetivos de Desarrollo Sostenible</a></li>
-      <li><a href="https://datos.gob.es/es/blog/datos-abiertos-inteligencia-artificial-y-medio-ambiente" target="_blank" rel="noopener">Datos abiertos, inteligencia artificial y medio ambiente</a></li>
-    </ul>
+- <a href="https://datos.gob.es/es/blog/la-reutilizacion-de-datos-abiertos-en-el-periodismo-una-ventana-abierta-nuevos-modelos-de-negocio" target="_blank" rel="noopener">La reutilización de datos abiertos en el periodismo: una ventana abierta a nuevos modelos de negocio y comunidades</a>
+- <a href="https://datos.gob.es/es/noticias/transformando-los-datos-abiertos-en-valor-socioeconomico" target="_blank" rel="noopener">Transformando los datos abiertos en valor socioeconómico</a>
+- <a href="https://datos.gob.es/es/conocimiento/datos-abiertos-para-cumplir-con-los-objetivos-de-desarrollo-sostenible" target="_blank" rel="noopener">Datos abiertos para cumplir con los Objetivos de Desarrollo Sostenible</a>
+- <a href="https://datos.gob.es/es/blog/datos-abiertos-inteligencia-artificial-y-medio-ambiente" target="_blank" rel="noopener">Datos abiertos, inteligencia artificial y medio ambiente</a>
   </div>
 </div>
 
@@ -1200,28 +1144,23 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   <div class="destacado_titulo">
     Datahub energético de Castilla y León
   </div>
-  <div style="padding:1.5rem;">
-    <div style="margin-bottom:1.5rem;">
+  <div class="destacado_contenido">
+    <div>
       <p class="subtitulo subtitulo_borde">¿En qué consiste y qué beneficios aporta?</p>
-      <p>
-        El Datahub energético de la Junta es un <strong>ejercicio de transparencia</strong> de la Administración de Castilla y León. Consiste en un compendio de información energética informatizada a través de una herramienta para la <strong>optimización energética</strong> de edificios de la administración autónoma.
-      </p>
-      <p>
-        A través de esta herramienta se racionalizan anualmente los contratos energéticos y se realizan las compras energéticas de los diferentes Organismos de la Junta de Castilla y León. <strong>Los ahorros cuantificados desde el año 2015 han sido de 2M€ anuales</strong> únicamente en el coste fijo de electricidad.
-      </p>
+
+        El Datahub energético de la Junta es un **ejercicio de transparencia** de la Administración de Castilla y León. Consiste en un compendio de información energética informatizada a través de una herramienta para la **optimización energética** de edificios de la administración autónoma.
+
+        A través de esta herramienta se racionalizan anualmente los contratos energéticos y se realizan las compras energéticas de los diferentes Organismos de la Junta de Castilla y León. **Los ahorros cuantificados desde el año 2015 han sido de 2M€ anuales** únicamente en el coste fijo de electricidad.
+
     </div>
     <div style="margin-bottom:1.5rem;">
       <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-      <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-        <li>Sistema de Información de Puntos de Suministros (SIPS) de electricidad y el SIPS de gas natural canalizado</li>
-        <li>Relación de edificios e instalaciones de la comunidad autónoma con su ubicación y coordenadas GPS, superficie, etc.</li>
-        <li>Referencias catastrales de los edificios</li>
-      </ul>
+- Sistema de Información de Puntos de Suministros (SIPS) de electricidad y el SIPS de gas natural canalizado
+- Relación de edificios e instalaciones de la comunidad autónoma con su ubicación y coordenadas GPS, superficie, etc.
+- Referencias catastrales de los edificios
     </div>
     <div>
-      <p>
-        <a href="https://energia.jcyl.es/web/es/ahorro-eficiencia-energetica/datahub-energetico-junta-castilla.html" target="_blank" rel="noopener" style="text-decoration:none"><strong>📖 Fuente</strong></a>
-      </p>
+        <a href="https://energia.jcyl.es/web/es/ahorro-eficiencia-energetica/datahub-energetico-junta-castilla.html" target="_blank" rel="noopener" style="text-decoration:none">**📖 Fuente**</a>
     </div>
   </div>
 </div>
@@ -1230,31 +1169,25 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   <div class="destacado_titulo">
     Smart Agro-Recomendaciones de Riego
   </div>
-  <div style="padding:1.5rem;">
-    <div style="margin-bottom:1.5rem;">
+  <div class="destacado_contenido">
+    <div>
       <p class="subtitulo subtitulo_borde">¿En qué consiste y qué beneficios aporta?</p>
-      <p>
-        Smart Agro-Recomendaciones de Riego es una herramienta digital desarrollada por el Cabildo de La Palma con el objetivo es mejorar la <strong>eficiencia del uso del agua</strong> en la agricultura local, especialmente para cultivos de plátano y aguacate.
-      </p>
-      <p>
+
+        Smart Agro-Recomendaciones de Riego es una herramienta digital desarrollada por el Cabildo de La Palma con el objetivo es mejorar la **eficiencia del uso del agua** en la agricultura local, especialmente para cultivos de plátano y aguacate.
+
         La aplicación proporciona información detallada al seleccionar el cultivo y la zona de explotación para facilitar decisiones hídricas más eficientes, representando un paso importante hacia una agricultura más inteligente.
-      </p>
-      <p>
-        Contribuye de forma notable a la <strong>mejora de la reputación institucional</strong> al posicionar al Cabildo como una entidad innovadora, comprometida con la sostenibilidad y orientada a las necesidades reales del territorio.
-      </p>
+
+        Contribuye de forma notable a la **mejora de la reputación institucional** al posicionar al Cabildo como una entidad innovadora, comprometida con la sostenibilidad y orientada a las necesidades reales del territorio.
+
     </div>
     <div style="margin-bottom:1.5rem;">
       <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-      <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-        <li>Datos de la red insular de estaciones meteorológicas</li>
-        <li>Datos de evapotranspiración (ETo)</li>
-        <li>Datos de calidad del aire</li>
-      </ul>
+- Datos de la red insular de estaciones meteorológicas
+- Datos de evapotranspiración (ETo)
+- Datos de calidad del aire
     </div>
     <div>
-      <p>
-        <a href="https://datos.gob.es/es/aplicaciones/smart-agro-recomendaciones-de-riego" target="_blank" rel="noopener" style="text-decoration:none"><strong>📖 Fuente</strong></a>
-      </p>
+        <a href="https://datos.gob.es/es/aplicaciones/smart-agro-recomendaciones-de-riego" target="_blank" rel="noopener" style="text-decoration:none">**📖 Fuente**</a>
     </div>
   </div>
 </div>
@@ -1263,31 +1196,24 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
   <div class="destacado_titulo">
     Spain By Bike
   </div>
-  <div style="padding:1.5rem;">
-    <div style="margin-bottom:1.5rem;">
+  <div class="destacado_contenido">
+    <div>
       <p class="subtitulo subtitulo_borde">¿En qué consiste y qué beneficios aporta?</p>
-      <p>
-      Spain By Bike es una plataforma especializada en <strong>turismo ciclista por España</strong> desarrollada Instituto Geográfico Nacional (IGN) y el Centro Nacional de Información Geográfica (CNIG). Presenta una amplia variedad de rutas ciclistas por regiones, adaptadas a distintos niveles y estilos: desde recorridos tranquilos por vías verdes hasta desafíos de montaña. A través de una herramienta interactiva, los usuarios pueden ver el itinerario, la ubicación, la dificultad, la distancia, etc. Además, ofrece servicios complementarios como alquiler de bicicletas, transporte de equipaje, alojamiento y asistencia técnica.
-      </p>
-      <p>
-      Esta herramienta contribuye a reforzar la imagen de las administraciones como <strong>instituciones innovadoras</strong>, y alineadas con las políticas públicas de sostenibilidad y reutilización de la información pública.
-      </p>
-      <p>
-      La aplicación está basada en datos abiertos con licencia CC BY 4.0, lo cual refuerza el <strong>compromiso de la administración con la transparencia y la reutilización de la información del sector público.</strong>
-      </p>
+      Spain By Bike es una plataforma especializada en **turismo ciclista por España** desarrollada Instituto Geográfico Nacional (IGN) y el Centro Nacional de Información Geográfica (CNIG). Presenta una amplia variedad de rutas ciclistas por regiones, adaptadas a distintos niveles y estilos: desde recorridos tranquilos por vías verdes hasta desafíos de montaña. A través de una herramienta interactiva, los usuarios pueden ver el itinerario, la ubicación, la dificultad, la distancia, etc. Además, ofrece servicios complementarios como alquiler de bicicletas, transporte de equipaje, alojamiento y asistencia técnica.
+
+      Esta herramienta contribuye a reforzar la imagen de las administraciones como **instituciones innovadoras**, y alineadas con las políticas públicas de sostenibilidad y reutilización de la información pública.
+
+      La aplicación está basada en datos abiertos con licencia CC BY 4.0, lo cual refuerza el **compromiso de la administración con la transparencia y la reutilización de la información del sector público.**
+
     </div>
     <div style="margin-bottom:1.5rem;">
       <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-      <ul style="margin:0; padding-left:1.5rem; line-height:1.8;">
-        <li>Geoespaciales y cartográficos</li>
-        <li>Rutas ciclistas e itinerario</li>
-        <li>Datos turísticos y de puntos de interés</li>
-      </ul>
+- Geoespaciales y cartográficos
+- Rutas ciclistas e itinerario
+- Datos turísticos y de puntos de interés
     </div>
     <div>
-      <p>
-        <a href="https://datos.gob.es/es/aplicaciones/rutas-ciclistas-por-espana" target="_blank" rel="noopener" style="text-decoration:none"><strong>📖 Fuente</strong></a>
-      </p>
+        <a href="https://datos.gob.es/es/aplicaciones/rutas-ciclistas-por-espana" target="_blank" rel="noopener" style="text-decoration:none">**📖 Fuente**</a>
     </div>
   </div>
 </div>
@@ -1297,11 +1223,9 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-    <ul style="margin:0.5rem 0 0.5rem 0;">
-      <li><a href="https://datos.gob.es/es/conocimiento/innovacion-municipal-traves-de-datos-abiertos-soluciones-para-hacer-mas-accesibles-los" target="_blank" rel="noopener">Innovación municipal a través de datos abiertos: soluciones para hacer más accesibles los servicios municipales</a></li>
-      <li><a href="https://datos.gob.es/es/blog/aplicaciones-de-datos-geograficos-abiertos-del-centro-nacional-de-informacion-geografica" target="_blank" rel="noopener">Aplicaciones de datos geográficos abiertos del Centro Nacional de Información Geográfica</a></li>
-      <li><a href="https://datos.gob.es/es/conocimiento/las-administraciones-publicas-ante-la-reutilizacion-de-la-informacion-publica" target="_blank" rel="noopener">Las Administraciones Públicas ante la reutilización de la información pública</a></li>
-    </ul>
+ - <a href="https://datos.gob.es/es/conocimiento/innovacion-municipal-traves-de-datos-abiertos-soluciones-para-hacer-mas-accesibles-los" target="_blank" rel="noopener">Innovación municipal a través de datos abiertos: soluciones para hacer más accesibles los servicios municipales</a>
+ - <a href="https://datos.gob.es/es/blog/aplicaciones-de-datos-geograficos-abiertos-del-centro-nacional-de-informacion-geografica" target="_blank" rel="noopener">Aplicaciones de datos geográficos abiertos del Centro Nacional de Información Geográfica</a>
+ - <a href="https://datos.gob.es/es/conocimiento/las-administraciones-publicas-ante-la-reutilizacion-de-la-informacion-publica" target="_blank" rel="noopener">Las administraciones públicas ante la reutilización de la información pública</a>
   </div>
 </div>
 
@@ -1454,19 +1378,19 @@ Indica cuáles de las siguientes afirmaciones sobre los datos abiertos son verda
 {{|>}}
 *************************************************************************************************************
 
-> * Los datos se han convertido en un **activo fundamental** para personas, organizaciones y administraciones públicas, siendo el factor diferencial de la revolución tecnológica actual.
-> * Los **datos abiertos** son aquellos que cualquiera puede utilizar, reutilizar y redistribuir libremente, con el único requisito de atribución de la fuente.
-> * Las administraciones públicas están **impulsando políticas de "datos abiertos"** para apoyar el **nuevo modelo de relación administración-ciudadanía** que favorezca a esta última su participación en la toma de decisiones de una forma más directa.
-> * Existen **conceptos clave** diferenciados: dato, conjunto de datos, distribución, metadatos, catálogo, servicio de datos (API) y espacio de datos, cada uno con un rol específico en el ecosistema de datos abiertos.
-> * Los **datos de alto valor (HVD)** abarcan seis categorías definidas por la Comisión Europea: geoespaciales, observación de la Tierra y medio ambiente, meteorológicos, estadísticos, empresariales y movilidad.
-> * Los datos abiertos deben tener en cuenta unos **principios generales** que aseguren que los datos pueden ser fácilmente utilizables, reutilizables y redistribuibles:
->   * **Principios OGD**: completos, primarios, oportunos, accesibles, procesables, no discriminatorios, no propietarios y de licencia libre.
->   * **Principios FAIR**: encontrables, accesibles, interoperables y reutilizables.
-> * Las políticas de datos abiertos tienen **beneficios** para las propias administraciones, para la economía y la ciudadanía:
->   * **Económicos**: impulsan la innovación, crean empleo, generan nuevos productos y servicios, y son especialmente valiosos para PYMEs y startups.
->   * **Sociales**: promueven la transparencia, facilitan el periodismo de datos, mejoran servicios públicos y fomentan la participación ciudadana.
->   * **Para la Administración**: mejoran la reputación institucional, optimizan recursos, generan ahorros económicos y favorecen la colaboración público-privada.
-> * Los datos abiertos son **pieza clave** para nuevos nichos de valor como la **inteligencia artificial** y los **espacios de datos** europeos sectoriales.
+> - Los datos se han convertido en un **activo fundamental** para personas, organizaciones y administraciones públicas, siendo el factor diferencial de la revolución tecnológica actual.
+> - Los **datos abiertos** son aquellos que cualquiera puede utilizar, reutilizar y redistribuir libremente, con el único requisito de atribución de la fuente.
+> - Las administraciones públicas están **impulsando políticas de "datos abiertos"** para apoyar el **nuevo modelo de relación administración-ciudadanía** que favorezca a esta última su participación en la toma de decisiones de una forma más directa.
+> - Existen **conceptos clave** diferenciados: dato, conjunto de datos, distribución, metadatos, catálogo, servicio de datos (API) y espacio de datos, cada uno con un rol específico en el ecosistema de datos abiertos.
+> - Los **datos de alto valor (HVD)** abarcan seis categorías definidas por la Comisión Europea: geoespaciales, observación de la Tierra y medio ambiente, meteorológicos, estadísticos, empresariales y movilidad.
+> - Los datos abiertos deben tener en cuenta unos **principios generales** que aseguren que los datos pueden ser fácilmente utilizables, reutilizables y redistribuibles:
+>   - **Principios OGD**: completos, primarios, oportunos, accesibles, procesables, no discriminatorios, no propietarios y de licencia libre.
+>   - **Principios FAIR**: encontrables, accesibles, interoperables y reutilizables.
+> - Las políticas de datos abiertos tienen **beneficios** para las propias administraciones, para la economía y la ciudadanía:
+>   - **Económicos**: impulsan la innovación, crean empleo, generan nuevos productos y servicios, y son especialmente valiosos para PYMEs y startups.
+>   - **Sociales**: promueven la transparencia, facilitan el periodismo de datos, mejoran servicios públicos y fomentan la participación ciudadana.
+>   - **Para la Administración**: mejoran la reputación institucional, optimizan recursos, generan ahorros económicos y favorecen la colaboración público-privada.
+> - Los datos abiertos son **pieza clave** para nuevos nichos de valor como la **inteligencia artificial** y los **espacios de datos** europeos sectoriales.
 
 *************************************************************************************************************
 
