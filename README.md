@@ -14,7 +14,9 @@ comment:  Unidad 01 - Datos abiertos: conceptos básicos y beneficios. Materiale
   <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_dge_normal.svg" alt="datos.gob.es" width="300">
 </p>
 
-Recursos didácticos abiertos sobre **datos abiertos**, centrados en los conceptos básicos, principios de apertura y beneficios de la reutilización de datos del sector público. Materiales interactivos creados con LiaScript para una experiencia formativa completa.
+Recursos didácticos abiertos sobre **datos abiertos**, centrados en los conceptos básicos, principios de apertura y beneficios de la reutilización de datos del sector público. 
+
+Materiales interactivos creados con LiaScript para una experiencia formativa completa.
 
 [![Abrir en LiaScript](https://img.shields.io/badge/Ver%20curso-Abrir%20en%20LiaScript-brightgreen)](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md)
 [![License: CC-BY 4.0](https://img.shields.io/badge/CC%20BY-4.0-lightgrey?logo=creativecommons)](LICENSE)

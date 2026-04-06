@@ -2,7 +2,7 @@
 module_id: unidad-formativa-01
 author: Equipo gestor de la plataforma datos.gob.es
 email: contacto@datos.gob.es
-date: 26/01/2026
+date: 01/04/2026
 version: 0.1.0.0
 language: es
 narrator: Spanish Female
@@ -33,6 +33,9 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 
 # Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
+<div  class="logo-principal">
+![](https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_conjunto.png)
+</div>
 
 Esta unidad didáctica ofrece una visión general de **qué son los datos abiertos**, los **conceptos clave** relacionados con la apertura de datos, sus **principios fundamentales** y los **beneficios** que aporta la reutilización de la información. 
 
@@ -53,55 +56,41 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
 *************************************************************************************************************
 
 
-<div style="background: #ffffff; border:2px solid rgba(var(--blue-aporta)); margin:2rem 0; overflow:hidden;">
+<div class="presentacion_contenedor">
+  
+  <div class="presentacion_fila">
+    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Título:</span> Datos abiertos: conceptos básicos, principios y beneficios.</div>
+  </div>
 
+  <div class="presentacion_fila">
+    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Descripción:</span> La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.</div>
+  </div>
 
-<table role="presentation" style="width:100%; border-collapse:collapse; table-layout:fixed; border-bottom:2px solid #154481;">
-<tr style="border-bottom:1px solid #e0e7ef;">
-<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">📋</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Título:</strong> Datos abiertos: conceptos básicos, principios y beneficios.</td>
-</tr>
-<tr style="border-bottom:1px solid #e0e7ef;">
-<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">📋</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Descripción:</strong> La unidad ofrece una visión general de qué son los datos abiertos, cómo se usan y qué beneficios aportan en términos de accesibilidad, reutilización, transparencia y valor social y económico.</td>
-</tr>
-<tr style="border-bottom:1px solid #e0e7ef;">
-<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">👥</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Público objetivo:</strong> publicadores y reutilizadores de datos abiertos, así como cualquier persona interesada en esta materia.</td>
-</tr>
-<tr>
-<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🎓</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Conocimientos previos:</strong> no se precisan</td>
-</tr>
-</table>
+  <div class="presentacion_fila">
+    <div class="caja-icono">👥</div><div class="caja-texto"><span class="etiqueta">Público objetivo:</span> publicadores y reutilizadores de datos abiertos, así como cualquier persona interesada en esta materia.</div>
+  </div>
 
-  <div style="display:flex; flex-wrap:wrap; border-bottom:2px solid #154481; padding:1rem 1.25rem;">
-    <div style="flex:1; min-width:300px; border-right:2px solid #154481;">
-      <div style="display:flex; border-bottom:1px solid #e0e7ef;">
-        <div style="width:80px; display:flex; align-items:center; justify-content:center; background:#f8fafc; border-right:1px solid #e0e7ef; padding:0.75rem; flex-shrink:0;">
-          <span style="font-size:1.5em;">🎯</span>
-        </div>
-        <div style="padding:0.75rem 1rem; flex:1;">
-          <p class="subtitulo">Objetivos</p>
-        </div>
-      </div>
-      <div style="padding:1rem">
+  <div class="presentacion_fila">
+    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span> no se precisan</div>
+  </div>
+
+  <div class="presentacion_columna">
+    <div class="columna-mitad borde-derecha">
+      <div class="fila"><div class="caja-icono">🎯</div><div class="caja-texto"><p class="subtitulo">Objetivos</p></div></div>
+      
+      <div  class="lista-contenido">
 - Establecer **conceptos básicos** relacionados con los datos abiertos tomando como referencia el marco legislativo vigente en España.
 - Reconocer los **principios generales** a tener en cuenta para asegurar que los datos abiertos son fácilmente reutilizables.
 - Descubrir los principales **beneficios económicos y sociales** que supone la apertura de datos públicos.
 - Conocer los **aspectos clave ligados al ecosistema de los datos** de cara a asegurar la generación de los beneficios apuntados.
       </div>
+      
     </div>
-    <div style="flex:1; min-width:300px;">
-      <div style="display:flex; border-bottom:1px solid #e0e7ef;">
-        <div style="width:80px; display:flex; align-items:center; justify-content:center; background:#f8fafc; border-right:1px solid #e0e7ef; padding:0.75rem; flex-shrink:0;">
-          <span style="font-size:1.5em;">📑</span>
-        </div>
-        <div style="padding:0.75rem 1rem; flex:1;">
-            <p class="subtitulo">Contenidos</p>
-        </div>
-      </div>
-      <div style="padding:1rem">
+    
+    <div class="">
+      <div class="fila"><div class="caja-icono">📑</div><div class="caja-texto"><p class="subtitulo">Contenidos</p></div></div>
+      
+      <div class="lista-contenido">
 1. Introducción
 2. Conceptos clave
    - Bloque I: conceptos básicos
@@ -115,29 +104,26 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
       </div>
     </div>
   </div>
-<table>
-<tr style="border-bottom:1px solid #e0e7ef;">
- <td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">💡</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Guía de uso:</strong> en el <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/CURSO.md#tutorial" style="font-weight:600;">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</td>
-</tr>
-<tr style="border-bottom:1px solid #e0e7ef;">
-<td style="width:80px; text-align:center; vertical-align:middle; background:#f8fafc; border-right:1px solid #e0e7ef; padding:1rem; font-size:1.8em;">🏷️</td>
-<td style="padding:1rem 1.25rem; vertical-align:middle; line-height:1.6;"><strong style="color:#154481;">Versión de la unidad:</strong> v1.0.1</td>
-</tr>
-</table>
 
-<div style="border-top:2px solid #154481; padding:1.5rem; text-align:center;">
-Empezar el curso o descargar documentación
+  <div class="presentacion_fila">
+    <div class="caja-icono">💡</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en el <a href="https://github.io">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</div>
+  </div>
 
-  <div style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin-bottom:0.5rem;border:none;">
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" class="botones_doc">📄 PDF</a>
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📦 SCORM</a>
-    <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📚 IMS</a>
+  <div class="presentacion_fila">
+    <div class="caja-icono">🏷️</div><div class="caja-texto"><span class="etiqueta">Versión de la unidad:</span> v1.0.1</div>
+  </div>
+
+  <div class="presentacion_fila_fin">
+    Empezar el curso o descargar documentación
+    <div class="contenedor-botones">
+      <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" class="botones_doc">📄 PDF</a>
+      <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📦 SCORM</a>
+      <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📚 IMS</a>
+    </div>
   </div>
 
 </div>
-  
-</div>
+
 
 
 

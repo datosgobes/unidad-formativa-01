@@ -44,6 +44,16 @@ jobs:
         run: |
           liaex -i project/CURSO.md --format ims --output ims-${{ github.event.repository.name }}
 
+      # Step x: Generate an DOCX package.
+      - name: Generate DOCX Package
+        run: |
+          liaex -i project/CURSO.md --format docx --output docx-${{ github.event.repository.name }}
+
+      # Step x: Generate an WEB package.
+      - name: Generate WEB Package
+        run: |
+          liaex -i project/CURSO.md --format web --output web-${{ github.event.repository.name }}
+
       # Step 7: Delete existing 'latest' release and create new one with all assets.
       - name: Delete existing 'latest' release (if any)
         env:
