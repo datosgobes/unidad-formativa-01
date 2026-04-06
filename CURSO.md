@@ -59,7 +59,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
 <div class="presentacion_contenedor">
   
   <div class="presentacion_fila">
-    <div class="caja-icono">📋</div><div class="caja-texto"><span class="etiqueta">Título:</span> Datos abiertos: conceptos básicos, principios y beneficios.</div>
+    <div class="caja-icono">📌</div><div class="caja-texto"><span class="etiqueta">Título:</span> Datos abiertos: conceptos básicos, principios y beneficios.</div>
   </div>
 
   <div class="presentacion_fila">
@@ -71,7 +71,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span> no se precisan</div>
+    <div class="caja-icono">🎓</div><div class="caja-texto"><span class="etiqueta">Conocimientos previos:</span> no se precisan.</div>
   </div>
 
   <div class="presentacion_columna">
@@ -106,7 +106,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">💡</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en el <a href="https://github.io">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</div>
+    <div class="caja-icono">🔍</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en el <a href="https://github.io">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</div>
   </div>
 
   <div class="presentacion_fila">
@@ -114,7 +114,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
   </div>
 
   <div class="presentacion_fila_fin">
-    Empezar el curso o descargar documentación
+    Empieza el curso o descarga la documentación
     <div class="contenedor-botones">
       <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf" target="_blank" rel="noopener" class="botones_doc">📄 PDF</a>
       <a href="https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip" target="_blank" rel="noopener" class="botones_doc">📦 SCORM</a>
@@ -170,7 +170,7 @@ Como punto de partida se definen los conceptos básicos que se manejan al hablar
 <div class="concepto">
 		Dato
 </div>
-**Toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)**
+**Toda representación digital de actos, hechos o información, así como su recopilación, incluso como grabación sonora, visual o audiovisual. 📖 [ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331)**
 
 Los datos pueden ser **estructurados** y **no estructurados**:
 
@@ -181,7 +181,7 @@ Los datos se convierten en **información** cuando se les proporciona un context
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
 - **Dato:** 15°C.  
@@ -195,12 +195,12 @@ Los datos se convierten en **información** cuando se les proporciona un context
   Se interpreta la información, se relaciona con experiencia y se extraen conclusiones útiles.
 	</div>
 </div>
-<center>![Datos, información y conocimiento](media/datos_info_conocimiento.jpg "Figura. Datos, información y conocimiento. Fuente: Shutterstock. Créditos: Anna Frajtova")</center>
+<center>![Datos, información y conocimiento](media/datos_info_conocimiento.jpg "Figura. Datos, información y conocimiento. Fuente: [datos.gob.es](https://datos.gob.es/)")</center>
 
 <div class="concepto">
 		Datos abiertos
 </div>
-**Cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)**
+**Cualquiera es libre de utilizar, reutilizar y redistribuir, con el único límite, en su caso, del requisito de atribución de su fuente o el reconocimiento de su autoría. 📖[ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814)**
 
 Esta definición identifica tres características esenciales:
 
@@ -241,10 +241,10 @@ Las licencias Creative Commons (CC) es el ejemplo más popular para contenidos y
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			El Instituto Geográfico Nacional ofrece información geográfica digital de España reutilizable y gratuita bajo una licencia **CC-BY 4.0.** [📖 Fuente](https://centrodedescargas.cnig.es/CentroDescargas/politica-datos) 
+			El Instituto Geográfico Nacional ofrece información geográfica digital de España reutilizable y gratuita bajo una licencia **CC-BY 4.0.** 📖[ Fuente](https://centrodedescargas.cnig.es/CentroDescargas/politica-datos) 
 	</div>
 </div>
 
@@ -253,32 +253,32 @@ Las licencias Creative Commons (CC) es el ejemplo más popular para contenidos y
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      [La importancia de las licencias en el entorno digital: un enfoque accesible para todos](https://datos.gob.es/es/noticias/licencias-de-uso-asociadas-las-iniciativas-de-datos-abiertos-en-espana)
+      [La importancia de las licencias en el entorno digital: un enfoque accesible para todos.](https://datos.gob.es/es/noticias/licencias-de-uso-asociadas-las-iniciativas-de-datos-abiertos-en-espana)
   </div>
 </div>
 
 <div class="concepto">
 		Datos abiertos gubernamentales o del sector público
 </div>
-**Son datos generados, creados, recolectados, procesados, preservados, mantenidos, diseminados o financiados por un gobierno o una institución pública, y que consideran los requerimientos y restricciones legales que permiten su reutilización -licencia abierta-. Son datos con un gran potencial. [📖 Fuente](https://ideas.repec.org/p/oec/govaaa/22-en.html).**
+**Son datos generados, creados, recolectados, procesados, preservados, mantenidos, diseminados o financiados por un gobierno o una institución pública, y que consideran los requerimientos y restricciones legales que permiten su reutilización -licencia abierta-. Son datos con un gran potencial. 📖[ Fuente](https://ideas.repec.org/p/oec/govaaa/22-en.html).**
 
 Las administraciones públicas son los principales proveedores de datos abiertos. Por esta razón, cuando hablamos de datos abiertos, generalmente se hace referencia a datos oficinales gubernamentales disponibles como abiertos.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			El Instituto Nacional de Estadística (INE) publica datos de población, que actualiza periódicamente. [📖 Fuente](https://www.ine.es/dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735572981/)
+			El Instituto Nacional de Estadística (INE) publica datos de población, que actualiza periódicamente. 📖[ Fuente](https://www.ine.es/dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735572981/)
 	</div>
 </div>
 
 <div class="concepto">
 		Datos abiertos de alto valor (HVD por sus siglas en inglés)
 </div>
-**Datos cuya reutilización está asociada a considerables beneficios para la sociedad, el medio ambiente y la economía, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos. [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%207%3A%20%23a3%2D3%5D,-Art%C3%ADculo%203.ter)**
+**Datos cuya reutilización está asociada a considerables beneficios para la sociedad, el medio ambiente y la economía, en particular debido a su idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de valor añadido y aplicaciones basados en tales conjuntos de datos. 📖[ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%207%3A%20%23a3%2D3%5D,-Art%C3%ADculo%203.ter)**
 
-En enero de 2023, la Comisión Europea define seis categorías para diferenciar los datos de alto valor [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true)
+En enero de 2023, la Comisión Europea define seis categorías para diferenciar los datos de alto valor. 📖[ Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true)
 
 
 <center> ![Categorías temáticas de conjuntos de alto valor](media/tematicas.jpg "Figura. Categorías temáticas de conjuntos de alto valor. Fuente: [datos.gob.es](https://datos.gob.es/)") </center>
@@ -288,16 +288,16 @@ En enero de 2023, la Comisión Europea define seis categorías para diferenciar 
 		ℹ️ Más información
 	</div>
 	<div class="masinfo_contenido">
-      [Europa define los conjuntos de datos de alto valor que el sector público tendrá que abrir como máximo en 2024](https://datos.gob.es/es/noticias/europa-define-los-conjuntos-de-datos-de-alto-valor-que-el-sector-publico-tendra-que-abrir)
+      [Europa define los conjuntos de datos de alto valor que el sector público tendrá que abrir como máximo en 2024.](https://datos.gob.es/es/noticias/europa-define-los-conjuntos-de-datos-de-alto-valor-que-el-sector-publico-tendra-que-abrir)
   </div>
 </div>
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			A través del Catálogo Nacional diferentes organismos publican datos de alto valor (HVD) [📖 Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true) 
+			A través del Catálogo Nacional diferentes organismos publican datos de alto valor (HVD). 📖[ Fuente](https://datos.gob.es/es/catalogo/conjuntos-datos?is_hvd=true) 
 	</div>
 </div>
 
@@ -306,14 +306,14 @@ En enero de 2023, la Comisión Europea define seis categorías para diferenciar 
 </div>
 **Datos que obran en poder de organismos del sector público sujetos a derechos de terceros, pero que bajo ciertas condiciones, se permite su reutilización.**
 
-La **Ley de Gobernanza de Datos (DGA)** establece el marco para este tipo de datos. Norma complementaria de la Directiva de 2019, que rige el ámbito de los datos abiertos. [📖 Fuente](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R0868)
+La **Ley de Gobernanza de Datos (DGA)** establece el marco para este tipo de datos. Norma complementaria de la Directiva de 2019, que rige el ámbito de los datos abiertos. 📖[ Fuente](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32022R0868)
 
 Para los datos protegidos, el acceso está restringido o limitado, principalmente por las siguientes razones:
 
-- **confidencialidad comercial**, incluidos los secretos comerciales, profesionales o empresariales
-- **confidencialidad estadística**
-- **protección de los derechos de propiedad intelectual** de terceros, o
-- **protección de los datos personales**
+- **Confidencialidad comercial**, incluidos los secretos comerciales, profesionales o empresariales.
+- **Confidencialidad estadística**.
+- **Protección de los derechos de propiedad intelectual** de terceros.
+- **Protección de los datos personales**.
 
 
 <div class="aviso_caja">
@@ -348,14 +348,14 @@ Para los datos protegidos, el acceso está restringido o limitado, principalment
 <div class="concepto">
 		Conjunto de datos
 </div>
-**Datos relacionados, convenientemente estructurados y organizados, de forma que puedan ser tratados (procesados) apropiadamente para obtener información. [📖 Fuente](https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf)**
+**Datos relacionados, convenientemente estructurados y organizados, de forma que puedan ser tratados (procesados) apropiadamente para obtener información. 📖[ Fuente](https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf)**
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			La Dirección General de Tráfico (DGT) publica un conjunto de datos en formato XLS con las series históricas de matriculaciones desde 1998 a 2024. [📖 Fuente](https://datos.gob.es/es/catalogo/e00130502-matriculaciones-series-historicas-2024) 
+			La Dirección General de Tráfico (DGT) publica un conjunto de datos en formato XLS con las series históricas de matriculaciones desde 1998 a 2024. 📖[ Fuente](https://datos.gob.es/es/catalogo/e00130502-matriculaciones-series-historicas-2024) 
 	</div>
 </div>
 
@@ -368,10 +368,10 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
-			La Agencia Estatal de Meteorología (AEMET) publica una API de datos meteorológicos que permite que una aplicación consulte la temperatura actual mediante una llamada programada. [📖 Fuente](https://opendata.aemet.es/centrodedescargas/inicio) 
+			La Agencia Estatal de Meteorología (AEMET) publica una API de datos meteorológicos que permite que una aplicación consulte la temperatura actual mediante una llamada programada. 📖[ Fuente](https://opendata.aemet.es/centrodedescargas/inicio) 
 	</div>
 </div>
 
@@ -396,17 +396,17 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 <div class="concepto">
 		Distribución
 </div>
-**Información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. [📖 Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) **
+**Información (datos) en un formato concreto, accesible desde un URL específica. Un conjunto de datos puede disponer de una o múltiples distribuciones. 📖[ Fuente](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380) **
 
 **Cada formato** tiene diferentes peculiaridades. Los más comunes son los siguientes:
-- **CSV**: simple, universal y legible por máquina
-- **XLSX**: familiar para usuarios de Excel
-- **JSON/JSON-LD**: estructurado, ideal para su uso por API
-- **PC-AXIS**: habitual para datos estadísticos
+- **CSV**: simple, universal y legible por máquina.
+- **XLSX**: familiar para usuarios de Excel.
+- **JSON/JSON-LD**: estructurado, ideal para su uso por API.
+- **PC-AXIS**: habitual para datos estadísticos.
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
 			El Instituto Nacional de Estadística publica datos sobre residuos alimentarios por actividad económica. 
@@ -430,7 +430,7 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 
       <div class="ejemplo_caja">
         <div class="ejemplo_titulo">
-          🧭 Ejemplo
+          💡 Ejemplo
         </div>
         <div class="ejemplo_contenido">
             **Población residente por municipio**, que representa una serie temporal con periodicidad anual
@@ -442,8 +442,8 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 - poblacion_2022.json
 
  **Modelado correcto:**
-- 1 dataset: describe la serie temporal completa en diferentes formatos
-- 4 distribuciones: cada una corresponde a un año concreto o a un formato
+- 1 dataset: describe la serie temporal completa en diferentes formatos.
+- 4 distribuciones: cada una corresponde a un año concreto o a un formato.
         </div>
       </div>
   </div>
@@ -454,11 +454,11 @@ A los servicios de datos **se accede principalmente mediante API** (Interfaz de 
 <div class="concepto">
 		Metadatos
 </div>
-**Datos que definen y describen otros datos. Es información estructurada que describe, explica o localiza un conjunto de datos o un servicio de datos, haciendo más sencilla la recuperación de información, utilización o administración de dicho conjunto de datos [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO) **
+**Datos que definen y describen otros datos. Es información estructurada que describe, explica o localiza un conjunto de datos o un servicio de datos, haciendo más sencilla la recuperación de información, utilización o administración de dicho conjunto de datos. 📖[ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO) **
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
 			El Instituto Nacional de Estadística publica los consumos energéticos anualmente. El conjunto de datos cuenta, entre otros, con los siguientes metadatos:
@@ -515,11 +515,11 @@ Dado que el número de portales y repositorios continúa creciendo día a día, 
 <div class="concepto">
 		Espacio de datos
 </div>
-**Es un ecosistema donde materializar la compartición voluntaria de los datos de sus participantes dentro de un entorno de soberanía, confianza y seguridad, establecido mediante mecanismos integrados de gobernanza y técnicos, habilitadores de la generación de valor. [📖 Fuente](https://gaiax-spain.com/espacios-de-datos/)**
+**Es un ecosistema donde materializar la compartición voluntaria de los datos de sus participantes dentro de un entorno de soberanía, confianza y seguridad, establecido mediante mecanismos integrados de gobernanza y técnicos, habilitadores de la generación de valor. 📖[ Fuente](https://gaiax-spain.com/espacios-de-datos/)**
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
 			El Ministerio de Sanidad de España pone en marcha en enero de 2026 el **Espacio nacional de datos de salud**. Se trata de una red de plataformas de organismos públicos y privados, para interactuar e intercambiar datos. Este entorno busca facilitar la personalización de la atención del paciente o impulsar la investigación médica mediante un uso responsable, seguro y útil de la inteligencia artificial.
@@ -548,7 +548,7 @@ Dado que el número de portales y repositorios continúa creciendo día a día, 
 <div class="concepto">
 		Reutilización de la información pública (RISP)
 </div>
-**Uso de documentos que obran en poder de las Administraciones y organismos del sector público, por personas físicas o jurídicas, con fines comerciales o no comerciales [📖 Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo).**
+**Uso de documentos que obran en poder de las Administraciones y organismos del sector público, por personas físicas o jurídicas, con fines comerciales o no comerciales. 📖[ Fuente](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo).**
 
 La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814) sobre la reutilización de la información del sector público en aplicación de la [Directiva Europea 2019/1024.](https://eur-lex.europa.eu/legal-content/ES/ALL/?uri=CELEX%3A32019L1024)
 
@@ -564,7 +564,7 @@ La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.ph
 <div class="concepto">
 		Calidad de datos
 </div>
-**Se entiende como la idoneidad de los datos para servir para múltiples propósitos y para diferentes tipos de usuarios [📖 Fuente](https://datos.gob.es/sites/default/files/documentacion/files/guia_calidad_de_datos_abiertos_1_0.pdf).**
+**Se entiende como la idoneidad de los datos para servir para múltiples propósitos y para diferentes tipos de usuarios. 📖[ Fuente](https://datos.gob.es/sites/default/files/documentacion/files/guia_calidad_de_datos_abiertos_1_0.pdf).**
 
 [La norma ISO/IEC 25012](https://iso25000.com/index.php/normas-iso-25000/iso-25012) establece las características que deben cumplir los datos para considerarse de calidad, las cuales se recogen en la siguiente imagen.
 
@@ -582,15 +582,15 @@ La RISP en España se rige por la [Ley 37/2007](https://www.boe.es/buscar/act.ph
 <div class="concepto">
 		Gobierno abierto (*open Government*)
 </div>
-**Es una doctrina que tiene como objetivo que la ciudadanía colabore en la creación y mejora de servicios públicos y en el robustecimiento de la transparencia y la rendición de cuentas [📖 Fuente](https://es.wikipedia.org/wiki/Gobierno_abierto).**
+**Es una doctrina que tiene como objetivo que la ciudadanía colabore en la creación y mejora de servicios públicos y en el robustecimiento de la transparencia y la rendición de cuentas. 📖[ Fuente](https://es.wikipedia.org/wiki/Gobierno_abierto).**
 
 Se sustenta en tres pilares básicos:
 
-- **Transparencia:** publicación de datos como abiertos para asegurar el seguimiento de políticas públicas
+- **Transparencia:** publicación de datos como abiertos para asegurar el seguimiento de políticas públicas.
 - **Colaboración:** derribo de silos y estructuras piramidales con el fin de trabajar horizontalmente y favorecer la organización de las sociedades.
 - **Participación:** co-diseño de políticas públicas, deliberación con ciudadanos y consulta ciudadana.
 
-<center>![Definición de gobierno abierto](media/gobierno_abierto.png "Figura. Definición de gobierno abierto. Fuente: [Wikipedia](https://es.wikipedia.org/)")</center>
+<center>![Definición de gobierno abierto](media/gobierno_abierto.png "Figura. Definición de gobierno abierto. Fuente: [Wikipedia](https://es.wikipedia.org/).")</center>
 
 <div class="masinfo_caja">
 	<div class="masinfo_titulo">
@@ -621,30 +621,29 @@ https://datos.gob.es/es/catalogo/ea0010587-empleo-por-ramas-de-actividad-cntr201
 
 Si descargamos el fichero <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=67201">aquí</a> obtenemos un fichero xls que contiene los siguientes datos:
 
-<center><img src="media/ejemplo_tabla.png"></center>
+<center>![Ejemplo de tabla de datos](media/ejemplo_tabla.png "Figura. Ejemplo de tabla de datos.")</center>
 
  - **Datos abiertos** dado que se publican asociados a una licencia abierta.
 
-<center><img src="media/ejemplo_licencia.png"></center>
+<center>![Ejemplo de licencia](media/ejemplo_licencia.png "Figura. Ejemplo de licencia.")</center>
 
-[📖 Fuente](https://www.ine.es/dyngs/AYU/index.htm?cid=125)
-
-
- - **Datos abiertos de alto valor.** Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
- 
-<center><img src="media/ejemplo_hvd.png"></center>
+📖[ Fuente](https://www.ine.es/dyngs/AYU/index.htm?cid=125)
  
  - **Conjunto de datos.** Los datos que publica el INE con los datos sobre evolución de empleo, junto con sus correspondientes metadatos, constituye un conjunto de datos.
 
-<center><img src="media/ejemplo_dataset.png"></center>
+<center>![Ejemplo de conjunto de datos](media/ejemplo_dataset.png "Figura. Ejemplo de conjunto de datos.")</center>
+
+ - **Datos abiertos de alto valor.** Se trata de datos estadísticos, esto es, pertenecen a una categoría de las fijadas por la Comisión Europea como de alto valor. En consecuencia, aparecen marcados como tales en el Catálogo nacional.
+ 
+<center>![Ejemplo de conjunto de datos de alto valor](media/ejemplo_hvd.png "Figura. Ejemplo de conjunto de datos de alto valor.")</center>
 
  - **Distribuciones.** La colección de ficheros en diferentes formatos: CSV, XLSX, JSON, etc. se corresponde con las distribuciones.
 
-<center><img src="media/ejemplo_distribuciones.png"></center>
+<center>![Ejemplo de distribuciones](media/ejemplo_distribuciones.png "Figura. Ejemplo de distribuciones.")</center>
 
  - **Metadatos.** Los atributos que definen y describen los metadatos que facilitarán su comprensión y su localización a través de buscadores.
 
-<center><img src="media/ejemplo_metadatos.png"></center>
+<center>![Ejemplo de metadatos](media/ejemplo_metadatos.png "Figura. Ejemplo de metadatos.")</center>
 
 *************************************************************************************************************
 
@@ -658,11 +657,11 @@ Si descargamos el fichero <a href="https://www.ine.es/jaxiT3/Tabla.htm?t=67201">
 Se pueden encontrar listados de definiciones para ampliar los conceptos ligados a datos abiertos en los siguientes documentos oficiales:
 
  - Glosario de términos del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331#:~:text=Subir-,%5BBloque%2056%3A%20%23an%5D,-ANEXO">Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica</a>.
- - Anexo - Definiciones de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo">Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público</a>
- - Anexo I - Glosario de terminología de la <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380">Norma Técnica de Interoperabilidad de reutilización de recursos de información (NTI-RISP)</a>
+ - Anexo - Definiciones de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-19814#:~:text=Subir-,%5BBloque%2030%3A%20%23an%5D,-Anexo">Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público</a>.
+ - Anexo I - Glosario de terminología de la <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2380">Norma Técnica de Interoperabilidad de reutilización de recursos de información (NTI-RISP)</a>.
  - Capítulo 9 - Definiciones y Acrónimos de la <a href="https://administracionelectronica.gob.es/pae_Home/dam/jcr%3A86742046-a129-4c69-96de-9193f2a191c7/Guia_de_aplicacion_RD1495_Publicacion_oficial_2012.pdf">Guía de aplicación de la Norma Técnica de Interoperabilidad de reutilización de recursos de información</a>. Incluye un capítulo 9 de Definiciones y Acrónimos.
- - Anexo V - Definiciones y acrónimos de la <a href="https://datos.gob.es/elearning/Unidades_Didacticas/Unidad_1/contenidos/descargas/04-ref.pdf">Guía de Aplicación del Real Decreto 1495/2011 por el que se desarrolla la Ley 37/2007</a>.
- - <a href="https://www.esmartcity.es/2025/10/17/diccionario-terminos-administracion-electronica-actualiza-11-edicion">Diccionario de conceptos y términos de la Administración Electrónica (edición 11ª)</a>
+ - Anexo V - Definiciones y acrónimos de la <a href="https://datos.gob.es/elearning/Unidades_Didacticas/Unidad_1/contenidos/descargas/04-ref.pdf">Guía de Aplicación del Real Decreto 1495/2011 por el que se desarrolla la Ley 37/2007</a>..
+ - <a href="https://www.esmartcity.es/2025/10/17/diccionario-terminos-administracion-electronica-actualiza-11-edicion">Diccionario de conceptos y términos de la Administración Electrónica (edición 11ª)</a>.
 
 
 *************************************************************************************************************
@@ -675,11 +674,11 @@ Se pueden encontrar listados de definiciones para ampliar los conceptos ligados 
 Consulta el enlace indicado a continuación y marca el concepto al que se refiere el ejemplo de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales1">Principales parques y jardines municipales</a>
 
 - [[Dato] [Conjunto de datos] [Distribución] [Licencia] [Metadatos]]
-- [  ( )        ( )                 (X)          ( )         ( )    ]  **1)** Los datos de parques municipales del Ayuntamiento en CSV
-- [  ( )        (X)                 ( )          ( )         ( )    ]  **2)** Colección descargable con listado de parques, ubicación y características en varios formatos
-- [  (X)        ( )                 ( )          ( )         ( )    ]  **3)** Ubicación de los Jardines Gregorio Ordóñez
-- [  ( )        ( )                 ( )          (X)         ( )    ]  **4)** Condiciones de uso, reutilización y redistribución
-- [  ( )        ( )                 ( )          ( )         (X)    ]  **5)** Fecha de última actualización, creación u otros atributos descriptivos
+- [  ( )        ( )                 (X)          ( )         ( )    ]  **1)** Los datos de parques municipales del Ayuntamiento en CSV.
+- [  ( )        (X)                 ( )          ( )         ( )    ]  **2)** Colección descargable con listado de parques, ubicación y características en varios formatos.
+- [  (X)        ( )                 ( )          ( )         ( )    ]  **3)** Ubicación de los Jardines Gregorio Ordóñez.
+- [  ( )        ( )                 ( )          (X)         ( )    ]  **4)** Condiciones de uso, reutilización y redistribución.
+- [  ( )        ( )                 ( )          ( )         (X)    ]  **5)** Fecha de última actualización, creación u otros atributos descriptivos.
 ***
 <div class="respuestaok_caja">
   <div class="respuestaok_titulo">✅ ¡Excelente!</div>
@@ -729,7 +728,7 @@ En 2007, [una treintena de defensores del gobierno abierto](https://public.resou
 
 <div class="ejemplo_caja">
 	<div class="ejemplo_titulo">
-		🧭 Ejemplo
+		💡 Ejemplo
 	</div>
 	<div class="ejemplo_contenido">
 			En el siguiente esquema se presenta un ejemplo de cómo interpretar los principios básicos referidos, aplicados a **datos sobre accidentes de tráfico**:
@@ -788,7 +787,7 @@ Los datos abiertos deben atender a principios FAIR, lo que se traduce en:
 
 Además de los dos marcos de referencia mencionados, existen otros que también son relevantes. Cabe mencionar los siguientes:
 
-1. Los principios definidos por la **Carta internacional de los Datos Abiertos** (Open Data Charter) que establecen que los datos deben ser:
+1. Los principios definidos por la **Carta internacional de los Datos Abiertos** (*Open Data Charter*) que establecen que los datos deben ser:
 
     - Abiertos por defecto.
     - Oportunos y exhaustivos.
@@ -797,11 +796,11 @@ Además de los dos marcos de referencia mencionados, existen otros que también 
     - Para mejorar la gobernanza y la participación ciudadana.
     - Para el desarrollo incluyente y la innovación.
 
-[📖 Fuente](https://opendatacharter.org/wp-content/uploads/2025/09/Carta_Internacional_de_Datos_Abiertos2015.pdf)
+📖[ Fuente](https://opendatacharter.org/wp-content/uploads/2025/09/Carta_Internacional_de_Datos_Abiertos2015.pdf)
 
 2. Las siete dimensiones relativas a la calidad, incluidas en el informe **Marco de calidad y directrices para las actividades estadísticas de la OCDE** publicado en 2011: pertinencia, precisión, credibilidad, actualidad, accesibilidad, interpretabilidad y coherencia. Este documento, además, establece que la calidad está ampliamente vinculada con las perspectivas, necesidades y prioridades de los reutilizadores.
 
-[📖 Fuente](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=std/qfs%282011%291&doclanguage=en)
+📖[ Fuente](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=std/qfs%282011%291&doclanguage=en)
 
 *************************************************************************************************************
 
@@ -952,11 +951,11 @@ Ejemplos relevantes del potencial económico de los datos abiertos para el tejid
   </div>
 </div>
 
-Estas realidades avalan las cifras que refleja el último Informe de la Asociación Multisectorial de la Información (ASEDIE), que analiza y describe la situación del **sector reutilizador en España**, y establece un **beneficio neto de 146 millones de euros en 2023** para las empresas que reutilizan datos -generalmente datos abiertos procedentes del sector público, pero también de fuentes privadas- [📖 Fuente](https://www.asedie.es/es/informes-anuales).
+Estas realidades avalan las cifras que refleja el último Informe de la Asociación Multisectorial de la Información (ASEDIE), que analiza y describe la situación del **sector reutilizador en España**, y establece un **beneficio neto de 146 millones de euros en 2023** para las empresas que reutilizan datos -generalmente datos abiertos procedentes del sector público, pero también de fuentes privadas-. 📖[ Fuente](https://www.asedie.es/es/informes-anuales).
 
 El siguiente visual resume algunas de las cifras más relevantes con las que concluye el estudio.
 
-<center>![Informe del Sector Infomediario de Asedie](media/informe_asedie.jpg "Figura. Informe del Sector Infomediario de Asedie. Economía del Dato en su ámbito infomediario (2025)")</center>
+<center>![Informe del Sector Infomediario de Asedie](media/informe_asedie.jpg "Figura. Informe del Sector Infomediario de Asedie. Economía del Dato en su ámbito infomediario (2025).")</center>
 
 <div class="masinfo_caja">
 	<div class="masinfo_titulo">
@@ -975,7 +974,7 @@ La Comisión Europea, a través del Portal europeo de datos, ofrece varios ejemp
 - **Disminuyen la necesidad del equivalente a 5,8 millones de toneladas de petróleo.** Las aplicaciones basadas en datos abiertos sirven como una herramienta para ayudar a los hogares a reducir su consumo de energía proporcionándoles informes y sugerencias sobre cómo disminuir su uso.
 - **Ahorran 1.100 millones de euros en gastos de traducción por parte de las administraciones públicas.** Los datos abiertos permiten optimizar los sistemas de traducción automática.
 
-En resumen, los datos abiertos, **impulsan el crecimiento y la eficiencia en todos los sectores**. Contribuyen a la **creación de empleo**, tanto de forma directa como indirecta, facilitan procesos de contratación más inteligentes y **estimulan la innovación** en ámbitos como la planificación urbana y los servicios digitales, tal y como refiere el “Tercer volumen del Observatorio de Casos de Uso” [📖 Fuente](https://data.europa.eu/en/publications/reports/use-case-observatory-0)
+En resumen, los datos abiertos, **impulsan el crecimiento y la eficiencia en todos los sectores**. Contribuyen a la **creación de empleo**, tanto de forma directa como indirecta, facilitan procesos de contratación más inteligentes y **estimulan la innovación** en ámbitos como la planificación urbana y los servicios digitales, tal y como refiere el “Tercer volumen del Observatorio de Casos de Uso”. 📖[ Fuente](https://data.europa.eu/en/publications/reports/use-case-observatory-0)
 
 <div class="aviso_caja">
 	<div class="aviso_titulo">
@@ -1141,9 +1140,9 @@ A continuación se presentan ejemplos que dejan de manifiesto los beneficios que
     </div>
     <div style="margin-bottom:1.5rem;">
       <p class="subtitulo subtitulo_borde">¿Qué datos abiertos utilizan?</p>
-- Sistema de Información de Puntos de Suministros (SIPS) de electricidad y el SIPS de gas natural canalizado
+- Sistema de Información de Puntos de Suministros (SIPS) de electricidad y el SIPS de gas natural canalizado.
 - Relación de edificios e instalaciones de la comunidad autónoma con su ubicación y coordenadas GPS, superficie, etc.
-- Referencias catastrales de los edificios
+- Referencias catastrales de los edificios.
     </div>
     <div>
         <a href="https://energia.jcyl.es/web/es/ahorro-eficiencia-energetica/datahub-energetico-junta-castilla.html" target="_blank" rel="noopener" style="text-decoration:none">**📖 Fuente**</a>
