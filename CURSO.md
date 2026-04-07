@@ -106,7 +106,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">🔍</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en el <a href="https://github.io">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</div>
+    <div class="caja-icono">🔍</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en el <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/main/CURSO.md#1">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</div>
   </div>
 
   <div class="presentacion_fila">
