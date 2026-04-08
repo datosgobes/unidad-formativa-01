@@ -11,18 +11,17 @@ comment:  Unidad 01 - Datos abiertos: conceptos básicos y beneficios. Materiale
 # Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_dge_normal.svg" alt="datos.gob.es" width="300">
+  <img src="https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_dge_normal.svg" alt="datos.gob.es" width="300">
 </p>
 
 Recursos didácticos abiertos sobre **datos abiertos**, centrados en los conceptos básicos, principios de apertura y beneficios de la reutilización de datos del sector público. 
 
-Materiales interactivos creados con LiaScript para una experiencia formativa completa.
 
 [![Abrir en LiaScript](https://img.shields.io/badge/Ver%20curso-Abrir%20en%20LiaScript-brightgreen)](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md)
 [![License: CC-BY 4.0](https://img.shields.io/badge/CC%20BY-4.0-lightgrey?logo=creativecommons)](LICENSE)
 [![Hecho con Markdown](https://img.shields.io/badge/Made%20with-Markdown-blueviolet)](https://spec.commonmark.org/0.31.2/)
 
-## Contenido del curso
+## Contenido de la unidad
 
 Esta unidad formativa aborda:
 
@@ -32,7 +31,7 @@ Esta unidad formativa aborda:
 - Principios de apertura y calidad: **OGD** y **FAIR**
 - Beneficios **económicos**, **sociales** y para la **Administración**
 
-## Ver el curso
+## Ver la unidad
 
 <p align="center" style="font-size: 1.3em;">
   <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md" target="_blank" rel="noopener">▶️ Abrir curso interactivo en LiaScript</a>
@@ -55,40 +54,24 @@ Los materiales están disponibles en múltiples formatos:
 | **SCORM 2004** | Para plataformas LMS | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip) |
 | **IMS** | *Common Cartridge* | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip) |
 
-## Uso y desarrollo
 
-### Ver el curso localmente
+## ¿Cómo usar estos materiales?
 
-```bash
-# Instalar el servidor de desarrollo de LiaScript
-npm install -g @liascript/devserver
+Ver el apartado **[¿Cómo usar estos materiales?](https://github.com/datosgobes/unidad-formativa-00?tab=readme-ov-file#c%C3%B3mo-usar-estos-materiales)** de la Unidad 00 - Materiales formativos datos.gob.es (2026)
 
-# Clonar el repositorio
-git clone https://github.com/datosgobes/unidad-formativa-01.git
-cd unidad-formativa-01
-
-# Iniciar el servidor local
-liascript-devserver --input ./CURSO.md --live
-```
-
-### Editar el contenido
-
-1. El contenido principal está en [CURSO.md](CURSO.md)
-2. Puedes usar el [LiveEditor de LiaScript](https://liascript.github.io/LiveEditor/) para editar en línea
-3. O editar localmente con tu editor preferido y previsualizar con `liascript-devserver`
 
 ## Repositorio central
 
-Este es un repositorio específico de una unidad formativa. Encuentra todas las unidades en:
+Este es el repositorio específico de una unidad formativa. 
 
-**[datosgobes/materiales-formativos](https://github.com/datosgobes/materiales-formativos)**
+Encuentra todas las unidades en: **[Unidades formativas disponibles](https://github.com/datosgobes/unidad-formativa-00?tab=readme-ov-file#c%C3%B3mo-usar-estos-materiales)** de la Unidad 00 - Materiales formativos datos.gob.es (2026)
 
 ## Más información
 
 - [Todos los materiales formativos RISP](https://datos.gob.es/es/conocimiento/materiales-formativos-risp-de-iniciativa-aporta)
 - [Portal datos.gob.es](https://datos.gob.es)
 - [Iniciativa Aporta](https://datos.gob.es/acerca-de-la-iniciativa-aporta)
-- [Documentación LiaScript](https://liascript.github.io/)
+
 
 ## Licencia
 
@@ -109,5 +92,5 @@ Más información en [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/datosgobes/materiales-formativos/refs/heads/main/assets/img/logo_iniciativa-aporta.svg" alt="Iniciativa Aporta" width="200">
+  <img src="https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_iniciativa-aporta.svg" alt="Iniciativa Aporta" width="200">
 </p>

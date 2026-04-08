@@ -2,7 +2,7 @@
 module_id: unidad-formativa-01
 author: Equipo gestor de la plataforma datos.gob.es
 email: contacto@datos.gob.es
-date: 01/04/2026
+date: 09/04/2026
 version: 0.1.0.0
 language: es
 narrator: Spanish Female
@@ -15,16 +15,14 @@ edit: true
 
 repository: https://github.com/datosgobes/unidad-formativa-01
 
-logo:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_dge_square.svg
+logo:     https://cdn.jsdelivr.net/gh/datosgobes/unidad-formativa-00@main/assets/img/logo_dge_square.svg
 
-icon:     https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_conjunto.png
+icon:     https://cdn.jsdelivr.net/gh/datosgobes/unidad-formativa-00@main/assets/img/logo_conjunto.png
 
 dark:   false
 
-script: https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
-
 link: https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap
-      https://raw.githack.com/datosgobes/materiales-formativos/refs/heads/main/assets/css/dge-styles.css
+      https://raw.githack.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/css/dge-styles.css
 
 font: Montserrat
 
@@ -34,7 +32,7 @@ attribute: Iniciativa de datos abiertos del Gobierno de España [CC BY 4.0](http
 # Unidad 01 - Datos abiertos: conceptos básicos y beneficios
 
 <div  class="logo-principal">
-![](https://cdn.jsdelivr.net/gh/datosgobes/materiales-formativos@main/assets/img/logo_conjunto.png)
+![](https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/refs/heads/main/assets/img/logo_conjunto.png)
 </div>
 
 Esta unidad didáctica ofrece una visión general de **qué son los datos abiertos**, los **conceptos clave** relacionados con la apertura de datos, sus **principios fundamentales** y los **beneficios** que aporta la reutilización de la información. 
@@ -106,7 +104,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
   </div>
 
   <div class="presentacion_fila">
-    <div class="caja-icono">🔍</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en el <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/main/CURSO.md#1">Tutorial del curso</a> encontrarás información sobre los recursos disponibles, la estructura global, etc.</div>
+    <div class="caja-icono">🔍</div><div class="caja-texto"><span class="etiqueta">Guía de uso:</span> en la <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-00/main/CURSO.md#1">Unidad 00</a> encontrarás información sobre las funcionalidades de las unidades, la estructura global, como reutilizar los materiales, etc.</div>
   </div>
 
   <div class="presentacion_fila">
