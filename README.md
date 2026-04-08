@@ -50,9 +50,9 @@ Los materiales están disponibles en múltiples formatos:
 | Formato | Descripción | Enlace |
 |---------|-------------|--------|
 | **Online** | Curso interactivo | [Ver en LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/datosgobes/unidad-formativa-01/refs/heads/main/CURSO.md) |
-| **PDF** | Documentación completa | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf) |
-| **SCORM 2004** | Para plataformas LMS | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip) |
-| **IMS** | *Common Cartridge* | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip) |
+| **PDF** | Documento en formato pdf | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/documentation-unidad-formativa-01.pdf) |
+| **SCORM 2004** | Zip en formato SCORM | [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/scorm-unidad-formativa-01.zip) |
+| **IMS** | Zip en formato IMS| [Descargar](https://github.com/datosgobes/unidad-formativa-01/releases/download/latest/ims-unidad-formativa-01.zip) |
 
 
 ## ¿Cómo usar estos materiales?
@@ -64,7 +64,7 @@ Ver el apartado **[¿Cómo usar estos materiales?](https://github.com/datosgobes
 
 Este es el repositorio específico de una unidad formativa. 
 
-Encuentra todas las unidades en: **[Unidades formativas disponibles](https://github.com/datosgobes/unidad-formativa-00?tab=readme-ov-file#c%C3%B3mo-usar-estos-materiales)** de la Unidad 00 - Materiales formativos datos.gob.es (2026)
+Encuentra todas las unidades en: **[Unidades formativas disponibles](https://github.com/datosgobes/unidad-formativa-00?tab=readme-ov-file#unidades-formativas-disponibles)** de la Unidad 00 - Materiales formativos datos.gob.es (2026)
 
 ## Más información
 
