@@ -85,7 +85,7 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
       
     </div>
     
-    <div class="">
+    <div class="columna-mitad">
       <div class="fila"><div class="caja-icono">📑</div><div class="caja-texto"><p class="subtitulo">Contenidos</p></div></div>
       
       <div class="lista-contenido">
@@ -94,11 +94,13 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
    - Bloque I: conceptos básicos
    - Bloque II: conceptos relacionados con la publicación
    - Bloque III: conceptos relacionados con la reutilización
-3. Principios generales de los datos abiertos
-4. Beneficios de los datos abiertos
+3. Principios de apertura de datos
+   - Principios Open Government
+   - Principios FAIRData (OGD)
+4. Beneficios de la reutilización de datos abiertos
    - Beneficios económicos
    - Beneficios sociales
-   - Beneficios para las administraciones públicas
+   - Beneficios para la propia Administración
       </div>
     </div>
   </div>
@@ -669,7 +671,7 @@ Se pueden encontrar listados de definiciones para ampliar los conceptos ligados 
 {{|>}}
 *************************************************************************************************************
 
-Consulta el enlace indicado a continuación y marca el concepto al que se refiere el ejemplo de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales1">Principales parques y jardines municipales</a>
+Consulta el enlace indicado a continuación y marca el concepto al que se refiere el ejemplo de la columna izquierda: <a href="https://datos.gob.es/es/catalogo/l01280796-principales-parques-y-jardines-municipales">Principales parques y jardines municipales</a>
 
 - [[Dato] [Conjunto de datos] [Distribución] [Licencia] [Metadatos]]
 - [  ( )        ( )                 (X)          ( )         ( )    ]  **1)** Los datos de parques municipales del Ayuntamiento en CSV.
@@ -713,7 +715,7 @@ Aunque en la literatura se identifican diversos enfoques, existen **dos marcos d
 {{|>}}
 *************************************************************************************************************
 
-En 2007, [una treintena de defensores del gobierno abierto](https://public.resource.org/open_government_meeting.html) se reunió en California (EE.UU.) para elaborar un documento que recogiera los principios [Open Government Data. Así nacieron los](https://opengovdata.org/) **ocho principios** de los datos abiertos gubernamentales, que son los siguientes:
+En 2007, [una treintena de defensores del gobierno abierto](https://public.resource.org/open_government_meeting.html) se reunió en California (EE.UU.) para elaborar un documento que recogiera los principios [Open Government Data](https://opengovdata.org/). Así nacieron los **ocho principios** de los datos abiertos gubernamentales, que son los siguientes:
 
 1. **Completos:** deben ofrecerse todos los datos disponibles, siempre que no estén sujetos a condiciones de privacidad o seguridad y que su apertura no suponga un riesgo de identificación o individualización de una persona física o de seguridad nacional.
 2. **Primarios:** los datos ofrecidos deben tener el más alto nivel de granularidad, evitando agregaciones o modificaciones.
