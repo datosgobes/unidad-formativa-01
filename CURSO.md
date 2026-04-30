@@ -43,9 +43,17 @@ Para comenzar, te invitamos a ver un breve **vídeo introductorio** que ofrece u
 
 <center>**¡Adelante!**</center>
 
----
+
 
 !?[Vídeo descriptivo de la unidad](https://youtu.be/LAe0MN-A0FQ?si=IqDVUYPjhPmGXI4W)
+
+<center>
+También puedes ver la [versión en inglés](https://www.youtube.com/watch?v=S1Rvfu5mqfc)<!-- style="target: _blank" --> del vídeo
+</center>
+
+ 
+
+---
 
 
 ## Información inicial
